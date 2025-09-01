@@ -1,0 +1,57 @@
+name,barcode,supplier,price
+Office Table,TBL001,Supplier A,150.00
+Work Desk,TBL002,Supplier B,180.00
+Çalışma Masası,TBL003,Supplier C,165.00
+Mesa de Oficina,TBL004,Supplier D,170.00
+Writing Desk,TBL005,Supplier A,190.00
+Study Table,TBL006,Supplier E,145.00
+Gaming Chair,CHR001,Supplier A,250.00
+Office Chair,CHR002,Supplier B,220.00
+Sandalye,CHR003,Supplier C,200.00
+Silla de Oficina,CHR004,Supplier D,240.00
+Computer Chair,CHR005,Supplier A,230.00
+Ergonomic Chair,CHR006,Supplier E,280.00
+Task Chair,CHR007,Supplier F,210.00
+Laptop Computer,PC001,Supplier A,800.00
+Desktop PC,PC002,Supplier B,750.00
+Bilgisayar,PC003,Supplier C,820.00
+Ordenador,PC004,Supplier D,790.00
+Computer System,PC005,Supplier E,850.00
+Workstation,PC006,Supplier F,900.00
+LED Lamp,LMP001,Supplier A,45.00
+Table Lamp,LMP002,Supplier B,50.00
+Desk Light,LMP003,Supplier C,42.00
+Masa Lambası,LMP004,Supplier D,48.00
+Reading Light,LMP005,Supplier E,55.00
+Study Lamp,LMP006,Supplier F,40.00
+Monitor Screen,MON001,Supplier A,300.00
+Computer Display,MON002,Supplier B,320.00
+LCD Monitor,MON003,Supplier C,280.00
+Ekran,MON004,Supplier D,310.00
+Display Screen,MON005,Supplier E,290.00
+Coffee Cup,CUP001,Supplier A,12.00
+Mug,CUP002,Supplier B,15.00
+Fincan,CUP003,Supplier C,10.00
+Taza,CUP004,Supplier D,13.00
+Tea Cup,CUP005,Supplier E,11.00
+Drinking Mug,CUP006,Supplier F,14.00
+Notebook,BOOK001,Supplier A,8.00
+Journal,BOOK002,Supplier B,10.00
+Kitap,BOOK003,Supplier C,7.00
+Cuaderno,BOOK004,Supplier D,9.00
+Writing Pad,BOOK005,Supplier E,8.50
+Storage Cabinet,CAB001,Supplier A,180.00
+File Cabinet,CAB002,Supplier B,200.00
+Dolap,CAB003,Supplier C,190.00
+Armario,CAB004,Supplier D,210.00
+Office Cabinet,CAB005,Supplier E,185.00
+Bookshelf,SHF001,Supplier A,120.00
+Book Rack,SHF002,Supplier B,110.00
+Kitap Rafı,SHF003,Supplier C,115.00
+Estantería,SHF004,Supplier D,125.00
+Library Shelf,SHF005,Supplier E,130.00
+Computer Mouse,MSE001,Supplier A,25.00
+Wireless Mouse,MSE002,Supplier B,30.00
+Fare,MSE003,Supplier C,22.00
+Ratón,MSE004,Supplier D,28.00
+Optical Mouse,MSE005,Supplier E,26.00
