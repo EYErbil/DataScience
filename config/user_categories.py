@@ -7,10 +7,9 @@ The system will learn from your data what belongs to each category.
 # Define ONLY your main category names here
 # The system will learn from your data what items belong to each category
 MAIN_CATEGORIES = [
-    'Tables',
-    'Chairs', 
-    'Computers',
-    'Office_Supplies'
+    'Furniture',     # Office furniture: desks, chairs, tables, cabinets, etc.
+    'Technology',    # IT equipment: computers, monitors, phones, tablets, etc.
+    'Services'       # Digital services: software, internet, mobile plans, subscriptions, etc.
 ]
 
 # You can add more categories as needed:
