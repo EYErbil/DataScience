@@ -629,3 +629,6 @@ class AutoClusterMapper:
         ]
         
         return '\n'.join(explanation)
+
+# Enhanced alias for the enhanced pipeline
+EnhancedClusterMapper = AutoClusterMapper

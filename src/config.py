@@ -31,9 +31,9 @@ N_JOBS = None
 # ═══════════════════════════════════════════════════════════════
 # EMBEDDING SETTINGS
 # ═══════════════════════════════════════════════════════════════
-# Primary embedding model (falls back to TF-IDF if download fails)
-EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-EMBEDDING_FALLBACK = "all-MiniLM-L6-v2"
+# Primary embedding model - upgraded to richer model (falls back to TF-IDF if download fails)
+EMBEDDING_MODEL = "intfloat/multilingual-e5-large"  # State-of-the-art multilingual embeddings
+EMBEDDING_FALLBACK = "sentence-transformers/all-mpnet-base-v2"  # Stronger fallback than MiniLM
 
 # Batch size for embedding generation
 EMBEDDING_BATCH_SIZE = 512
@@ -45,19 +45,25 @@ TFIDF_MAX_DF = 0.7
 TFIDF_MIN_DF = 2
 
 # ═══════════════════════════════════════════════════════════════
-# CLUSTERING SETTINGS
+# CLUSTERING SETTINGS (Enhanced)
 # ═══════════════════════════════════════════════════════════════
 # Clustering algorithm: 'faiss_kmeans', 'hdbscan', 'agglomerative'
 CLUSTERING_METHOD = "faiss_kmeans"
 
-# Similarity threshold for clustering (0.0 - 1.0)
-SIMILARITY_THRESHOLD = 0.4
+# Similarity threshold for clustering (0.0 - 1.0) - tighter for better quality
+SIMILARITY_THRESHOLD = 0.6
 
-# Minimum cluster size
-MIN_CLUSTER_SIZE = 2
+# Minimum cluster size - adaptive based on dataset size
+MIN_CLUSTER_SIZE = 3
 
 # Maximum number of clusters (auto if None)
 MAX_CLUSTERS = None
+
+# Advanced clustering parameters
+CLUSTERING_ITERATIONS = 100  # More iterations for better convergence
+CLUSTERING_INIT_METHOD = "kmeans++"  # Better initialization
+USE_HIERARCHICAL_REFINEMENT = True  # Post-process with hierarchical clustering
+DENSITY_THRESHOLD = 0.05  # For density-based noise filtering
 
 # ═══════════════════════════════════════════════════════════════
 # CATEGORY ASSIGNMENT SETTINGS
