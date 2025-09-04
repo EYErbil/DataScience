@@ -126,7 +126,8 @@ class TextNormalizer:
             'chr': 'chair',
             'bk': 'book',
             'comp': 'computer',
-            'pc': 'piece',
+            # In this domain 'pc' overwhelmingly refers to computers
+            'pc': 'computer',
             'set': 'set',
             'lg': 'large',
             'sm': 'small',

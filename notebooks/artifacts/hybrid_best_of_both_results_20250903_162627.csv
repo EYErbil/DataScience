@@ -1,0 +1,1051 @@
+name,barcode,normalized_name,cluster_id,true_category,predicted_category,confidence,method_used,approach2_prediction,approach2_confidence,approach4_prediction,approach4_confidence
+Dell UltraSharp,BC824230874,dell ultrasharp,8,,Technology,0.911015510559082,zeroshot_high_conf,Services,0.7790585252216248,Technology,0.911015510559082
+stuhl,BC971763327,stuhl,19,Furniture,Technology,0.6928627922329365,semantic_conf,Technology,0.769847546925485,Furniture,0.5108627557754516
+executive chair,BC663052341,executive chair,19,Furniture,Furniture,0.8202701210975647,zeroshot_high_conf,Technology,0.7620928634309171,Furniture,0.8202701210975647
+Global szafa,BC922172936,global szafa,16,,Technology,0.6886201375098171,semantic_conf,Technology,0.765133486122019,Services,0.5326372861862182
+service agreement,BC173512612,service agreement,15,Services,Services,0.9744166135787964,zeroshot_high_conf,Furniture,0.7628249497409451,Services,0.9744166135787964
+office sofa,BC182894551,office sofa,5,Furniture,Furniture,0.9846997857093811,zeroshot_high_conf,Technology,0.7742960075414633,Furniture,0.9846997857093811
+executive standing desk,BC369183038,executive standing desk,3,Furniture,Furniture,0.7002100288867951,zeroshot_fallback,Technology,0.7658986356105127,Furniture,0.77801114320755
+Lounge Seating LS-200,BC481882460,lounge seating ls-200,5,,Furniture,0.908184289932251,zeroshot_high_conf,Technology,0.7487176279104208,Furniture,0.908184289932251
+OneDrive storage basic,BC889546822,onedrive storage basic,17,,Technology,0.8937332630157471,zeroshot_high_conf,Furniture,0.7487394822144471,Technology,0.8937332630157471
+Global archivador,BC358085454,global archivador,2,,Services,0.6673393409496134,semantic_conf,Services,0.7414881566106816,Technology,0.5856609821319579
+стул Model Pro-918,BC196201527,стул model pro-918,1,,Technology,0.8618922039857378,agreement,Technology,0.7805024738481213,Technology,0.5454855322837829
+IKEA leather Desk Model D-100,BC626061386,ikea leather desk model d-100,1,,Furniture,0.9823142886161804,zeroshot_high_conf,Technology,0.7745988125970532,Furniture,0.9823142886161804
+deks,BC498786278,deks,3,Furniture,Technology,0.6768265759568559,semantic_conf,Technology,0.752029528840951,Furniture,0.6118680834770203
+internet service,BC902813840,internet service,7,Services,Furniture,0.7114915758046414,semantic_conf,Furniture,0.7905461953384905,Services,0.7002559900283813
+schrank,BC140519046,schrank,16,Furniture,Technology,0.6899137669176998,semantic_conf,Technology,0.7665708521307776,Furniture,0.549790745973587
+printer - Refurbished,BC805315791,printer - refurbished,8,,Services,0.7032340132508387,semantic_conf,Services,0.7813711258342652,Technology,0.7092713356018067
+compter,BC883749478,compter,21,Technology,Services,0.6626756792692171,semantic_conf,Services,0.7363063102991301,Technology,0.7117092847824097
+ASUS PB278Q wireless,BC158119446,asus pb278q wireless,8,,Technology,0.9297643303871155,zeroshot_high_conf,Services,0.7670919987132935,Technology,0.9297643303871155
+all-in-one printer compact,BC991091361,all-in-one printer compact,18,Technology,Technology,0.8327999114990234,zeroshot_high_conf,Services,0.7567938356859156,Technology,0.8327999114990234
+broadband monthly,BC414064734,broadband monthly,6,Services,Furniture,0.6802916088423631,semantic_conf,Furniture,0.7558795653804034,Technology,0.5539233684539795
+stuhl,BC444342661,stuhl,19,Furniture,Technology,0.6928627922329365,semantic_conf,Technology,0.769847546925485,Furniture,0.5108627557754516
+gabinete,BC141351917,gabinete,2,Furniture,Services,0.6771800976043528,semantic_conf,Services,0.7524223306715031,Furniture,0.7236914038658142
+secondary display certified,BC574460059,secondary display certified,9,Technology,Services,0.6504967160770561,semantic_conf,Services,0.7227741289745068,Technology,0.5384650945663452
+SSH client limited,BC534722381,ssh client limited,17,,Furniture,0.6753214906904664,semantic_conf,Furniture,0.750357211878296,Technology,0.6349580526351929
+Anti virus,BC982169157,anti virus,17,,Furniture,0.6783123146746125,semantic_conf,Furniture,0.7536803496384583,Technology,0.6485775232315063
+biurko,BC108809073,biurko,3,Furniture,Technology,0.8381608786244906,agreement,Technology,0.7544976975764551,Technology,0.5349805772304534
+의자,BC374811907,의자,2,Furniture,Services,0.6648085694557017,semantic_conf,Services,0.738676188284113,Furniture,0.5232390701770783
+ITIL support,BC958416162,itil support,13,,Furniture,0.6947551174195209,semantic_conf,Furniture,0.7719501304661343,Technology,0.7588571906089783
+Allsteel archivador,BC699299989,allsteel archivador,2,,Services,0.6688592415099924,semantic_conf,Services,0.7431769350111027,Technology,0.6506096363067627
+QHD Display certified,BC946711815,qhd display certified,9,,Technology,0.9397377967834473,zeroshot_high_conf,Services,0.720792810977528,Technology,0.9397377967834473
+schrank,BC279701810,schrank,16,Furniture,Technology,0.6899137669176998,semantic_conf,Technology,0.7665708521307776,Furniture,0.549790745973587
+fiber internet,BC899484915,fiber internet,7,Services,Technology,0.8222059011459351,zeroshot_high_conf,Furniture,0.7722305820686846,Technology,0.8222059011459351
+HON table,BC450932787,hon table,10,,Furniture,0.9229129552841187,zeroshot_high_conf,Technology,0.7738169720332307,Furniture,0.9229129552841187
+work desk,BC364982130,work desk,3,Furniture,Furniture,0.8208921551704407,zeroshot_high_conf,Technology,0.7830462362613001,Furniture,0.8208921551704407
+WiFi printer,BC575625690,wifi printer,18,,Technology,0.937508225440979,zeroshot_high_conf,Services,0.7690247683984706,Technology,0.937508225440979
+стол,BC227117388,стол,19,Furniture,Technology,0.6945693208965718,semantic_conf,Technology,0.7717436898850797,Services,0.5295500457286835
+HP OfficeJet,BC718494872,hp officejet,18,,Services,0.6872543504174949,semantic_conf,Services,0.7636159449083277,Technology,0.7166809439659119
+소파 Model B-588,BC165176331,소파 model b-588,1,,Technology,0.6961225350532445,semantic_conf,Technology,0.7734694833924939,Furniture,0.6490426540374755
+Executive Table EX-200,BC107057729,executive table ex-200,10,,Furniture,0.8695217967033386,zeroshot_high_conf,Technology,0.7441758206050081,Furniture,0.8695217967033386
+chiar,BC888448988,chiar,21,Furniture,Services,0.6534893279699312,semantic_conf,Services,0.7260992532999235,Furniture,0.5226932883262634
+cabnit Model A-402,BC516032315,cabnit model a-402,1,,Technology,0.699215175691596,semantic_conf,Technology,0.7769057507684399,Furniture,0.5611855745315552
+sofa,BC959106271,sofa,11,Furniture,Furniture,0.9888992309570312,zeroshot_high_conf,Technology,0.7904008043312989,Furniture,0.9888992309570312
+ultrawide monitor,BC899283454,ultrawide monitor,12,Technology,Technology,0.9337177872657776,zeroshot_high_conf,Services,0.779195250322815,Technology,0.9337177872657776
+Herman Miller Chair Model C-300,BC348215410,herman miller chair model c-300,14,,Furniture,0.9692318439483643,zeroshot_high_conf,Technology,0.7627009679859177,Furniture,0.9692318439483643
+divan,BC134077472,divan,11,Furniture,Furniture,0.9006837606430054,zeroshot_high_conf,Technology,0.7780407083535157,Furniture,0.9006837606430054
+technical support,BC122927426,technical support,13,Services,Furniture,0.7129495604069629,semantic_conf,Furniture,0.7921661782299587,Technology,0.6817430257797241
+iCloud storage,BC683247918,icloud storage,7,,Technology,0.8555589914321899,zeroshot_high_conf,Furniture,0.7630167768700151,Technology,0.8555589914321899
+szafa,BC140127441,szafa,16,Furniture,Technology,0.6806066089243832,semantic_conf,Technology,0.7562295654715369,Services,0.540478491783142
+Used szafa,BC594318319,used szafa,16,,Technology,0.6859850817294064,semantic_conf,Technology,0.7622056463660071,Services,0.5305933713912964
+Reception Sofa RS-100 Model A-541,BC232654592,reception sofa rs-100 model a-541,5,,Furniture,0.9879193902015686,zeroshot_high_conf,Technology,0.7465738872564291,Furniture,0.9879193902015686
+chrome book - Refurbished,BC481584364,chrome book - refurbished,8,,Services,0.8807868242433681,agreement,Services,0.7783180567195801,Services,0.5767385959625244
+HON table,BC898302819,hon table,10,,Furniture,0.9229129552841187,zeroshot_high_conf,Technology,0.7738169720332307,Furniture,0.9229129552841187
+phone support monthly,BC269702658,phone support monthly,13,Services,Services,0.7176834404468536,zeroshot_fallback,Furniture,0.7635710883175442,Services,0.7974260449409485
+security software volume license,BC406998453,security software volume license,15,Services,Furniture,0.6906313214775134,semantic_conf,Furniture,0.7673681349750149,Technology,0.6861658692359924
+Teknion divan,BC137219006,teknion divan,21,,Furniture,0.854448139667511,zeroshot_high_conf,Services,0.743781269195767,Furniture,0.854448139667511
+monitr professional,BC768986243,monitr professional,21,Technology,Services,0.6643152599958406,semantic_conf,Services,0.7381280666620451,Technology,0.501680302619934
+software support,BC674420474,software support,13,Services,Furniture,0.7146711630852618,semantic_conf,Furniture,0.7940790700947353,Services,0.6707435846328735
+compact bench,BC142400500,compact bench,16,Furniture,Furniture,0.90435791015625,zeroshot_high_conf,Technology,0.766883359283335,Furniture,0.90435791015625
+SAP,BC963589906,sap,20,,Technology,0.6926486134529114,zeroshot_fallback,Services,0.7298471541480126,Technology,0.7696095705032349
+Kimball 캐비넷,BC635413025,kimball 캐비넷,2,,Services,0.795700297187835,agreement,Services,0.7317032793104191,Services,0.4924510240554809
+NOC service subscription,BC252728624,noc service subscription,7,,Services,0.9212248921394348,zeroshot_high_conf,Furniture,0.7583136723740129,Services,0.9212248921394348
+Teknion chiar,BC384528891,teknion chiar,21,,Technology,0.8946707844734192,zeroshot_high_conf,Services,0.7545982605249602,Technology,0.8946707844734192
+VPN client,BC823310328,vpn client,17,,Technology,0.8153396844863892,zeroshot_high_conf,Furniture,0.7537460935616456,Technology,0.8153396844863892
+Kimball storage unit,BC124425601,kimball storage unit,16,,Technology,0.688002532062048,semantic_conf,Technology,0.76444725784672,Services,0.5541329383850098
+plastic soffa,BC382372922,plastic soffa,11,Furniture,Technology,0.6826536845419373,semantic_conf,Technology,0.7585040939354859,Furniture,0.7535392642021179
+mesh skrivbord,BC875936087,mesh skrivbord,8,Furniture,Services,0.6931632839951624,semantic_conf,Services,0.7701814266612915,Furniture,0.49468399286270137
+canapé,BC142683817,canape,19,Furniture,Technology,0.6872660412582813,semantic_conf,Technology,0.7636289347314237,Services,0.5924786210060119
+bildschirm,BC147143794,bildschirm,12,Technology,Services,0.8084733109799599,agreement,Services,0.7497149718308411,Services,0.49409012198448177
+Aeron chair,BC512410679,aeron chair,14,,Furniture,0.9250553250312805,zeroshot_high_conf,Technology,0.7829634477680222,Furniture,0.9250553250312805
+ERP system,BC492203150,erp system,4,,Technology,0.7038241982460022,zeroshot_fallback,Furniture,0.7664326638282251,Technology,0.7820268869400024
+PRI line business,BC391286241,pri line business,4,,Furniture,0.6764188537270646,semantic_conf,Furniture,0.7515765041411828,Technology,0.5333551228046417
+fax machine gaming,BC985116006,fax machine gaming,9,Technology,Services,0.6613891668865348,semantic_conf,Services,0.7348768520961498,Technology,0.6880964756011962
+bureau,BC438395096,bureau,19,Furniture,Technology,0.6866366340908466,semantic_conf,Technology,0.762929593434274,Furniture,0.6253193378448486
+bureau,BC508423654,bureau,19,Furniture,Technology,0.6866366340908466,semantic_conf,Technology,0.762929593434274,Furniture,0.6253193378448486
+SSH client,BC267494290,ssh client,17,,Furniture,0.6768297504637207,semantic_conf,Furniture,0.7520330560708008,Technology,0.6101025342941284
+white counch,BC513746107,white counch,19,Furniture,Technology,0.6779389276298938,semantic_conf,Technology,0.7532654751443265,Furniture,0.7153310179710388
+NOC service,BC255270986,noc service,7,,Services,0.9611108899116516,zeroshot_high_conf,Furniture,0.7755143211586504,Services,0.9611108899116516
+metal Steelcase storage Model A-378,BC300388921,metal steelcase storage model a-378,1,,Technology,0.697032876792899,semantic_conf,Technology,0.7744809742143323,Furniture,0.6524931788444519
+biurko - Refurbished,BC921584159,biurko - refurbished,8,,Services,0.7018175923142542,semantic_conf,Services,0.7797973247936157,Furniture,0.5151843309402465
+ink jet gaming,BC422544802,ink jet gaming,8,Technology,Services,0.6904124104294885,semantic_conf,Services,0.7671249004772095,Technology,0.6260808706283569
+B&W printer wireless Gen 2,BC294995530,bw printer wireless gen 2,18,,Technology,0.9109802842140198,zeroshot_high_conf,Services,0.7516857772333094,Technology,0.9109802842140198
+glass divan,BC158569033,glass divan,11,Furniture,Furniture,0.9118666052818298,zeroshot_high_conf,Technology,0.7560213816666566,Furniture,0.9118666052818298
+Knoll office sofa,BC719080517,knoll office sofa,5,,Furniture,0.9848794937133789,zeroshot_high_conf,Technology,0.7644846061742758,Furniture,0.9848794937133789
+cell phone plan business,BC742827694,cell phone plan business,4,Services,Furniture,0.6862832674653153,semantic_conf,Furniture,0.7625369638503503,Technology,0.7605301141738892
+خدمة الإنترنت,BC840580333,خدمة الانترنت,7,Services,Furniture,0.6888282507333066,semantic_conf,Furniture,0.7653647230370073,Services,0.4860521793365478
+ink jet,BC305746804,ink jet,18,Technology,Services,0.6724283327993157,semantic_conf,Services,0.7471425919992396,Technology,0.6834354996681213
+business internet monthly,BC226222619,business internet monthly,6,Services,Furniture,0.6809066930136582,semantic_conf,Furniture,0.756562992237398,Services,0.4928754329681396
+4k monitor Plus,BC191597206,4k monitor plus,12,,Technology,0.9133533835411072,zeroshot_high_conf,Services,0.7710797203087769,Technology,0.9133533835411072
+printer Plus,BC447549695,printer plus,18,,Services,0.6935627450879814,semantic_conf,Services,0.7706252723199793,Technology,0.6015705466270447
+medium loveseat,BC924790131,medium loveseat,5,Furniture,Furniture,0.9548701047897339,zeroshot_high_conf,Technology,0.7474540094411826,Furniture,0.9548701047897339
+fabric conference chair,BC186138889,fabric conference chair,14,Furniture,Furniture,0.7102679908275604,zeroshot_fallback,Technology,0.7686366369312302,Furniture,0.7891866564750671
+divan,BC247382533,divan,11,Furniture,Furniture,0.9006837606430054,zeroshot_high_conf,Technology,0.7780407083535157,Furniture,0.9006837606430054
+Adobe Creative Suite basic subscription,BC353366389,adobe creative suite basic subscription,6,,Furniture,0.6889492431006333,semantic_conf,Furniture,0.7654991590007036,Technology,0.6059291362762451
+Allsteel Workstation WS-Pro,BC303770248,allsteel workstation ws-pro,8,,Services,0.6990126454148401,semantic_conf,Services,0.7766807171276001,Furniture,0.6264194726943969
+Herman Miller large HON table,BC191352864,herman miller large hon table,14,,Furniture,0.9413316249847412,zeroshot_high_conf,Technology,0.751328699785997,Furniture,0.9413316249847412
+Brother MFC certified,BC523216102,brother mfc certified,9,,Services,0.6446751423427727,semantic_conf,Services,0.7163057137141918,Furniture,0.5808688402175903
+Office Software per device package,BC248294102,office software per device package,17,,Furniture,0.6823612701151337,semantic_conf,Furniture,0.7581791890168152,Technology,0.6489540338516235
+Adobe Creative Suite,BC475505122,adobe creative suite,6,,Furniture,0.6852977910361191,semantic_conf,Furniture,0.7614419900401324,Technology,0.6318116784095764
+HP OfficeJet backlit Plus,BC446389157,hp officejet backlit plus,8,,Services,0.6851662241730798,semantic_conf,Services,0.7612958046367554,Technology,0.7185909748077393
+NOC service premium,BC459048149,noc service premium,7,,Services,0.9114088416099548,zeroshot_high_conf,Furniture,0.762241141627553,Services,0.9114088416099548
+MSP service limited,BC586155117,msp service limited,7,,Services,0.8997610807418823,zeroshot_high_conf,Furniture,0.7595091627342729,Services,0.8997610807418823
+standing desk,BC301864129,standing desk,3,Furniture,Furniture,0.836651623249054,zeroshot_high_conf,Technology,0.777161946519784,Furniture,0.836651623249054
+skrivbord,BC400855850,skrivbord,10,Furniture,Technology,0.6619209847355321,semantic_conf,Technology,0.7354677608172578,Furniture,0.5232302665710449
+キャビネット Model Pro-175,BC854677179,キャヒネット model pro-175,1,,Technology,0.6879585881862553,semantic_conf,Technology,0.7643984313180615,Furniture,0.5063358306884765
+surface pro backlit v3,BC389046078,surface pro backlit v3,8,Technology,Services,0.6919570946011652,semantic_conf,Services,0.7688412162235169,Technology,0.6942078351974487
+Box subscription,BC405669440,box subscription,6,,Furniture,0.6780103900751969,semantic_conf,Furniture,0.7533448778613299,Services,0.653365433216095
+TAASK CHAIR,BC267618731,taask chair,14,,Furniture,0.8410381078720093,zeroshot_high_conf,Technology,0.7743956973140732,Furniture,0.8410381078720093
+curved monitor,BC607692567,curved monitor,12,Technology,Technology,0.8797231316566467,zeroshot_high_conf,Services,0.7551781547570191,Technology,0.8797231316566467
+chaise,BC200889109,chaise,19,Furniture,Furniture,0.9544678926467896,zeroshot_high_conf,Technology,0.779095147957742,Furniture,0.9544678926467896
+HON compact escritorio,BC338462628,hon compact escritorio,14,,Technology,0.8775734987348757,agreement,Technology,0.7619399358814255,Technology,0.5881731390953063
+소프트웨어 professional package,BC113107987,소프트웨어 professional package,6,Services,Furniture,0.662447462352266,semantic_conf,Furniture,0.7360527359469622,Services,0.6753463268280029
+support contract professional,BC155094221,support contract professional,13,Services,Services,0.691469943523407,zeroshot_fallback,Furniture,0.7680786895786831,Services,0.76829993724823
+Kimball Lounge Seating LS-200,BC867658814,kimball lounge seating ls-200,5,,Furniture,0.9570173621177673,zeroshot_high_conf,Technology,0.7431654552495932,Furniture,0.9570173621177673
+wardrobe Model B-795,BC214949614,wardrobe model b-795,1,,Technology,0.7044082542095098,semantic_conf,Technology,0.7826758380105664,Furniture,0.5550673484802245
+шкаф,BC862022549,шкаф,16,Furniture,Technology,0.6944585555167141,semantic_conf,Technology,0.7716206172407934,Services,0.5354527592658996
+soporte técnico,BC838066391,soporte tecnico,13,Services,Technology,0.9370502233505249,zeroshot_high_conf,Furniture,0.7768362212215969,Technology,0.9370502233505249
+data plan,BC363841612,data plan,7,Services,Furniture,0.695224890080383,semantic_conf,Furniture,0.7724721000893144,Services,0.5783437013626098
+Ricoh Aficio energy efficient,BC425717549,ricoh aficio energy efficient,8,,Services,0.6857548617634882,semantic_conf,Services,0.7619498464038758,Technology,0.7318025231361389
+Steelcase small шкаф,BC797468922,steelcase small шкаф,16,,Furniture,0.8781026005744934,zeroshot_high_conf,Technology,0.7682978371084997,Furniture,0.8781026005744934
+glass locker - Refurbished,BC815120513,glass locker - refurbished,8,,Services,0.8541472405365123,agreement,Services,0.7701110335758118,Services,0.5439616441726685
+SOC service,BC580499237,soc service,7,,Services,0.965750515460968,zeroshot_high_conf,Furniture,0.7766124771339922,Services,0.965750515460968
+backup software volume license,BC144219109,backup software volume license,15,Services,Furniture,0.6898474190708209,semantic_conf,Furniture,0.7664971323009121,Technology,0.6228315353393554
+setee,BC689269569,setee,19,Furniture,Furniture,0.979966402053833,zeroshot_high_conf,Technology,0.7601946343087552,Furniture,0.979966402053833
+Teknion HON table,BC416130770,teknion hon table,10,,Technology,0.6859767517948583,semantic_conf,Technology,0.7621963908831758,Furniture,0.7441781759262085
+brown wardrobe Model A-959,BC265268660,brown wardrobe model a-959,1,,Technology,0.6972500284347447,semantic_conf,Technology,0.774722253816383,Furniture,0.6165825605392455
+abonnement internet,BC887334437,abonnement internet,17,Services,Furniture,0.6820943903181519,semantic_conf,Furniture,0.7578826559090577,Technology,0.5310981273651123
+HP EliteDesk gaming,BC880725278,hp elitedesk gaming,8,,Services,0.6977719091687311,semantic_conf,Services,0.7753021212985901,Technology,0.6499843597412109
+Steelcase Executive Seat EX-400,BC203354415,steelcase executive seat ex-400,1,,Furniture,0.9773851633071899,zeroshot_high_conf,Technology,0.7779575939347912,Furniture,0.9773851633071899
+HON mesh wardrobe,BC115810687,hon mesh wardrobe,2,,Services,0.6718384247070139,semantic_conf,Services,0.7464871385633488,Furniture,0.5071325540542603
+curved monitor backlit,BC937332060,curved monitor backlit,12,Technology,Technology,0.9068604111671448,zeroshot_high_conf,Services,0.7554892910027466,Technology,0.9068604111671448
+HON filing cabinet,BC540024260,hon filing cabinet,16,,Technology,0.8192500747785793,agreement,Technology,0.7730799773634741,Technology,0.48730475306510923
+компьютер 2024,BC928096889,компьютер 2024,9,Technology,Services,0.8030084748662205,agreement,Services,0.7318122792850231,Services,0.5035853743553161
+SOFÁ,BC921879587,sofa,11,,Technology,0.7113607238981691,semantic_conf,Technology,0.7904008043312989,Services,0.4854444622993469
+help desk standard agreement,BC804105516,help desk standard agreement,15,Services,Services,0.8153088092803955,zeroshot_high_conf,Furniture,0.7557796211238491,Services,0.8153088092803955
+krzesło,BC618645569,krzesło,19,Furniture,Technology,0.6878363325390278,semantic_conf,Technology,0.7642625917100309,Services,0.5288125872612
+ERP system,BC215310912,erp system,4,,Technology,0.7038241982460022,zeroshot_fallback,Furniture,0.7664326638282251,Technology,0.7820268869400024
+biurko,BC271690961,biurko,3,Furniture,Technology,0.8381608786244906,agreement,Technology,0.7544976975764551,Technology,0.5349805772304534
+armario,BC708857885,armario,2,Furniture,Services,0.6923557679897135,semantic_conf,Services,0.7692841866552372,Furniture,0.6167914867401123
+キャビネット,BC448443704,キャヒネット,0,Furniture,Services,0.8023324180563387,agreement,Services,0.7394728666574675,Services,0.49488469958305353
+stol,BC275864280,stol,19,Furniture,Technology,0.70015223167271,semantic_conf,Technology,0.7779469240807889,Furniture,0.601912522315979
+standing desk,BC915571513,standing desk,3,Furniture,Furniture,0.836651623249054,zeroshot_high_conf,Technology,0.777161946519784,Furniture,0.836651623249054
+Office 365 Business annual,BC467126134,office 365 business annual,6,,Furniture,0.6961760797819992,semantic_conf,Furniture,0.7735289775355547,Technology,0.5985578656196594
+writing desk,BC692134048,writing desk,3,Furniture,Technology,0.7051002776246416,semantic_conf,Technology,0.7834447529162684,Furniture,0.7554873824119568
+IKEA professional Herman Miller desk,BC551232519,ikea professional herman miller desk,14,,Furniture,0.9783516526222229,zeroshot_high_conf,Technology,0.7574514677112595,Furniture,0.9783516526222229
+RECEPTION SOFA,BC665646221,reception sofa,5,,Furniture,0.9761272668838501,zeroshot_high_conf,Technology,0.7793516139066672,Furniture,0.9761272668838501
+cadeira,BC553376084,cadeira,19,Furniture,Technology,0.7013184561523853,semantic_conf,Technology,0.7792427290582059,Furniture,0.52183438539505
+VoIP service,BC616386600,voip service,7,,Furniture,0.7007066815766598,semantic_conf,Furniture,0.7785629795296221,Services,0.6039761781692504
+4k monitor,BC668031793,4k monitor,12,Technology,Technology,0.9120743274688721,zeroshot_high_conf,Services,0.7789982569718323,Technology,0.9120743274688721
+SLA agreement unlimited,BC745551372,sla agreement unlimited,15,,Services,0.8584694862365723,zeroshot_high_conf,Furniture,0.7510161967273342,Services,0.8584694862365723
+Adoby Creative limited bundle,BC303850254,adoby creative limited bundle,6,,Furniture,0.6721958973727128,semantic_conf,Furniture,0.7468843304141253,Technology,0.507639741897583
+Kimball office chair,BC148186901,kimball office chair,14,,Furniture,0.8910053372383118,zeroshot_high_conf,Technology,0.7715318133419052,Furniture,0.8910053372383118
+ITSM service,BC303431575,itsm service,7,,Furniture,0.7053692727956082,semantic_conf,Furniture,0.7837436364395647,Services,0.759305477142334
+managed services,BC664596387,managed services,7,Services,Services,0.9861924052238464,zeroshot_high_conf,Furniture,0.7793823049767046,Services,0.9861924052238464
+archivador,BC842725930,archivador,2,Furniture,Services,0.6708980422263926,semantic_conf,Services,0.7454422691404362,Technology,0.5733876585960388
+Aeron chair,BC995990847,aeron chair,14,,Furniture,0.9250553250312805,zeroshot_high_conf,Technology,0.7829634477680222,Furniture,0.9250553250312805
+HP ProBook,BC221517071,hp probook,8,,Technology,0.9005262851715088,zeroshot_high_conf,Services,0.7801379057338623,Technology,0.9005262851715088
+standard デスク,BC800346424,standard テスク,21,Furniture,Services,0.80621550300917,agreement,Services,0.7424011832506376,Services,0.497930359840393
+armoire,BC376681108,armoire,2,Furniture,Furniture,0.9601496458053589,zeroshot_high_conf,Services,0.7721677997648259,Furniture,0.9601496458053589
+AIO printer,BC120485196,aio printer,18,,Technology,0.9047625660896301,zeroshot_high_conf,Services,0.760264256523318,Technology,0.9047625660896301
+wooden IKEA desk,BC239989275,wooden ikea desk,3,,Furniture,0.9847592711448669,zeroshot_high_conf,Technology,0.7644782569255152,Furniture,0.9847592711448669
+schrank,BC460957835,schrank,16,Furniture,Technology,0.6899137669176998,semantic_conf,Technology,0.7665708521307776,Furniture,0.549790745973587
+unlimited plan,BC192142552,unlimited plan,7,Services,Furniture,0.6976014882001187,semantic_conf,Furniture,0.7751127646667986,Services,0.6851683616638183
+office chair,BC275309282,office chair,19,Furniture,Furniture,0.8776630163192749,zeroshot_high_conf,Technology,0.7856174458169339,Furniture,0.8776630163192749
+sofá Model Pro-621,BC951374399,sofa model pro-621,1,,Furniture,0.9796352386474609,zeroshot_high_conf,Technology,0.7813848610093762,Furniture,0.9796352386474609
+Global шкаф,BC299215925,global шкаф,16,,Technology,0.6906361394495907,semantic_conf,Technology,0.767373488277323,Services,0.51048184633255
+Herman Miller desk,BC264494545,herman miller desk,14,,Furniture,0.963202178478241,zeroshot_high_conf,Technology,0.7672132184093491,Furniture,0.963202178478241
+API subscription enterprise,BC740337419,api subscription enterprise,6,,Furniture,0.6841989436468979,semantic_conf,Furniture,0.7602210484965533,Services,0.689023232460022
+support contract professional,BC657793068,support contract professional,13,Services,Services,0.691469943523407,zeroshot_fallback,Furniture,0.7680786895786831,Services,0.76829993724823
+note book certified,BC934052476,note book certified,9,Technology,Services,0.8953085108197422,agreement,Services,0.7288920689235424,Services,0.6485056400299072
+デスク,BC889382867,テスク,21,Furniture,Services,0.7876024577935633,agreement,Services,0.72817802489111,Services,0.4835180640220642
+counch,BC918226618,counch,19,Furniture,Technology,0.6841117634567676,semantic_conf,Technology,0.7601241816186307,Furniture,0.6085282802581787
+small soffa,BC901127771,small soffa,11,Furniture,Furniture,0.9335913062095642,zeroshot_high_conf,Technology,0.7578708541893922,Furniture,0.9335913062095642
+WOODEN WORKSTATON,BC897218787,wooden workstaton,10,,Technology,0.8279405066236173,agreement,Technology,0.7492595603625459,Technology,0.5244950652122498
+divan,BC913610452,divan,11,Furniture,Furniture,0.9006837606430054,zeroshot_high_conf,Technology,0.7780407083535157,Furniture,0.9006837606430054
+business internet unlimited,BC980612131,business internet unlimited,4,Services,Furniture,0.6825557479531388,semantic_conf,Furniture,0.7583952755034875,Technology,0.6207003593444824
+char,BC894119729,char,20,Furniture,Services,0.6659946630545767,semantic_conf,Services,0.7399940700606408,Furniture,0.57145174741745
+стул,BC699169292,стул,19,Furniture,Technology,0.6920739545616565,semantic_conf,Technology,0.7689710606240628,Services,0.4932954609394073
+SECURITY SUPPORT,BC641949014,security support,13,,Services,0.9056575298309326,zeroshot_high_conf,Furniture,0.788636152747781,Services,0.9056575298309326
+armoire,BC980598636,armoire,2,Furniture,Furniture,0.9601496458053589,zeroshot_high_conf,Services,0.7721677997648259,Furniture,0.9601496458053589
+Salesforce Enterprise,BC100772905,salesforce enterprise,4,,Furniture,0.6885534355313401,semantic_conf,Furniture,0.7650593728126001,Technology,0.6739603877067566
+database support,BC282879331,database support,13,Services,Furniture,0.7093235356839099,semantic_conf,Furniture,0.788137261871011,Services,0.6532275080680847
+tech device,BC583249931,tech device,21,Technology,Technology,0.9868683218955994,zeroshot_high_conf,Services,0.7410429722101408,Technology,0.9868683218955994
+Windows license site license,BC194511472,windows license site license,15,,Furniture,0.6820536706920672,semantic_conf,Furniture,0.7578374118800747,Technology,0.6296286582946777
+IKEA desk - Refurbished,BC812458132,ikea desk - refurbished,8,,Furniture,0.9673048257827759,zeroshot_high_conf,Services,0.7751892301013855,Furniture,0.9673048257827759
+sectional,BC276087243,sectional,19,Furniture,Furniture,0.9280567169189453,zeroshot_high_conf,Technology,0.7527879227303861,Furniture,0.9280567169189453
+loveseat,BC860674986,loveseat,19,Furniture,Furniture,0.9707071185112,zeroshot_high_conf,Technology,0.7725730885171292,Furniture,0.9707071185112
+1TB SSD Laptop,BC594817420,1tb ssd laptop,8,,Technology,0.9756062030792236,zeroshot_high_conf,Services,0.7715525123050598,Technology,0.9756062030792236
+server maintenance,BC838586956,server maintenance,4,Services,Furniture,0.6859947154194932,semantic_conf,Furniture,0.7622163504661035,Services,0.7238531708717346
+4k monitor,BC234259822,4k monitor,12,Technology,Technology,0.9120743274688721,zeroshot_high_conf,Services,0.7789982569718323,Technology,0.9120743274688721
+монитор,BC881938614,монитор,12,Technology,Services,0.8234963273135398,agreement,Services,0.756503166010376,Services,0.5104142606258392
+ソフトウェア enterprise,BC478305093,ソフトウェア enterprise,0,Services,Services,0.8308528087457117,agreement,Services,0.7439218765527922,Services,0.5343132138252258
+Oracle per user,BC897711678,oracle per user,17,,Furniture,0.6866221737120118,semantic_conf,Furniture,0.7629135263466797,Technology,0.6844542503356933
+HP ZBook v2,BC498784578,hp zbook v2,8,,Technology,0.9361376762390137,zeroshot_high_conf,Services,0.7702748867442993,Technology,0.9361376762390137
+Used Office 365 Business annual,BC467126134,used office 365 business annual,6,,Furniture,0.6911056318602463,semantic_conf,Furniture,0.7678951465113848,Technology,0.6547288656234741
+abonnement internet,BC301637382,abonnement internet,17,Services,Furniture,0.6820943903181519,semantic_conf,Furniture,0.7578826559090577,Technology,0.5310981273651123
+32-inch Screen gaming,BC176100340,32-inch screen gaming,8,,Technology,0.896151065826416,zeroshot_high_conf,Services,0.7556510659625916,Technology,0.896151065826416
+Kimball escritorio,BC204281005,kimball escritorio,14,,Technology,0.6874457117902006,semantic_conf,Technology,0.7638285686557785,Services,0.6055375814437866
+Salesforce annual,BC806832877,salesforce annual,6,,Furniture,0.6845984318575761,semantic_conf,Furniture,0.7606649242861956,Technology,0.6635664224624633
+desk chair,BC664994379,desk chair,3,Furniture,Furniture,0.9133207201957703,zeroshot_high_conf,Technology,0.7751107122744837,Furniture,0.9133207201957703
+phone support,BC484360237,phone support,13,Services,Services,0.8515549898147583,zeroshot_high_conf,Furniture,0.7894936847721645,Services,0.8515549898147583
+armario,BC690520920,armario,2,Furniture,Services,0.6923557679897135,semantic_conf,Services,0.7692841866552372,Furniture,0.6167914867401123
+SOFTWARE SUPPORT,BC588920837,software support,13,,Furniture,0.7146711630852618,semantic_conf,Furniture,0.7940790700947353,Services,0.63831045627594
+workstation,BC241273318,workstation,20,Technology,Services,0.6759650240489157,semantic_conf,Services,0.7510722489432397,Furniture,0.701039958000183
+soffa,BC713763535,soffa,11,Furniture,Furniture,0.9171843528747559,zeroshot_high_conf,Technology,0.7567403924965821,Furniture,0.9171843528747559
+Desk Model D-100,BC447302779,desk model d-100,1,,Furniture,0.8674560189247131,zeroshot_high_conf,Technology,0.7791098113229443,Furniture,0.8674560189247131
+API subscription,BC974947794,api subscription,6,,Furniture,0.6843426027617356,semantic_conf,Furniture,0.7603806697352617,Services,0.6523987650871277
+lounge chair,BC702549133,lounge chair,19,Furniture,Furniture,0.8558123707771301,zeroshot_high_conf,Technology,0.7858685601853727,Furniture,0.8558123707771301
+Office 365 E3,BC986594254,office 365 e3,6,,Furniture,0.6885588207564255,semantic_conf,Furniture,0.7650653563960284,Technology,0.6275325417518616
+skrivbord Model X-438,BC119744516,skrivbord model x-438,1,,Technology,0.6993882854614171,semantic_conf,Technology,0.7770980949571301,Furniture,0.5082763195037842
+Herman Miller fabric sedia,BC708491359,herman miller fabric sedia,14,,Technology,0.6821958777295317,semantic_conf,Technology,0.7579954196994797,Furniture,0.629706859588623
+sofá,BC821283444,sofa,11,Furniture,Furniture,0.9882047176361084,zeroshot_high_conf,Technology,0.7904008043312989,Furniture,0.9882047176361084
+service agreement - Refurbished,BC936560721,service agreement - refurbished,15,,Services,0.9458505511283875,zeroshot_high_conf,Furniture,0.7451861472125637,Services,0.9458505511283875
+диван,BC778812730,диван,11,Furniture,Technology,0.6997664999220338,semantic_conf,Technology,0.7775183332467042,Services,0.4850142002105713
+desk,BC350175561,desk,3,Furniture,Furniture,0.936634361743927,zeroshot_high_conf,Technology,0.7825004961337366,Furniture,0.936634361743927
+reception sofa,BC665646221,reception sofa,5,Furniture,Furniture,0.9645913243293762,zeroshot_high_conf,Technology,0.7793516139066672,Furniture,0.9645913243293762
+ERP system annual,BC349978373,erp system annual,4,,Furniture,0.6778285154969315,semantic_conf,Furniture,0.7531427949965905,Technology,0.6577461361885071
+network support,BC817539340,network support,13,Services,Furniture,0.7075090749295153,semantic_conf,Furniture,0.7861211943661282,Services,0.6149542331695557
+sofá,BC921879587,sofa,11,Furniture,Furniture,0.9882047176361084,zeroshot_high_conf,Technology,0.7904008043312989,Furniture,0.9882047176361084
+lounge chair,BC509715619,lounge chair,19,Furniture,Furniture,0.8558123707771301,zeroshot_high_conf,Technology,0.7858685601853727,Furniture,0.8558123707771301
+sofa,BC126749178,sofa,11,Furniture,Furniture,0.9888992309570312,zeroshot_high_conf,Technology,0.7904008043312989,Furniture,0.9888992309570312
+taask chair,BC509682018,taask chair,14,Furniture,Furniture,0.877249002456665,zeroshot_high_conf,Technology,0.7743956973140732,Furniture,0.877249002456665
+black counch,BC591759000,black counch,19,Furniture,Technology,0.6787237419876514,semantic_conf,Technology,0.7541374910973905,Furniture,0.70782470703125
+Office 365 subscription,BC332866519,office 365 subscription,6,,Furniture,0.6962263443789384,semantic_conf,Furniture,0.7735848270877093,Technology,0.5932755589485168
+Workstation WS-Pro,BC746716453,workstation ws-pro,8,,Services,0.7008564495358576,semantic_conf,Services,0.7787293883731751,Technology,0.6441497206687927
+security support basic,BC670866707,security support basic,13,Services,Furniture,0.6993666393788257,semantic_conf,Furniture,0.7770740437542507,Services,0.6836383581161499
+Kimball reception sofa,BC924913247,kimball reception sofa,5,,Furniture,0.9777796864509583,zeroshot_high_conf,Technology,0.7688319305456137,Furniture,0.9777796864509583
+소프트웨어,BC466990085,소프트웨어,2,Services,Services,0.666676137948591,semantic_conf,Services,0.7407512643873234,Furniture,0.5385036885738372
+plastic cadeira,BC937649523,plastic cadeira,14,Furniture,Technology,0.6857665416585174,semantic_conf,Technology,0.7619628240650193,Furniture,0.4802686214447021
+servicio de internet,BC814298538,servicio de internet,7,Services,Services,0.9338756799697876,zeroshot_high_conf,Furniture,0.7773150370819597,Services,0.9338756799697876
+Herman Miller Chair Model C-300,BC531168733,herman miller chair model c-300,14,,Furniture,0.9692318439483643,zeroshot_high_conf,Technology,0.7627009679859177,Furniture,0.9692318439483643
+ITSM service,BC496284441,itsm service,7,,Furniture,0.7053692727956082,semantic_conf,Furniture,0.7837436364395647,Services,0.759305477142334
+стол Model Pro-901,BC385417366,стол model pro-901,1,,Technology,0.70503685671424,semantic_conf,Technology,0.7833742852380444,Furniture,0.5130554437637329
+CDN SERVICE,BC744154611,cdn service,7,,Services,0.982368528842926,zeroshot_high_conf,Furniture,0.7779866622192888,Services,0.982368528842926
+OneDrive storage annual agreement,BC879394493,onedrive storage annual agreement,15,,Technology,0.7126787602901459,zeroshot_fallback,Furniture,0.7540988893504726,Technology,0.7918652892112732
+office sofa,BC440096507,office sofa,5,Furniture,Furniture,0.9846997857093811,zeroshot_high_conf,Technology,0.7742960075414633,Furniture,0.9846997857093811
+premium seet,BC264013159,premium seet,19,Furniture,Technology,0.682931430557674,semantic_conf,Technology,0.7588127006196378,Furniture,0.6953234195709228
+divan,BC659568869,divan,11,Furniture,Furniture,0.9006837606430054,zeroshot_high_conf,Technology,0.7780407083535157,Furniture,0.9006837606430054
+seet,BC244816382,seet,19,Furniture,Technology,0.6933919384273944,semantic_conf,Technology,0.7704354871415494,Furniture,0.5368335902690887
+phone support,BC779937154,phone support,13,Services,Services,0.8515549898147583,zeroshot_high_conf,Furniture,0.7894936847721645,Services,0.8515549898147583
+mesh cabnet,BC548108259,mesh cabnet,16,Furniture,Technology,0.6967672937483731,semantic_conf,Technology,0.7741858819426367,Furniture,0.49728076457977294
+Anti-virus per device,BC988651295,anti-virus per device,17,,Technology,0.8214462995529175,zeroshot_high_conf,Furniture,0.77256232624292,Technology,0.8214462995529175
+business computer,BC283486349,business computer,9,Technology,Technology,0.8518314361572266,zeroshot_high_conf,Services,0.7546024728427624,Technology,0.8518314361572266
+hardware maintenance,BC317228954,hardware maintenance,13,Services,Furniture,0.6840750975640216,semantic_conf,Furniture,0.7600834417378017,Services,0.6219668388366699
+Adobe CC All Apps standard,BC493369637,adobe cc all apps standard,6,,Technology,0.7069168388843536,zeroshot_fallback,Furniture,0.7567491375430315,Technology,0.7854631543159485
+Ofice 365,BC198682372,ofice 365,6,,Furniture,0.6881259122214218,semantic_conf,Furniture,0.764584346912691,Technology,0.553628784418106
+mini PC Gen 3,BC873309842,mini piece gen 3,8,,Technology,0.9428735971450806,zeroshot_high_conf,Services,0.7551305385997681,Technology,0.9428735971450806
+standing desk,BC487541399,standing desk,3,Furniture,Furniture,0.836651623249054,zeroshot_high_conf,Technology,0.777161946519784,Furniture,0.836651623249054
+SaaS subscription volume license,BC733830783,saas subscription volume license,15,,Furniture,0.6820859644886066,semantic_conf,Furniture,0.7578732938762295,Services,0.7139700651168823
+gray schreibtisch Model X-327,BC634323575,gray schreibtisch model x-327,1,,Technology,0.6927738507423314,semantic_conf,Technology,0.7697487230470349,Furniture,0.5901260733604431
+컴퓨터,BC602935000,컴퓨터,2,Technology,Services,0.6705428104644602,semantic_conf,Services,0.7450475671827336,Furniture,0.5557628452777862
+16GB RAM Computer,BC164542674,16gb ram computer,9,,Technology,0.9500055313110352,zeroshot_high_conf,Services,0.7436702061305737,Technology,0.9500055313110352
+deluxe height adjustable desk,BC713119661,deluxe height adjustable desk,3,Furniture,Furniture,0.8425981402397156,zeroshot_high_conf,Technology,0.7526349928225794,Furniture,0.8425981402397156
+Teknion armoire,BC427413432,teknion armoire,21,,Furniture,0.7177418589591981,zeroshot_fallback,Services,0.754548669460507,Furniture,0.7974909543991089
+Reception Sofa RS-100,BC840447097,reception sofa rs-100,5,,Furniture,0.9867373704910278,zeroshot_high_conf,Technology,0.7670193532979941,Furniture,0.9867373704910278
+ergonomic chair,BC324130818,ergonomic chair,14,Furniture,Technology,0.7059221622334685,semantic_conf,Technology,0.7843579580371872,Furniture,0.7789594531059265
+service agreement,BC128008008,service agreement,15,Services,Services,0.9744166135787964,zeroshot_high_conf,Furniture,0.7628249497409451,Services,0.9744166135787964
+metal computer desk,BC779580831,metal computer desk,3,Furniture,Technology,0.6951807713132249,semantic_conf,Technology,0.7724230792369166,Furniture,0.7060790061950684
+1080p Monitor quiet,BC786031600,1080p monitor quiet,12,,Technology,0.7039186656475067,zeroshot_fallback,Services,0.7482987058663331,Technology,0.7821318507194519
+office sofa,BC538719265,office sofa,5,Furniture,Furniture,0.9846997857093811,zeroshot_high_conf,Technology,0.7742960075414633,Furniture,0.9846997857093811
+chaise Model X-195,BC750637748,chaise model x-195,1,,Furniture,0.9630211591720581,zeroshot_high_conf,Technology,0.7863569612672497,Furniture,0.9630211591720581
+인터넷 서비스 license,BC219483835,인터넷 서비스 license,15,Services,Furniture,0.6630949054237414,semantic_conf,Furniture,0.7367721171374905,Services,0.5032341063022613
+support contract basic,BC501387022,support contract basic,13,Services,Furniture,0.6940083904297748,semantic_conf,Furniture,0.7711204338108608,Services,0.7289320230484009
+storage cabinet,BC543352165,storage cabinet,16,Furniture,Technology,0.7039353900523129,semantic_conf,Technology,0.7821504333914587,Services,0.54937664270401
+workstation Model Pro-997,BC836527450,workstation model pro-997,1,,Technology,0.8944031527629367,agreement,Technology,0.7861992473771741,Technology,0.5898056030273438
+tavolo Model B-891,BC678700154,tavolo model b-891,1,,Technology,0.7009842534694585,semantic_conf,Technology,0.7788713927438428,Furniture,0.6639382123947143
+Aeron chair,BC546626348,aeron chair,14,,Furniture,0.9250553250312805,zeroshot_high_conf,Technology,0.7829634477680222,Furniture,0.9250553250312805
+work table,BC424620301,work table,10,Furniture,Furniture,0.8424681425094604,zeroshot_high_conf,Technology,0.7685725977580232,Furniture,0.8424681425094604
+copyer,BC663961987,copyer,20,Technology,Services,0.9297473382283584,agreement,Services,0.7427016110495629,Services,0.6876789093017578
+glass seat Model Pro-310,BC699602642,glass seat model pro-310,1,,Furniture,0.8257191777229309,zeroshot_high_conf,Technology,0.782110428350227,Furniture,0.8257191777229309
+HP ProBook,BC324422284,hp probook,8,,Technology,0.9005262851715088,zeroshot_high_conf,Services,0.7801379057338623,Technology,0.9005262851715088
+Allsteel bureau,BC930888412,allsteel bureau,6,,Furniture,0.9025171863998501,agreement,Furniture,0.7430419169886797,Furniture,0.6454460620880127
+executive chair,BC333203933,executive chair,19,Furniture,Furniture,0.8202701210975647,zeroshot_high_conf,Technology,0.7620928634309171,Furniture,0.8202701210975647
+armchair,BC404957218,armchair,19,Furniture,Furniture,0.9523468613624573,zeroshot_high_conf,Technology,0.7757379759454129,Furniture,0.9523468613624573
+SQL Server,BC293028062,sql server,4,,Technology,0.8064653873443604,zeroshot_high_conf,Furniture,0.7588891595900964,Technology,0.8064653873443604
+Windows 10 Pro limited contract,BC634239338,windows 10 pro limited contract,6,,Technology,0.8578737378120422,zeroshot_high_conf,Furniture,0.7451633655055254,Technology,0.8578737378120422
+Azure subscription,BC435418436,azure subscription,6,,Furniture,0.6834258773646256,semantic_conf,Furniture,0.7593620859606951,Technology,0.5908599257469177
+B&W printer,BC241246317,bw printer,18,,Services,0.6912611415323021,semantic_conf,Services,0.7680679350358912,Technology,0.7491896748542786
+Internet-Service volume license,BC173955669,internet-service volume license,15,,Services,0.7039543926715851,zeroshot_fallback,Furniture,0.7691117496486294,Services,0.7821715474128723
+iCloud storage,BC506994931,icloud storage,7,,Technology,0.8555589914321899,zeroshot_high_conf,Furniture,0.7630167768700151,Technology,0.8555589914321899
+bookcase Model Pro-320,BC494152254,bookcase model pro-320,1,,Furniture,0.8917542695999146,zeroshot_high_conf,Technology,0.7789445872476269,Furniture,0.8917542695999146
+IKEA Lounge Seating LS-200,BC364404457,ikea lounge seating ls-200,5,,Furniture,0.9827920198440552,zeroshot_high_conf,Technology,0.7441257456815695,Furniture,0.9827920198440552
+SIP trunk monthly,BC333471497,sip trunk monthly,6,,Furniture,0.670753673585405,semantic_conf,Furniture,0.7452818595393389,Services,0.6310570478439331
+fabric conference chair,BC158559749,fabric conference chair,14,Furniture,Furniture,0.7102679908275604,zeroshot_fallback,Technology,0.7686366369312302,Furniture,0.7891866564750671
+mobile plan unlimited,BC106174601,mobile plan unlimited,7,Services,Furniture,0.6930452197465207,semantic_conf,Furniture,0.7700502441628008,Technology,0.6158108711242676
+small executive chair,BC979447956,small executive chair,14,Furniture,Furniture,0.711577445268631,zeroshot_fallback,Technology,0.7622322966640488,Furniture,0.7906416058540344
+Azure subscription,BC350707551,azure subscription,6,,Furniture,0.6834258773646256,semantic_conf,Furniture,0.7593620859606951,Technology,0.5908599257469177
+의자 Model X-817,BC438126323,의자 model x-817,1,,Technology,0.6902435620460423,semantic_conf,Technology,0.7669372911622693,Furniture,0.5247772336006165
+Steelcase desk Model A-702,BC635148365,steelcase desk model a-702,1,,Furniture,0.9678760766983032,zeroshot_high_conf,Technology,0.7813607211282422,Furniture,0.9678760766983032
+dedicated line per user,BC113545781,dedicated line per user,17,Services,Furniture,0.6835198771212068,semantic_conf,Furniture,0.7594665301346741,Services,0.48386024236679076
+security support volume license service,BC246698943,security support volume license service,15,Services,Services,0.8289913535118103,zeroshot_high_conf,Furniture,0.7685352535243618,Services,0.8289913535118103
+remote support premium agreement,BC391317298,remote support premium agreement,15,Services,Furniture,0.6736426923748065,semantic_conf,Furniture,0.7484918804164516,Services,0.6467480063438416
+Adobe CC All Apps,BC404007541,adobe cc all apps,6,,Technology,0.7088679313659668,zeroshot_fallback,Furniture,0.7595979415400713,Technology,0.7876310348510742
+executive chair,BC416447391,executive chair,19,Furniture,Furniture,0.8202701210975647,zeroshot_high_conf,Technology,0.7620928634309171,Furniture,0.8202701210975647
+inkjet printer certified,BC297543237,inkjet printer certified,18,Technology,Technology,0.7068645894527436,zeroshot_fallback,Services,0.7605602531892726,Technology,0.7854050993919373
+Global deluxe шкаф,BC850282713,global deluxe шкаф,16,,Technology,0.6881211929888669,semantic_conf,Technology,0.7645791033209631,Furniture,0.5476517617702483
+ordenador,BC806019487,ordenador,9,Technology,Services,0.6778405495235588,semantic_conf,Services,0.7531561661372875,Furniture,0.5369700253009796
+Lounge Seating LS-200 Model C-221,BC454601784,lounge seating ls-200 model c-221,1,,Furniture,0.9134988188743591,zeroshot_high_conf,Technology,0.7739730234315564,Furniture,0.9134988188743591
+Internet-Service,BC521359675,internet-service,7,,Furniture,0.704015561905792,semantic_conf,Furniture,0.7822395132286577,Services,0.7248151302337646
+iCloud storage,BC986108130,icloud storage,7,,Technology,0.8555589914321899,zeroshot_high_conf,Furniture,0.7630167768700151,Technology,0.8555589914321899
+compter quiet,BC386156035,compter quiet,21,Technology,Services,0.6612779265073763,semantic_conf,Services,0.7347532516748625,Technology,0.6018183827400208
+skrivbord,BC566531276,skrivbord,10,Furniture,Technology,0.6619209847355321,semantic_conf,Technology,0.7354677608172578,Furniture,0.5232302665710449
+cabnit,BC711028819,cabnit,16,Furniture,Technology,0.8060268615231738,agreement,Technology,0.7577000716627905,Technology,0.4823412537574768
+scren,BC281736451,scren,20,Technology,Services,0.6545892129489096,semantic_conf,Services,0.7273213477210106,Technology,0.49602019786834717
+ITSM service unlimited,BC444390192,itsm service unlimited,7,,Furniture,0.6970126360329892,semantic_conf,Furniture,0.7744584844810991,Services,0.6777166128158569
+office desk,BC662906773,office desk,3,Furniture,Furniture,0.8796947598457336,zeroshot_high_conf,Technology,0.789218237623147,Furniture,0.8796947598457336
+طابعة backlit,BC197110078,طابعة backlit,18,Technology,Services,0.8412665153563752,agreement,Services,0.7590885549051234,Services,0.5351676225662231
+QHD Display 2022,BC348053691,qhd display 2022,8,,Technology,0.9360306859016418,zeroshot_high_conf,Services,0.7502572628429321,Technology,0.9360306859016418
+ergonomic chair,BC793627337,ergonomic chair,14,Furniture,Technology,0.7059221622334685,semantic_conf,Technology,0.7843579580371872,Furniture,0.7789594531059265
+service agreement site license service,BC780631093,service agreement site license service,15,Services,Services,0.9792254567146301,zeroshot_high_conf,Furniture,0.7766152591701138,Services,0.9792254567146301
+IT support license,BC135981405,it support license,13,,Technology,0.8243818283081055,zeroshot_high_conf,Furniture,0.7645378160511562,Technology,0.8243818283081055
+DSL,BC867384519,dsl,7,,Furniture,0.6773151367577817,semantic_conf,Furniture,0.752572374175313,Technology,0.6820215582847595
+MS Office,BC889556480,ms office,4,,Furniture,0.684973491159163,semantic_conf,Furniture,0.7610816568435144,Services,0.5364996671676635
+Teknion Chair Model C-300,BC185336088,teknion chair model c-300,1,,Furniture,0.89542156457901,zeroshot_high_conf,Technology,0.7813420648744275,Furniture,0.89542156457901
+szafa,BC594318319,szafa,16,Furniture,Technology,0.6806066089243832,semantic_conf,Technology,0.7562295654715369,Services,0.540478491783142
+photo printer,BC506603082,photo printer,18,Technology,Services,0.7063864936765435,semantic_conf,Services,0.784873881862826,Technology,0.6540108919143677
+モニター,BC789075603,モニター,0,Technology,Services,0.6597381776002871,semantic_conf,Services,0.7330424195558745,Furniture,0.5126240074634552
+security software,BC661782298,security software,17,Services,Technology,0.8049353957176208,zeroshot_high_conf,Furniture,0.7485357535386048,Technology,0.8049353957176208
+HP EliteDesk Max,BC623836867,hp elitedesk max,8,,Services,0.6992735170636286,semantic_conf,Services,0.7769705745151428,Furniture,0.5141309022903442
+كرسي,BC979947812,كرسي,19,Furniture,Technology,0.693502445438808,semantic_conf,Technology,0.7705582727097867,Services,0.5458600401878356
+desktop computer gaming,BC950899166,desktop computer gaming,9,Technology,Technology,0.6782150566577911,zeroshot_fallback,Services,0.7424234557758068,Technology,0.7535722851753235
+schrank,BC260610323,schrank,16,Furniture,Technology,0.6899137669176998,semantic_conf,Technology,0.7665708521307776,Furniture,0.549790745973587
+filing cabinet Model C-547,BC774992147,filing cabinet model c-547,1,,Technology,0.7046511014137181,semantic_conf,Technology,0.7829456682374646,Services,0.47494891285896296
+ultra wide,BC913656416,ultra wide,12,Technology,Services,0.6871923577043977,semantic_conf,Services,0.7635470641159974,Furniture,0.6393944263458252
+خزانة,BC270307732,خزانة,16,Furniture,Technology,0.663273745116705,semantic_conf,Technology,0.7369708279074499,Services,0.4943714261054992
+bench,BC847889838,bench,3,Furniture,Furniture,0.9264353513717651,zeroshot_high_conf,Technology,0.763035228475503,Furniture,0.9264353513717651
+IaaS platform standard,BC516065124,iaas platform standard,7,,Furniture,0.6713989346894529,semantic_conf,Furniture,0.7459988163216142,Technology,0.6654801607131958
+small HON table,BC107053228,small hon table,10,,Furniture,0.8915996551513672,zeroshot_high_conf,Technology,0.7610427429835481,Furniture,0.8915996551513672
+lounge chair,BC557913296,lounge chair,19,Furniture,Furniture,0.8558123707771301,zeroshot_high_conf,Technology,0.7858685601853727,Furniture,0.8558123707771301
+divan Model Pro-600,BC194269176,divan model pro-600,1,,Furniture,0.9285562038421631,zeroshot_high_conf,Technology,0.7788256163766553,Furniture,0.9285562038421631
+cupboard,BC336859315,cupboard,20,Furniture,Services,0.6637362430640371,semantic_conf,Services,0.7374847145155968,Furniture,0.5471702456474304
+HON workstation,BC142146105,hon workstation,10,,Technology,0.6819514534378484,semantic_conf,Technology,0.7577238371531648,Furniture,0.6684848666191101
+iCloud storage volume license,BC877817678,icloud storage volume license,15,,Technology,0.8194445371627808,zeroshot_high_conf,Furniture,0.7624762029643642,Technology,0.8194445371627808
+business hours support bundle,BC515026155,business hours support bundle,13,Services,Furniture,0.6751120669873156,semantic_conf,Furniture,0.7501245188747951,Services,0.6733185648918152
+Knoll basic char,BC160170716,knoll basic char,16,,Technology,0.6765135043234768,semantic_conf,Technology,0.7516816714705298,Furniture,0.5579664230346679
+display,BC285652633,display,20,Technology,Services,0.8030584134985345,agreement,Services,0.7494083256796898,Services,0.48606615662574765
+divan,BC312717408,divan,11,Furniture,Furniture,0.9006837606430054,zeroshot_high_conf,Technology,0.7780407083535157,Furniture,0.9006837606430054
+イス,BC865007974,イス,0,Furniture,Services,0.6570529645112978,semantic_conf,Services,0.7300588494569975,Furniture,0.4983836114406585
+leather стол,BC765434962,leather стол,14,Furniture,Technology,0.6876337346421446,semantic_conf,Technology,0.7640374829357163,Furniture,0.6817749023437499
+Global char Model A-429,BC928416590,global char model a-429,1,,Technology,0.6903852899703893,semantic_conf,Technology,0.7670947666337659,Furniture,0.5399221658706664
+professional lounge chair,BC683708118,professional lounge chair,14,Furniture,Furniture,0.7077703177928925,zeroshot_fallback,Technology,0.7697321703022019,Furniture,0.786411464214325
+Steelcase storage unit,BC918671750,steelcase storage unit,16,,Technology,0.6987136118979397,semantic_conf,Technology,0.7763484576643774,Services,0.49969363808631895
+fiber internet,BC176927143,fiber internet,7,Services,Technology,0.8222059011459351,zeroshot_high_conf,Furniture,0.7722305820686846,Technology,0.8222059011459351
+bench,BC688574163,bench,3,Furniture,Furniture,0.9264353513717651,zeroshot_high_conf,Technology,0.763035228475503,Furniture,0.9264353513717651
+phone support annual contract,BC382769127,phone support annual contract,15,Services,Services,0.7076595962047577,zeroshot_fallback,Furniture,0.7493491740222561,Services,0.7862884402275085
+software support,BC582537877,software support,13,Services,Furniture,0.7146711630852618,semantic_conf,Furniture,0.7940790700947353,Services,0.6707435846328735
+soffa Model X-132,BC424100009,soffa model x-132,1,,Furniture,0.9045172929763794,zeroshot_high_conf,Technology,0.7779917473962475,Furniture,0.9045172929763794
+computer,BC637577213,computer,9,Technology,Technology,0.9595301747322083,zeroshot_high_conf,Services,0.7490172792087292,Technology,0.9595301747322083
+Color laser Max,BC949830412,color laser max,18,,Services,0.6617243876394036,semantic_conf,Services,0.7352493195993373,Technology,0.6024616956710815
+MSP SERVICE,BC123762858,msp service,7,,Services,0.9913040399551392,zeroshot_high_conf,Furniture,0.772076027224782,Services,0.9913040399551392
+Windows 10 Pro,BC160046549,windows 10 pro,8,,Technology,0.8480318784713745,zeroshot_high_conf,Services,0.775466689722815,Technology,0.8480318784713745
+deks,BC725084928,deks,3,Furniture,Technology,0.6768265759568559,semantic_conf,Technology,0.752029528840951,Furniture,0.6118680834770203
+widescreen,BC700539700,widescreen,12,Technology,Services,0.6676115881655182,semantic_conf,Services,0.7417906535172425,Technology,0.5435986161231995
+NOC service site license,BC131638762,noc service site license,15,,Services,0.8802528381347656,zeroshot_high_conf,Furniture,0.7581360311503994,Services,0.8802528381347656
+Adoby Creative,BC112277573,adoby creative,6,,Furniture,0.6707664409003159,semantic_conf,Furniture,0.7452960454447954,Technology,0.5432115316390991
+basic shelf,BC396222040,basic shelf,16,Furniture,Technology,0.6856157951922359,semantic_conf,Technology,0.7617953279913733,Services,0.4916220188140869
+bureau,BC989516564,bureau,19,Furniture,Technology,0.6866366340908466,semantic_conf,Technology,0.762929593434274,Furniture,0.6253193378448486
+external monitor,BC839170893,external monitor,12,Technology,Services,0.689576626941916,semantic_conf,Services,0.7661962521576844,Technology,0.7399938702583313
+security software site license,BC211779101,security software site license,15,Services,Furniture,0.6871100101944019,semantic_conf,Furniture,0.7634555668826687,Technology,0.6906618475914001
+SQL Server limited,BC882206689,sql server limited,4,,Technology,0.6889006018638612,zeroshot_fallback,Furniture,0.7578446477950525,Technology,0.7654451131820679
+all-in-one,BC266457342,all-in-one,8,Technology,Services,0.6767079853329767,semantic_conf,Services,0.7518977614810852,Technology,0.5500477194786072
+برمجيات,BC208689641,برمجيات,0,Services,Services,0.8218775157054362,agreement,Services,0.7114044433862883,Services,0.5530225038528442
+office chair,BC947384695,office chair,19,Furniture,Furniture,0.8776630163192749,zeroshot_high_conf,Technology,0.7856174458169339,Furniture,0.8776630163192749
+notebook new,BC626072176,notebook new,8,Technology,Services,0.6909463846001733,semantic_conf,Services,0.7677182051113037,Technology,0.5911573648452758
+cloud storage,BC571967377,cloud storage,17,Services,Furniture,0.6738477241251435,semantic_conf,Furniture,0.7487196934723817,Technology,0.7308287024497986
+モニター,BC661852456,モニター,0,Technology,Services,0.6597381776002871,semantic_conf,Services,0.7330424195558745,Furniture,0.5126240074634552
+Used IKEA brown sofa,BC120100290,used ikea brown sofa,5,,Furniture,0.9881440997123718,zeroshot_high_conf,Technology,0.7473642448461508,Furniture,0.9881440997123718
+Aeron chair,BC698439590,aeron chair,14,,Furniture,0.9250553250312805,zeroshot_high_conf,Technology,0.7829634477680222,Furniture,0.9250553250312805
+ANTI-VIRUS BASIC SUBSCRIPTION,BC712062546,anti-virus basic subscription,17,,Furniture,0.6891885649416413,semantic_conf,Furniture,0.7657650721573792,Services,0.5631078243255615
+USB printer,BC116121432,usb printer,18,,Technology,0.9126076102256775,zeroshot_high_conf,Services,0.7768136649591395,Technology,0.9126076102256775
+small file cabinet,BC337079167,small file cabinet,16,Furniture,Technology,0.6957123809428158,semantic_conf,Technology,0.7730137566031287,Services,0.5442665040493011
+SOC service per device,BC574819483,soc service per device,17,,Services,0.8461794257164001,zeroshot_high_conf,Furniture,0.7679567349457703,Services,0.8461794257164001
+Dropbox Business,BC374294163,dropbox business,4,,Furniture,0.6836878547341446,semantic_conf,Furniture,0.7596531719268274,Services,0.6066875696182251
+stol,BC982292061,stol,19,Furniture,Technology,0.70015223167271,semantic_conf,Technology,0.7779469240807889,Furniture,0.601912522315979
+i-Mac enterprise v3,BC294020880,i-mac enterprise v3,8,,Technology,0.8232908844947815,zeroshot_high_conf,Services,0.7714197131565003,Technology,0.8232908844947815
+BI tool license,BC636784164,bi tool license,15,,Furniture,0.6776064072128345,semantic_conf,Furniture,0.7528960080142605,Technology,0.6757765412330627
+Herman Miller standard desk chair,BC681544961,herman miller standard desk chair,14,,Furniture,0.950326144695282,zeroshot_high_conf,Technology,0.7659575273578659,Furniture,0.950326144695282
+phone support,BC527915151,phone support,13,Services,Services,0.8515549898147583,zeroshot_high_conf,Furniture,0.7894936847721645,Services,0.8515549898147583
+Herman Miller workstaton Model C-919,BC485753927,herman miller workstaton model c-919,1,,Technology,0.6930155714187536,semantic_conf,Technology,0.7700173015763928,Furniture,0.5122552156448364
+Color laser,BC473302105,color laser,18,,Technology,0.6684792280197144,zeroshot_fallback,Services,0.7387133627397486,Technology,0.7427546977996826
+Photoshop,BC591285126,photoshop,20,,Services,0.6600134978839072,semantic_conf,Services,0.733348330982119,Technology,0.7137041330337525
+MSP service,BC905917946,msp service,7,,Services,0.9580250978469849,zeroshot_high_conf,Furniture,0.772076027224782,Services,0.9580250978469849
+Brother MFC backlit 2020,BC361015184,brother mfc backlit 2020,8,,Services,0.6792493247304071,semantic_conf,Services,0.7547214719226746,Technology,0.6766618967056274
+ソファ,BC185852967,ソファ,11,Furniture,Technology,0.6787979554388489,semantic_conf,Technology,0.7542199504876099,Furniture,0.6550114750862122
+cloud storage,BC624282788,cloud storage,17,Services,Furniture,0.6738477241251435,semantic_conf,Furniture,0.7487196934723817,Technology,0.7308287024497986
+cabnit,BC908356009,cabnit,16,Furniture,Technology,0.8060268615231738,agreement,Technology,0.7577000716627905,Technology,0.4823412537574768
+Global large chiar,BC561779564,global large chiar,21,,Services,0.6533127313283906,semantic_conf,Services,0.725903034809323,Furniture,0.5130634367465973
+setee,BC737594123,setee,19,Furniture,Furniture,0.979966402053833,zeroshot_high_conf,Technology,0.7601946343087552,Furniture,0.979966402053833
+32-inch Screen business grade 2021,BC628276702,32-inch screen business grade 2021,8,,Technology,0.8430610299110413,zeroshot_high_conf,Services,0.7550107332637696,Technology,0.8430610299110413
+sofa,BC849223390,sofa,11,Furniture,Furniture,0.9888992309570312,zeroshot_high_conf,Technology,0.7904008639359437,Furniture,0.9888992309570312
+business computer,BC815858075,business computer,9,Technology,Technology,0.8518314361572266,zeroshot_high_conf,Services,0.7546024728427624,Technology,0.8518314361572266
+IKEA stuhl Model C-908,BC408899514,ikea stuhl model c-908,1,,Furniture,0.9502044320106506,zeroshot_high_conf,Technology,0.7787397856881787,Furniture,0.9502044320106506
+インターネットサービス premium,BC982644252,インターネットサーヒス premium,0,Services,Services,0.8102475781162676,agreement,Services,0.7318577772409636,Services,0.514676958322525
+white canapé,BC563787397,white canape,19,Furniture,Technology,0.6782000674995838,semantic_conf,Technology,0.7535556305550931,Services,0.5898684382438659
+IT support volume license,BC646041020,it support volume license,15,,Technology,0.6954870879650116,zeroshot_fallback,Furniture,0.7554939360614407,Technology,0.7727634310722351
+Allsteel cadeira Model B-233,BC713579662,allsteel cadeira model b-233,1,,Technology,0.6983898599777135,semantic_conf,Technology,0.7759887333085705,Furniture,0.7431932091712952
+ITSM service unlimited subscription,BC217377475,itsm service unlimited subscription,7,,Furniture,0.68697559532254,semantic_conf,Furniture,0.7633062170250444,Services,0.6029130816459656
+الدعم التقني,BC543502646,الدعم التقني,13,Services,Furniture,0.6862718267472186,semantic_conf,Furniture,0.762524251941354,Services,0.559289002418518
+wooden archivador,BC523861817,wooden archivador,2,Furniture,Services,0.6743316989188974,semantic_conf,Services,0.7492574432432194,Furniture,0.5893854260444641
+standard Reception Sofa RS-100,BC349304100,standard reception sofa rs-100,5,,Furniture,0.9828591346740723,zeroshot_high_conf,Technology,0.7677971343076682,Furniture,0.9828591346740723
+Lenovo ThinkCentre professional,BC753278884,lenovo thinkcentre professional,8,,Technology,0.7111474335193634,zeroshot_fallback,Services,0.7750786634853272,Technology,0.7901638150215149
+personal computer certified,BC984379899,personal computer certified,9,Technology,Technology,0.9160704612731934,zeroshot_high_conf,Services,0.7507168460498547,Technology,0.9160704612731934
+maintenance contract,BC900592344,maintenance contract,15,Services,Furniture,0.676225123214345,semantic_conf,Furniture,0.751361248015939,Services,0.7425792813301086
+Network printer 2020,BC258567048,network printer 2020,18,,Technology,0.8716354966163635,zeroshot_high_conf,Services,0.7578900247079798,Technology,0.8716354966163635
+deluxe Desk Model D-100,BC330664237,deluxe desk model d-100,1,,Furniture,0.8840830326080322,zeroshot_high_conf,Technology,0.7737027163675,Furniture,0.8840830326080322
+Microsoft Office professional,BC707191953,microsoft office professional,6,,Furniture,0.6808266022524735,semantic_conf,Furniture,0.7564740025027483,Technology,0.660593819618225
+デスク - Refurbished,BC889382867,テスク - refurbished,8,,Services,0.7010671102318873,semantic_conf,Services,0.778963455813208,Furniture,0.5400227665901184
+Office Software premium,BC297713683,office software premium,4,,Furniture,0.6900594958932023,semantic_conf,Furniture,0.7667327732146691,Technology,0.6654549837112427
+IT support,BC481734198,it support,13,,Technology,0.873793363571167,zeroshot_high_conf,Furniture,0.7770395326649258,Technology,0.873793363571167
+طابعة used v2,BC231148450,طابعة used v2,18,Technology,Services,0.8165130967915789,agreement,Services,0.7571941404802272,Services,0.4989798545837402
+Aeron chair,BC695861587,aeron chair,14,,Furniture,0.9250553250312805,zeroshot_high_conf,Technology,0.7829634477680222,Furniture,0.9250553250312805
+shelving unit,BC521854587,shelving unit,2,Furniture,Services,0.8193544484486879,agreement,Services,0.7449616172849675,Services,0.5155836880207062
+диван,BC468584828,диван,11,Furniture,Technology,0.6997664999220338,semantic_conf,Technology,0.7775183332467042,Services,0.4850142002105713
+1440p Screen backlit,BC966997739,1440p screen backlit,12,,Technology,0.9141557216644287,zeroshot_high_conf,Services,0.7557621610665284,Technology,0.9141557216644287
+Steelcase krzesło,BC368520783,steelcase krzesło,16,,Furniture,0.8820302486419678,zeroshot_high_conf,Technology,0.7686272719801733,Furniture,0.8820302486419678
+armoire - Refurbished,BC220658235,armoire - refurbished,2,,Furniture,0.9517501592636108,zeroshot_high_conf,Services,0.7540850618421574,Furniture,0.9517501592636108
+white reception sofa,BC349832483,white reception sofa,5,Furniture,Furniture,0.9602205157279968,zeroshot_high_conf,Technology,0.7690636734045004,Furniture,0.9602205157279968
+ofice chair,BC641909751,ofice chair,14,Furniture,Furniture,0.9073265790939331,zeroshot_high_conf,Technology,0.7668366362636582,Furniture,0.9073265790939331
+business internet,BC316980704,business internet,4,Services,Furniture,0.6926293739945512,semantic_conf,Furniture,0.769588193327279,Technology,0.6069416999816895
+Box subscription basic,BC256253951,box subscription basic,6,,Furniture,0.6805051663241288,semantic_conf,Furniture,0.7561168514712542,Services,0.6783896088600159
+Kimball conference chair,BC103793417,kimball conference chair,14,,Technology,0.6791341897832122,semantic_conf,Technology,0.754593544203569,Furniture,0.6093647480010986
+silla,BC943666157,silla,19,Furniture,Technology,0.6957121565136372,semantic_conf,Technology,0.7730135072373746,Furniture,0.5108255624771117
+bench,BC152705290,bench,3,Furniture,Furniture,0.9264353513717651,zeroshot_high_conf,Technology,0.763035228475503,Furniture,0.9264353513717651
+PRI line,BC487005172,pri line,7,,Furniture,0.6767079382809903,semantic_conf,Furniture,0.7518977092011003,Technology,0.5316078782081604
+Software de oficina package,BC627642633,software de oficina package,4,,Furniture,0.6778092572362046,semantic_conf,Furniture,0.7531213969291162,Technology,0.6004652380943298
+SAP monthly,BC344198929,sap monthly,6,,Furniture,0.6722057142577073,semantic_conf,Furniture,0.7468952380641192,Technology,0.6383893489837646
+Adobe CC All Apps site license,BC331820924,adobe cc all apps site license,6,,Furniture,0.6781894007048508,semantic_conf,Furniture,0.7535437785609453,Technology,0.6769973635673523
+label printer used,BC727813474,label printer used,18,Technology,Services,0.6869939615663292,semantic_conf,Services,0.763326623962588,Technology,0.6305297613143921
+イス - Refurbished,BC865007974,イス - refurbished,8,,Services,0.6964525305543054,semantic_conf,Services,0.7738361450603394,Furniture,0.5489973664283753
+armchair,BC768469061,armchair,19,Furniture,Furniture,0.9523468613624573,zeroshot_high_conf,Technology,0.7757379759454129,Furniture,0.9523468613624573
+workstation Model B-142,BC585007134,workstation model b-142,1,,Technology,0.7027349849376592,semantic_conf,Technology,0.7808166499307324,Furniture,0.6051439046859741
+Internet-Service premium,BC221256011,internet-service premium,7,,Furniture,0.7001815050515439,semantic_conf,Furniture,0.777979450057271,Services,0.6659068465232849
+seat,BC152526165,seat,19,Furniture,Furniture,0.8711121082305908,zeroshot_high_conf,Technology,0.7780913461350797,Furniture,0.8711121082305908
+mesh стул,BC682219061,mesh стул,14,Furniture,Technology,0.6870036301003661,semantic_conf,Technology,0.7633373667781845,Furniture,0.5330993175506591
+ソフトウェア enterprise,BC198141669,ソフトウェア enterprise,0,Services,Services,0.8308528087457117,agreement,Services,0.7439218765527922,Services,0.5343132138252258
+deluxe sofá,BC388645449,deluxe sofa,5,Furniture,Furniture,0.9800319671630859,zeroshot_high_conf,Technology,0.760165653613851,Furniture,0.9800319671630859
+ASUS PB278Q portable,BC119727026,asus pb278q portable,8,,Technology,0.9378145933151245,zeroshot_high_conf,Services,0.7751249762943176,Technology,0.9378145933151245
+인터넷 서비스,BC840076530,인터넷 서비스,2,Services,Services,0.6617433409934824,semantic_conf,Services,0.7352703788816471,Furniture,0.5413341104984283
+hardware maintenance,BC292069408,hardware maintenance,13,Services,Furniture,0.6840750975640216,semantic_conf,Furniture,0.7600834417378017,Services,0.6219668388366699
+Software de oficina,BC897110135,software de oficina,4,,Technology,0.6837168037891388,zeroshot_fallback,Furniture,0.7568989008964013,Technology,0.7596853375434875
+Salesforce volume license,BC375139723,salesforce volume license,15,,Furniture,0.6888299499031115,semantic_conf,Furniture,0.7653666110034573,Technology,0.6750334024429321
+leather chair,BC362758762,leather chair,14,Furniture,Furniture,0.9468992948532104,zeroshot_high_conf,Technology,0.76342480679207,Furniture,0.9468992948532104
+HON work table,BC771230728,hon work table,10,,Furniture,0.8841199278831482,zeroshot_high_conf,Technology,0.7775785615603609,Furniture,0.8841199278831482
+1440p Screen enterprise,BC889917232,1440p screen enterprise,12,,Technology,0.8919838666915894,zeroshot_high_conf,Services,0.7529494774842225,Technology,0.8919838666915894
+ordenador quiet,BC116178827,ordenador quiet,9,Technology,Services,0.8229010625279636,agreement,Services,0.7431421089778637,Services,0.522859525680542
+Knoll compact mesa de trabajo,BC792107026,knoll compact mesa de trabajo,10,,Technology,0.6560497364902929,semantic_conf,Technology,0.7289441516558809,Furniture,0.5565116941928863
+IKEA Steelcase storage,BC518462171,ikea steelcase storage,16,,Technology,0.6873128288359585,semantic_conf,Technology,0.7636809209288428,Furniture,0.6153729557991028
+캐비넷,BC571678892,캐비넷,2,Furniture,Services,0.6675884108787363,semantic_conf,Services,0.7417649009763737,Furniture,0.5479566752910614
+professional char,BC524470332,professional char,21,Furniture,Services,0.6562885349420534,semantic_conf,Services,0.7292094832689482,Furniture,0.5298352360725402
+computadora v3,BC317810361,computadora v3,9,Technology,Technology,0.8853263854980469,zeroshot_high_conf,Services,0.7395337629924511,Technology,0.8853263854980469
+mesh chair,BC656952733,mesh chair,14,Furniture,Furniture,0.8911510109901428,zeroshot_high_conf,Technology,0.7700753142421738,Furniture,0.8911510109901428
+unlimited plan,BC597877404,unlimited plan,7,Services,Furniture,0.6976014882001187,semantic_conf,Furniture,0.7751127646667986,Services,0.6851683616638183
+イス Model X-967,BC245226262,イス model x-967,1,,Technology,0.6983667929801854,semantic_conf,Technology,0.7759631033113171,Furniture,0.5812323331832886
+HP EliteDesk,BC849332765,hp elitedesk,8,,Services,0.7046319805894007,semantic_conf,Services,0.7829244228771118,Furniture,0.5340333938598633
+IKEA brown sofa,BC120100290,ikea brown sofa,5,,Furniture,0.990057647228241,zeroshot_high_conf,Technology,0.750522098926351,Furniture,0.990057647228241
+Global bench,BC228472771,global bench,3,,Furniture,0.8931167125701904,zeroshot_high_conf,Technology,0.7482958342875757,Furniture,0.8931167125701904
+ultra wide 2020,BC987995334,ultra wide 2020,12,Technology,Services,0.6765763353559937,semantic_conf,Services,0.7517514837288819,Furniture,0.5611848950386047
+server maintenance,BC643267978,server maintenance,4,Services,Furniture,0.6859947154194932,semantic_conf,Furniture,0.7622163504661035,Services,0.7238531708717346
+Haworth steel reception sofa,BC272167429,haworth steel reception sofa,5,,Furniture,0.9779390692710876,zeroshot_high_conf,Technology,0.7540396074331259,Furniture,0.9779390692710876
+4k monitor backlit,BC886411102,4k monitor backlit,12,Technology,Technology,0.9326306581497192,zeroshot_high_conf,Services,0.7646117818856202,Technology,0.9326306581497192
+Dropbox Business,BC837148793,dropbox business,4,,Furniture,0.6836878547341446,semantic_conf,Furniture,0.7596531719268274,Services,0.6066875696182251
+ordenador USB-C,BC155928537,ordenador usb-c,9,,Technology,0.906279444694519,zeroshot_high_conf,Services,0.7430382180820202,Technology,0.906279444694519
+cell phone plan business - Refurbished,BC171013341,cell phone plan business - refurbished,8,,Services,0.6914273583207239,semantic_conf,Services,0.7682526203563599,Technology,0.7187564969062805
+loveseat,BC316822839,loveseat,19,Furniture,Furniture,0.9707071185112,zeroshot_high_conf,Technology,0.7725730885171292,Furniture,0.9707071185112
+Steelcase Leap,BC659116527,steelcase leap,16,,Furniture,0.696562922000885,zeroshot_fallback,Technology,0.7685706475676367,Furniture,0.7739588022232056
+Steelcase storage,BC201240032,steelcase storage,16,,Technology,0.6982338183493557,semantic_conf,Technology,0.7758153537215063,Furniture,0.5401199221611023
+armoire,BC792183346,armoire,2,Furniture,Furniture,0.9601496458053589,zeroshot_high_conf,Services,0.7721677997648259,Furniture,0.9601496458053589
+Knoll armoire,BC852126726,knoll armoire,2,,Furniture,0.9674503803253174,zeroshot_high_conf,Services,0.7569717743932743,Furniture,0.9674503803253174
+service agreement,BC936560721,service agreement,15,Services,Services,0.9744166135787964,zeroshot_high_conf,Furniture,0.7628249497409451,Services,0.9744166135787964
+Office 365 subscription,BC927850618,office 365 subscription,6,,Furniture,0.6962263443789384,semantic_conf,Furniture,0.7735848270877093,Technology,0.5932755589485168
+help desk enterprise,BC763534625,help desk enterprise,4,Services,Furniture,0.6854907819897751,semantic_conf,Furniture,0.7616564244330835,Services,0.735557496547699
+soffa Model B-527,BC867935795,soffa model b-527,1,,Furniture,0.905425488948822,zeroshot_high_conf,Technology,0.7788523192575146,Furniture,0.905425488948822
+ERP system,BC510692249,erp system,4,,Technology,0.7038241982460022,zeroshot_fallback,Furniture,0.7664326638282251,Technology,0.7820268869400024
+Anti virus service,BC880695706,anti virus service,17,,Services,0.8389735817909241,zeroshot_high_conf,Furniture,0.7720812571549378,Services,0.8389735817909241
+photo printer certified 2023,BC749304307,photo printer certified 2023,18,Technology,Services,0.6835053732331994,semantic_conf,Services,0.7594504147035548,Technology,0.7538362145423889
+ASUS PB278Q,BC473587211,asus pb278q,8,,Services,0.6966766022954096,semantic_conf,Services,0.7740851136615662,Technology,0.6838127970695496
+3D printer,BC662444547,3d printer,18,,Technology,0.9658539295196533,zeroshot_high_conf,Services,0.7585671334726283,Technology,0.9658539295196533
+Samsung Monitor 2021,BC422447282,samsung monitor 2021,12,,Technology,0.919670581817627,zeroshot_high_conf,Services,0.7485730064415894,Technology,0.919670581817627
+executive chair,BC796275440,executive chair,19,Furniture,Furniture,0.8202701210975647,zeroshot_high_conf,Technology,0.7620928634309171,Furniture,0.8202701210975647
+armchair Model A-687,BC447260600,armchair model a-687,1,,Furniture,0.9427722096443176,zeroshot_high_conf,Technology,0.7864404077699353,Furniture,0.9427722096443176
+4K monitor business grade,BC152947385,4k monitor business grade,12,,Technology,0.8926447629928589,zeroshot_high_conf,Services,0.7568462503457032,Technology,0.8926447629928589
+Used Allsteel brown setee,BC120825650,used allsteel brown setee,8,,Furniture,0.9726550579071045,zeroshot_high_conf,Services,0.7575392218997864,Furniture,0.9726550579071045
+locker,BC702033662,locker,20,Furniture,Services,0.8755368351270095,agreement,Services,0.7461446137503686,Services,0.6008351325988769
+erp system,BC510692249,erp system,4,Services,Furniture,0.6897893974454026,semantic_conf,Furniture,0.7664326638282251,Technology,0.6505272388458252
+HON Herman Miller Sayl,BC298470427,hon herman miller sayl,14,,Technology,0.6711858925210203,semantic_conf,Technology,0.7457621028011338,Furniture,0.617740273475647
+canapé,BC367107264,canape,19,Furniture,Technology,0.6872660412582813,semantic_conf,Technology,0.7636289347314237,Services,0.5924786210060119
+basic leather chair,BC299648970,basic leather chair,14,Furniture,Furniture,0.930418074131012,zeroshot_high_conf,Technology,0.7723245551174179,Furniture,0.930418074131012
+Teknion premium drawer Model Pro-598,BC358473878,teknion premium drawer model pro-598,1,,Technology,0.9046569189420215,agreement,Technology,0.7735894675424267,Technology,0.6181904077529907
+برمجيات,BC515965279,برمجيات,0,Services,Services,0.8218775157054362,agreement,Services,0.7114044433862883,Services,0.5530225038528442
+AutoCAD 2024 business,BC398621490,autocad 2024 business,6,,Furniture,0.6735144176802537,semantic_conf,Furniture,0.7483493529780596,Technology,0.6935617446899414
+inkjet printer 2021,BC477863798,inkjet printer 2021,18,Technology,Technology,0.8851137161254883,zeroshot_high_conf,Services,0.7699377327424952,Technology,0.8851137161254883
+écran used 2024,BC322949179,ecran used 2024,8,Technology,Services,0.6876824044499505,semantic_conf,Services,0.7640915604999451,Furniture,0.5919003367424011
+lap top,BC218609961,lap top,20,Technology,Technology,0.9490196108818054,zeroshot_high_conf,Services,0.7539456100539269,Technology,0.9490196108818054
+filing cabinet,BC827991473,filing cabinet,3,Furniture,Technology,0.6839507913213121,semantic_conf,Technology,0.7599453236903467,Services,0.5998937487602234
+service agreement bundle,BC393986392,service agreement bundle,15,Services,Services,0.9627212285995483,zeroshot_high_conf,Furniture,0.749700006961404,Services,0.9627212285995483
+escritorio,BC662431852,escritorio,3,Furniture,Technology,0.6898642038922654,semantic_conf,Technology,0.7665157821025171,Services,0.652492904663086
+hardware maintenance,BC448635435,hardware maintenance,13,Services,Furniture,0.6840750975640216,semantic_conf,Furniture,0.7600834417378017,Services,0.6219668388366699
+lap top business grade,BC526372748,lap top business grade,4,Technology,Technology,0.929404616355896,zeroshot_high_conf,Furniture,0.7610117405951928,Technology,0.929404616355896
+filing cabnet,BC473992719,filing cabnet,16,Furniture,Technology,0.6941373341650906,semantic_conf,Technology,0.7712637046278784,Services,0.560166084766388
+chaise,BC675904997,chaise,19,Furniture,Furniture,0.9544678926467896,zeroshot_high_conf,Technology,0.779095147957742,Furniture,0.9544678926467896
+armario,BC758435897,armario,2,Furniture,Services,0.6923557679897135,semantic_conf,Services,0.7692841866552372,Furniture,0.6167914867401123
+service agreement,BC610791858,service agreement,15,Services,Services,0.9744166135787964,zeroshot_high_conf,Furniture,0.7628249497409451,Services,0.9744166135787964
+krzesło,BC310560020,krzesło,19,Furniture,Technology,0.6878363325390278,semantic_conf,Technology,0.7642625917100309,Services,0.5288125872612
+divan,BC377731914,divan,11,Furniture,Furniture,0.9006837606430054,zeroshot_high_conf,Technology,0.7780407083535157,Furniture,0.9006837606430054
+Office 365 Business,BC766796289,office 365 business,6,,Furniture,0.6932746806464096,semantic_conf,Furniture,0.7703052007182329,Technology,0.5791738629341125
+fabric computer desk Model A-792,BC673271266,fabric computer desk model a-792,1,,Technology,0.7038895686302098,semantic_conf,Technology,0.7820995207002331,Furniture,0.6981006145477294
+소프트웨어 business,BC932850970,소프트웨어 business,4,Services,Furniture,0.6684730777413468,semantic_conf,Furniture,0.742747864157052,Technology,0.48263930082321166
+cloud storage enterprise,BC196848277,cloud storage enterprise,4,Services,Furniture,0.6824505517155747,semantic_conf,Furniture,0.758278390795083,Technology,0.7001023292541504
+ISP service contract,BC188632141,isp service contract,7,,Services,0.9057258367538452,zeroshot_high_conf,Furniture,0.7685398624641924,Services,0.9057258367538452
+Global wooden キャビネット Model B-144,BC291811951,global wooden キャヒネット model b-144,1,,Technology,0.6847590883407506,semantic_conf,Technology,0.7608434314897229,Furniture,0.6372540950775146
+standard table,BC626036464,standard table,10,Furniture,Technology,0.6774663708115056,semantic_conf,Technology,0.752740412012784,Services,0.5724748134613037
+MS Office per device,BC293699305,ms office per device,17,,Furniture,0.6856851708147492,semantic_conf,Furniture,0.761872412016388,Technology,0.6197221755981445
+deask,BC854357762,deask,20,Furniture,Services,0.811606150202884,agreement,Services,0.7337857694701256,Services,0.5148390769958496
+HON filing cabinet,BC430779274,hon filing cabinet,16,,Technology,0.8192500747785793,agreement,Technology,0.7730799773634741,Technology,0.48730475306510923
+3D printer backlit,BC206035856,3d printer backlit,18,,Technology,0.9463978409767151,zeroshot_high_conf,Services,0.7606654553873011,Technology,0.9463978409767151
+CDN service,BC744154611,cdn service,7,,Services,0.89287269115448,zeroshot_high_conf,Furniture,0.7779866622192888,Services,0.89287269115448
+Dell P2419H,BC313540619,dell p2419h,8,,Services,0.6990924679551234,semantic_conf,Services,0.7767694088390259,Technology,0.6997641921043396
+server maintenance,BC251770634,server maintenance,4,Services,Furniture,0.6859947154194932,semantic_conf,Furniture,0.7622163504661035,Services,0.7238531708717346
+desk chair,BC360971128,desk chair,3,Furniture,Furniture,0.9133207201957703,zeroshot_high_conf,Technology,0.7751107122744837,Furniture,0.9133207201957703
+compact divano,BC206948671,compact divano,11,Furniture,Technology,0.6817038070414033,semantic_conf,Technology,0.7574486744904481,Furniture,0.4944373369216919
+Used ソフトウェア monthly,BC386541544,used ソフトウェア monthly,6,,Furniture,0.6807661989054581,semantic_conf,Furniture,0.7564068876727312,Services,0.5204965710639954
+Knoll cupboard,BC789615654,knoll cupboard,16,,Technology,0.6918873899550381,semantic_conf,Technology,0.768763766616709,Furniture,0.6770204901695251
+armoire,BC585764529,armoire,2,Furniture,Furniture,0.9601496458053589,zeroshot_high_conf,Services,0.7721677997648259,Furniture,0.9601496458053589
+wooden tavolo Model A-981,BC771336642,wooden tavolo model a-981,1,,Furniture,0.8102960586547852,zeroshot_high_conf,Technology,0.7876840586831738,Furniture,0.8102960586547852
+emergency support,BC241489248,emergency support,13,Services,Furniture,0.7016708714993396,semantic_conf,Furniture,0.7796343016659328,Services,0.732181191444397
+IKEA table,BC542750235,ikea table,10,,Furniture,0.9749947786331177,zeroshot_high_conf,Technology,0.7406152179400606,Furniture,0.9749947786331177
+SQL Server,BC982551268,sql server,4,,Technology,0.8064653873443604,zeroshot_high_conf,Furniture,0.7588891595900964,Technology,0.8064653873443604
+bildschirm bluetooth,BC848328041,bildschirm bluetooth,12,Technology,Technology,0.9346238374710083,zeroshot_high_conf,Services,0.7379884732270203,Technology,0.9346238374710083
+USB printer Max,BC925875822,usb printer max,18,,Technology,0.8973063230514526,zeroshot_high_conf,Services,0.7648104219896266,Technology,0.8973063230514526
+dedicated line,BC578476787,dedicated line,7,Services,Furniture,0.8444720983601708,agreement,Furniture,0.7546783850891619,Furniture,0.54450945854187
+ソファ,BC456349916,ソファ,11,Furniture,Technology,0.6787979554388489,semantic_conf,Technology,0.7542199504876099,Furniture,0.6550114750862122
+storage cabinet Model C-687,BC517817593,storage cabinet model c-687,1,,Technology,0.7017727692756566,semantic_conf,Technology,0.7797475214173962,Furniture,0.6552670955657959
+brown mesh chair,BC648973579,brown mesh chair,14,Furniture,Furniture,0.8690251708030701,zeroshot_high_conf,Technology,0.7653152277057663,Furniture,0.8690251708030701
+deluxe skrivbord,BC306364903,deluxe skrivbord,8,Furniture,Services,0.6963252329144587,semantic_conf,Services,0.7736947032382874,Furniture,0.5639467835426331
+Teknion plastic canapé,BC765468716,teknion plastic canape,21,,Technology,0.8795501589775085,zeroshot_high_conf,Services,0.7357634907991606,Technology,0.8795501589775085
+steel HON table Model A-872,BC757207875,steel hon table model a-872,1,,Furniture,0.8789015412330627,zeroshot_high_conf,Technology,0.7704887743165661,Furniture,0.8789015412330627
+인터넷 서비스 plan,BC595367749,인터넷 서비스 plan,2,Services,Services,0.8254913930406869,agreement,Services,0.7357054927885075,Services,0.5342812657356262
+surface pro,BC741138124,surface pro,8,Technology,Services,0.6995688282761683,semantic_conf,Services,0.7772986980846314,Furniture,0.49781429767608637
+HON bookcase,BC185050803,hon bookcase,16,,Furniture,0.8775807619094849,zeroshot_high_conf,Technology,0.7722307303847143,Furniture,0.8775807619094849
+standard диван,BC100210054,standard диван,11,Furniture,Technology,0.6784695994112458,semantic_conf,Technology,0.7538551104569398,Services,0.5524503111839294
+lounge chair Model Pro-858,BC572944000,lounge chair model pro-858,1,,Furniture,0.9032642245292664,zeroshot_high_conf,Technology,0.781481241719978,Furniture,0.9032642245292664
+HON wardrobe,BC768676781,hon wardrobe,2,,Services,0.6801021497493571,semantic_conf,Services,0.7556690552770634,Furniture,0.4759563624858856
+Herman Miller Herman Miller Sayl,BC463377959,herman miller herman miller sayl,14,,Technology,0.6604563590871062,semantic_conf,Technology,0.7338403989856735,Furniture,0.7067539930343628
+Saleforce,BC694491286,saleforce,4,,Furniture,0.9354425929681056,agreement,Furniture,0.7470601409972619,Furniture,0.6920823097229004
+PRI line,BC592463803,pri line,7,,Furniture,0.6767079382809903,semantic_conf,Furniture,0.7518977092011003,Technology,0.5316078782081604
+taask chair,BC267618731,taask chair,14,Furniture,Furniture,0.877249002456665,zeroshot_high_conf,Technology,0.7743956973140732,Furniture,0.877249002456665
+gabinete,BC360183853,gabinete,2,Furniture,Services,0.6771800976043528,semantic_conf,Services,0.7524223306715031,Furniture,0.7236914038658142
+char,BC864555170,char,20,Furniture,Services,0.6659946630545767,semantic_conf,Services,0.7399940700606408,Furniture,0.57145174741745
+Used deluxe skrivbord,BC306364903,used deluxe skrivbord,8,,Services,0.6994967841420282,semantic_conf,Services,0.777218649046698,Furniture,0.5874837756156921
+data plan,BC733846414,data plan,7,Services,Furniture,0.695224890080383,semantic_conf,Furniture,0.7724721000893144,Services,0.5783437013626098
+soffa,BC670758903,soffa,11,Furniture,Furniture,0.9171843528747559,zeroshot_high_conf,Technology,0.7567403924965821,Furniture,0.9171843528747559
+divan,BC265497448,divan,11,Furniture,Furniture,0.9006837606430054,zeroshot_high_conf,Technology,0.7780407083535157,Furniture,0.9006837606430054
+shelf,BC307360430,shelf,20,Furniture,Services,0.6659736881800803,semantic_conf,Services,0.7399707646445336,Furniture,0.503303074836731
+VPN service per device,BC654705830,vpn service per device,17,,Furniture,0.6960721325132814,semantic_conf,Furniture,0.7734134805703126,Technology,0.649935507774353
+internet service contract,BC268583107,internet service contract,7,Services,Services,0.8068323135375977,zeroshot_high_conf,Furniture,0.7776826785309343,Services,0.8068323135375977
+locker,BC426315031,locker,20,Furniture,Services,0.8755368351270095,agreement,Services,0.7461446137503686,Services,0.6008351325988769
+maintenance contract,BC319646891,maintenance contract,15,Services,Furniture,0.676225123214345,semantic_conf,Furniture,0.751361248015939,Services,0.7425792813301086
+Desk Model D-100 Model B-658,BC670304472,desk model d-100 model b-658,1,,Furniture,0.8837153315544128,zeroshot_high_conf,Technology,0.7811749334504773,Furniture,0.8837153315544128
+storage unit,BC235106204,storage unit,2,Furniture,Services,0.9050668810119927,agreement,Services,0.7507159689008732,Services,0.6416946172714233
+Teknion bench,BC513173592,teknion bench,21,,Services,0.6742166882184969,semantic_conf,Services,0.7491296535761076,Furniture,0.6619408130645752
+bench,BC381919481,bench,3,Furniture,Furniture,0.9264353513717651,zeroshot_high_conf,Technology,0.763035228475503,Furniture,0.9264353513717651
+professional krzesło,BC391912946,professional krzesło,14,Furniture,Technology,0.6916796323643889,semantic_conf,Technology,0.768532924849321,Services,0.6762000560760498
+technical support,BC558568278,technical support,13,Services,Furniture,0.7129495604069629,semantic_conf,Furniture,0.7921661782299587,Technology,0.6817430257797241
+AutoCAD 2024,BC453566796,autocad 2024,6,,Furniture,0.6715026536307236,semantic_conf,Furniture,0.7461140595896929,Technology,0.7227345705032349
+managed services,BC859435175,managed services,7,Services,Services,0.9861924052238464,zeroshot_high_conf,Furniture,0.7793823049767046,Services,0.9861924052238464
+business internet,BC544572227,business internet,4,Services,Furniture,0.6926293739945512,semantic_conf,Furniture,0.769588193327279,Technology,0.6069416999816895
+filing cabnet,BC771437657,filing cabnet,16,Furniture,Technology,0.6941373341650906,semantic_conf,Technology,0.7712637046278784,Services,0.560166084766388
+professional デスク,BC368281808,professional テスク,21,Furniture,Services,0.8960270438512262,agreement,Services,0.7526472216875273,Services,0.6258559226989746
+طابعة compact v3,BC114746008,طابعة compact v3,18,Technology,Services,0.6779961695607902,semantic_conf,Services,0.753329077289767,Furniture,0.5289435148239136
+drukarka USB-C,BC544055921,drukarka usb-c,18,,Technology,0.8899242281913757,zeroshot_high_conf,Services,0.747796097324557,Technology,0.8899242281913757
+divan Model B-954,BC700248296,divan model b-954,1,,Furniture,0.949149489402771,zeroshot_high_conf,Technology,0.7726900334527661,Furniture,0.949149489402771
+의자,BC575672443,의자,2,Furniture,Services,0.6648085694557017,semantic_conf,Services,0.738676188284113,Furniture,0.5232390701770783
+lazer printer,BC989328868,lazer printer,18,Technology,Technology,0.8765556216239929,zeroshot_high_conf,Services,0.7737070708734461,Technology,0.8765556216239929
+Haworth armoire,BC605936741,haworth armoire,2,,Furniture,0.9726585149765015,zeroshot_high_conf,Services,0.7556550481855412,Furniture,0.9726585149765015
+Cabinet ST-500 Model X-180,BC434552915,cabinet st-500 model x-180,1,,Furniture,0.9240532517433167,zeroshot_high_conf,Technology,0.7742047662904431,Furniture,0.9240532517433167
+office sofa,BC884005207,office sofa,5,Furniture,Furniture,0.9846997857093811,zeroshot_high_conf,Technology,0.7742960075414633,Furniture,0.9846997857093811
+premium tabel,BC806437569,premium tabel,10,Furniture,Technology,0.661466564884229,semantic_conf,Technology,0.7349628498713655,Furniture,0.5666980862617492
+Ofice 365 enterprise,BC152930584,ofice 365 enterprise,6,,Furniture,0.6929800668082139,semantic_conf,Furniture,0.7699778520091265,Technology,0.6592281103134155
+SSL certificate,BC970884334,ssl certificate,17,,Furniture,0.6775617789480652,semantic_conf,Furniture,0.7528464210534058,Technology,0.6392012238502502
+Oracle,BC841688682,oracle,20,,Services,0.6663623939105184,semantic_conf,Services,0.7404026599005761,Technology,0.7049239277839661
+basic workstaton,BC949785821,basic workstaton,10,Furniture,Technology,0.8245529332622205,agreement,Technology,0.748335509554593,Technology,0.5202074646949768
+metal стул,BC838886075,metal стул,14,Furniture,Technology,0.682264542280313,semantic_conf,Technology,0.7580717136447922,Furniture,0.5337958872318267
+ASUS PB278Q 2021,BC835898867,asus pb278q 2021,8,,Services,0.691666021278869,semantic_conf,Services,0.7685178014209656,Technology,0.6548908948898315
+cadeira,BC618116050,cadeira,19,Furniture,Technology,0.7013184561523853,semantic_conf,Technology,0.7792427290582059,Furniture,0.52183438539505
+Knoll chaise,BC964926282,knoll chaise,14,,Furniture,0.945038378238678,zeroshot_high_conf,Technology,0.7689508130138413,Furniture,0.945038378238678
+gray writing desk,BC239344057,gray writing desk,3,Furniture,Furniture,0.8094710111618042,zeroshot_high_conf,Technology,0.7568238880481043,Furniture,0.8094710111618042
+schrank,BC887759003,schrank,16,Furniture,Technology,0.6899137669176998,semantic_conf,Technology,0.7665708521307776,Furniture,0.549790745973587
+label printer used,BC442863523,label printer used,18,Technology,Services,0.6869939615663292,semantic_conf,Services,0.763326623962588,Technology,0.6305297613143921
+support technique,BC304536802,support technique,13,Services,Furniture,0.7050428373845019,semantic_conf,Furniture,0.7833809304272243,Services,0.6424530148506165
+laser printer Plus,BC446886458,laser printer plus,18,,Technology,0.8409216403961182,zeroshot_high_conf,Services,0.7692252188188502,Technology,0.8409216403961182
+Office 365 E3,BC840831347,office 365 e3,6,,Furniture,0.6885588207564255,semantic_conf,Furniture,0.7650653563960284,Technology,0.6275325417518616
+Windows license,BC241936908,windows license,15,,Furniture,0.6852701757427264,semantic_conf,Furniture,0.7614113063808071,Technology,0.710839033126831
+standard mesh chair,BC844956951,standard mesh chair,14,Furniture,Furniture,0.8585626482963562,zeroshot_high_conf,Technology,0.7672042777126328,Furniture,0.8585626482963562
+task chair,BC809069927,task chair,19,Furniture,Furniture,0.8011619448661804,zeroshot_high_conf,Technology,0.7793163407945035,Furniture,0.8011619448661804
+SD-WAN service,BC371992483,sd-wan service,7,,Furniture,0.696889415350845,semantic_conf,Furniture,0.77432157261205,Technology,0.6276449918746948
+brown bench,BC435124877,brown bench,3,Furniture,Furniture,0.937028706073761,zeroshot_high_conf,Technology,0.7554467823352137,Furniture,0.937028706073761
+file cabinet,BC927200028,file cabinet,16,Furniture,Technology,0.6993082576365414,semantic_conf,Technology,0.7770091751517126,Services,0.5093013525009155
+طابعة dual-band - Refurbished,BC846326954,طابعة dual-band - refurbished,8,,Services,0.6975308858666529,semantic_conf,Services,0.7750343176296143,Technology,0.5190635561943054
+Herman Miller stoarge cabinet Model B-277,BC570746273,herman miller stoarge cabinet model b-277,1,,Furniture,0.9644908905029297,zeroshot_high_conf,Technology,0.7679355497529675,Furniture,0.9644908905029297
+armoire,BC681274244,armoire,2,Furniture,Furniture,0.9601496458053589,zeroshot_high_conf,Services,0.7721677997648259,Furniture,0.9601496458053589
+SQL Server,BC587197988,sql server,4,,Technology,0.8064653873443604,zeroshot_high_conf,Furniture,0.7588891595900964,Technology,0.8064653873443604
+Executive Table EX-200,BC575680693,executive table ex-200,10,,Furniture,0.8695217967033386,zeroshot_high_conf,Technology,0.7441758206050081,Furniture,0.8695217967033386
+remote support professional,BC171596938,remote support professional,13,Services,Furniture,0.687337200167934,semantic_conf,Furniture,0.7637080001865932,Services,0.7349938154220581
+Allsteel brown setee,BC120825650,allsteel brown setee,8,,Furniture,0.9730075001716614,zeroshot_high_conf,Services,0.760186919825354,Furniture,0.9730075001716614
+キャビネット,BC785717617,キャヒネット,0,Furniture,Services,0.8023324180563387,agreement,Services,0.7394728666574675,Services,0.49488469958305353
+work table Model C-170,BC484579421,work table model c-170,1,,Furniture,0.8550093173980713,zeroshot_high_conf,Technology,0.7768681998422314,Furniture,0.8550093173980713
+HON table,BC365388382,hon table,10,,Furniture,0.9229129552841187,zeroshot_high_conf,Technology,0.7738169720332307,Furniture,0.9229129552841187
+HON filing cabinet,BC447313528,hon filing cabinet,16,,Technology,0.8192500747785793,agreement,Technology,0.7730799773634741,Technology,0.48730475306510923
+business internet,BC172814771,business internet,4,Services,Furniture,0.6926293739945512,semantic_conf,Furniture,0.769588193327279,Technology,0.6069416999816895
+computer desk,BC728619698,computer desk,3,Furniture,Technology,0.7040840422730791,semantic_conf,Technology,0.7823156025256434,Furniture,0.6081773042678833
+LED monitor,BC445770698,led monitor,12,,Technology,0.891051173210144,zeroshot_high_conf,Services,0.7672438633942567,Technology,0.891051173210144
+compact loveseat,BC876938677,compact loveseat,5,Furniture,Furniture,0.9493368268013,zeroshot_high_conf,Technology,0.7490686992681479,Furniture,0.9493368268013
+Knoll canapé,BC639366915,knoll canape,16,,Technology,0.6876975112528744,semantic_conf,Technology,0.7641083458365271,Services,0.5007054805755615
+HP ZBook,BC960088617,hp zbook,8,,Technology,0.9121579527854919,zeroshot_high_conf,Services,0.7726222368648438,Technology,0.9121579527854919
+стул,BC292090149,стул,19,Furniture,Technology,0.6920739545616565,semantic_conf,Technology,0.7689710606240628,Services,0.4932954609394073
+SD-WAN service,BC508673666,sd-wan service,7,,Furniture,0.696889415350845,semantic_conf,Furniture,0.77432157261205,Technology,0.6276449918746948
+デスク,BC952818991,テスク,21,Furniture,Services,0.7876024577935633,agreement,Services,0.72817802489111,Services,0.4835180640220642
+Canon PIXMA,BC109588354,canon pixma,8,,Technology,0.7046489775180816,zeroshot_fallback,Services,0.7676707002094177,Technology,0.7829433083534241
+sectional,BC659340310,sectional,19,Furniture,Furniture,0.9280567169189453,zeroshot_high_conf,Technology,0.7527879227303861,Furniture,0.9280567169189453
+divano,BC944948773,divano,11,Furniture,Technology,0.6966658126566376,semantic_conf,Technology,0.7740731251740418,Furniture,0.5423730611801147
+Chair Model C-300,BC793746209,chair model c-300,1,,Furniture,0.9411923885345459,zeroshot_high_conf,Technology,0.7843248601129224,Furniture,0.9411923885345459
+MSP service,BC123762858,msp service,7,,Services,0.9580250978469849,zeroshot_high_conf,Furniture,0.772076027224782,Services,0.9580250978469849
+managed services business package,BC592547487,managed services business package,4,Services,Services,0.9822483658790588,zeroshot_high_conf,Furniture,0.7585298031867456,Services,0.9822483658790588
+stoarge cabinet,BC259188853,stoarge cabinet,16,Furniture,Furniture,0.8879026770591736,zeroshot_high_conf,Technology,0.7745385626257727,Furniture,0.8879026770591736
+writting desk,BC952970198,writting desk,3,Furniture,Furniture,0.8277478218078613,zeroshot_high_conf,Technology,0.7750258352603235,Furniture,0.8277478218078613
+Teknion sofá,BC566330798,teknion sofa,5,,Furniture,0.8218145370483398,zeroshot_high_conf,Technology,0.7564173559225058,Furniture,0.8218145370483398
+ergonomic chair Model B-810,BC405460403,ergonomic chair model b-810,1,,Furniture,0.8442255854606628,zeroshot_high_conf,Technology,0.7828672285249402,Furniture,0.8442255854606628
+диван,BC880474837,диван,11,Furniture,Technology,0.6997664999220338,semantic_conf,Technology,0.7775183332467042,Services,0.4850142002105713
+data plan,BC143650990,data plan,7,Services,Furniture,0.695224890080383,semantic_conf,Furniture,0.7724721000893144,Services,0.5783437013626098
+écran,BC967126986,ecran,20,Technology,Services,0.6630882213660391,semantic_conf,Services,0.7367646904067101,Furniture,0.5832128047943115
+Saleforce monthly,BC588212379,saleforce monthly,6,,Furniture,0.6771927991232773,semantic_conf,Furniture,0.7524364434703081,Services,0.5470117092132568
+dual monitor,BC584912105,dual monitor,12,Technology,Services,0.6906881880018677,semantic_conf,Services,0.7674313200020753,Technology,0.7644774317741394
+computer desk,BC847446866,computer desk,3,Furniture,Technology,0.7040840422730791,semantic_conf,Technology,0.7823156025256434,Furniture,0.6081773042678833
+Global HON table,BC338249032,global hon table,10,,Furniture,0.8606374859809875,zeroshot_high_conf,Technology,0.7544138124148531,Furniture,0.8606374859809875
+all-in-one printer 2024,BC713461653,all-in-one printer 2024,18,Technology,Technology,0.8318259119987488,zeroshot_high_conf,Services,0.75617966942615,Technology,0.8318259119987488
+Knoll height adjustable desk,BC515721250,knoll height adjustable desk,3,,Technology,0.6719480669122087,semantic_conf,Technology,0.7466089632357874,Furniture,0.7340613603591919
+Haworth chaise Model X-638,BC763281908,haworth chaise model x-638,1,,Furniture,0.9647130966186523,zeroshot_high_conf,Technology,0.7761146779229809,Furniture,0.9647130966186523
+metal storage cabinet,BC853045356,metal storage cabinet,16,Furniture,Technology,0.6938529127211513,semantic_conf,Technology,0.7709476808012793,Services,0.5058278739452362
+PC,BC874171682,piece,20,,Technology,0.8996332883834839,zeroshot_high_conf,Services,0.7375696511344018,Technology,0.8996332883834839
+char Model Pro-573,BC936156197,char model pro-573,1,,Technology,0.697355063739768,semantic_conf,Technology,0.7748389597108533,Furniture,0.688389801979065
+Dell P2419H,BC582291740,dell p2419h,8,,Services,0.6990924679551234,semantic_conf,Services,0.7767694088390259,Technology,0.6997641921043396
+compact stoarge cabinet Model X-620,BC261157630,compact stoarge cabinet model x-620,1,,Furniture,0.892372727394104,zeroshot_high_conf,Technology,0.7695355768373181,Furniture,0.892372727394104
+printer USB-C 2023,BC489707503,printer usb-c 2023,18,,Technology,0.9481316804885864,zeroshot_high_conf,Services,0.7617089539033839,Technology,0.9481316804885864
+Core i5 Laptop,BC610318004,core i5 laptop,8,,Technology,0.972362220287323,zeroshot_high_conf,Services,0.7685390802791504,Technology,0.972362220287323
+gray divan,BC599247875,gray divan,11,Furniture,Furniture,0.9311054348945618,zeroshot_high_conf,Technology,0.7571255577111207,Furniture,0.9311054348945618
+computadora,BC769983207,computadora,9,Technology,Technology,0.9002088308334351,zeroshot_high_conf,Services,0.7449880648265576,Technology,0.9002088308334351
+IKEA desk,BC812458132,ikea desk,3,,Furniture,0.9796270728111267,zeroshot_high_conf,Technology,0.7693370487536707,Furniture,0.9796270728111267
+bookcase,BC804623475,bookcase,20,Furniture,Furniture,0.8299936056137085,zeroshot_high_conf,Services,0.7431399436072411,Furniture,0.8299936056137085
+MPLS connection,BC761662253,mpls connection,7,,Furniture,0.6822683185014036,semantic_conf,Furniture,0.7580759094460039,Technology,0.6994258761405945
+counch,BC608789262,counch,19,Furniture,Technology,0.6841117634567676,semantic_conf,Technology,0.7601241816186307,Furniture,0.6085282802581787
+counch,BC958949509,counch,19,Furniture,Technology,0.6841117634567676,semantic_conf,Technology,0.7601241816186307,Furniture,0.6085282802581787
+copier v3,BC616716343,copier v3,18,Technology,Technology,0.8613284826278687,zeroshot_high_conf,Services,0.7523770719034144,Technology,0.8613284826278687
+Microsft Office volume license,BC175578677,microsft office volume license,15,,Furniture,0.6818981562133838,semantic_conf,Furniture,0.7576646180148708,Technology,0.5399811387062072
+metal height adjustable desk,BC922200725,metal height adjustable desk,3,Furniture,Furniture,0.8153552412986755,zeroshot_high_conf,Technology,0.7553138043727198,Furniture,0.8153552412986755
+ultra wide,BC611747739,ultra wide,12,Technology,Services,0.6871923577043977,semantic_conf,Services,0.7635470641159974,Furniture,0.6393944263458252
+chaise Model X-195 - Refurbished,BC750637748,chaise model x-195 - refurbished,1,,Furniture,0.9713423848152161,zeroshot_high_conf,Technology,0.773689722554939,Furniture,0.9713423848152161
+Dell P2419H 2020,BC887255513,dell p2419h 2020,8,,Services,0.6958229624543298,semantic_conf,Services,0.7731366249492554,Technology,0.6954209804534912
+abonnement internet,BC831693114,abonnement internet,17,Services,Furniture,0.6820943903181519,semantic_conf,Furniture,0.7578826559090577,Technology,0.5310981273651123
+steel krzesło,BC637569722,steel krzesło,14,Furniture,Technology,0.6816689845906463,semantic_conf,Technology,0.7574099828784958,Furniture,0.5451556921005248
+lazer printer,BC894582888,lazer printer,18,Technology,Technology,0.8765556216239929,zeroshot_high_conf,Services,0.7737070708734461,Technology,0.8765556216239929
+Knoll cabnet,BC623817304,knoll cabnet,16,,Technology,0.6945785039038601,semantic_conf,Technology,0.7717538932265112,Furniture,0.5083809971809387
+Allsteel sofa,BC993436624,allsteel sofa,5,,Furniture,0.9812019467353821,zeroshot_high_conf,Technology,0.7585715273893332,Furniture,0.9812019467353821
+Back-up software professional license,BC933454210,back-up software professional license,15,,Furniture,0.675314513253789,semantic_conf,Furniture,0.7503494591708767,Technology,0.7049271583557128
+brown workstaton,BC584135007,brown workstaton,10,Furniture,Technology,0.6663934609795048,semantic_conf,Technology,0.7404371788661165,Furniture,0.7131101131439209
+desktop,BC347939168,desktop,20,Technology,Services,0.6761957476683768,semantic_conf,Services,0.7513286085204186,Furniture,0.5119136810302735
+AV software,BC926834891,av software,17,,Technology,0.9361379742622375,zeroshot_high_conf,Furniture,0.7470235240960084,Technology,0.9361379742622375
+Teknion desk,BC715145139,teknion desk,21,,Services,0.6752695089010226,semantic_conf,Services,0.7502994543344694,Furniture,0.6747035980224609
+steel sofa Model A-576,BC900275928,steel sofa model a-576,1,,Furniture,0.967734694480896,zeroshot_high_conf,Technology,0.77520737602021,Furniture,0.967734694480896
+filing cabinet,BC690645339,filing cabinet,3,Furniture,Technology,0.6839507913213121,semantic_conf,Technology,0.7599453236903467,Services,0.5998937487602234
+label printer,BC444288576,label printer,18,Technology,Services,0.6968379905160668,semantic_conf,Services,0.7742644339067408,Technology,0.6178954243659973
+monitor,BC732286107,monitor,20,Technology,Services,0.6761957476683768,semantic_conf,Services,0.7513286085204186,Technology,0.7104060649871826
+couch,BC266421332,couch,11,Furniture,Furniture,0.9753221273422241,zeroshot_high_conf,Technology,0.757841707518097,Furniture,0.9753221273422241
+database support,BC247653166,database support,13,Services,Furniture,0.7093235356839099,semantic_conf,Furniture,0.788137261871011,Services,0.6532275080680847
+SAP professional,BC164183056,sap professional,4,,Furniture,0.6809656271607498,semantic_conf,Furniture,0.7566284746230554,Technology,0.6374162435531616
+silla Model B-277,BC920916739,silla model b-277,1,,Technology,0.7013703842792425,semantic_conf,Technology,0.779300426976936,Furniture,0.626015841960907
+deluxe office sofa,BC258927104,deluxe office sofa,5,Furniture,Furniture,0.9804089665412903,zeroshot_high_conf,Technology,0.7651197532690024,Furniture,0.9804089665412903
+broadband plan,BC153292024,broadband plan,7,Services,Furniture,0.6937595992955472,semantic_conf,Furniture,0.7708439992172746,Technology,0.6791607141494751
+ソフトウェア,BC307194917,ソフトウェア,0,Services,Services,0.6697149758962617,semantic_conf,Services,0.7441277509958464,Furniture,0.5136299014091491
+all-in-one certified,BC865185345,all-in-one certified,9,Technology,Services,0.6507518477985527,semantic_conf,Services,0.7230576086650585,Technology,0.5697051644325256
+AutoCAD basic,BC610945043,autocad basic,6,,Furniture,0.6752788820586106,semantic_conf,Furniture,0.7503098689540117,Technology,0.6316938996315002
+طابعة,BC839305702,طابعة,18,Technology,Services,0.8195324487508074,agreement,Services,0.7455639033777186,Services,0.5152552485466003
+Global chaise,BC255856197,global chaise,14,,Furniture,0.9343973398208618,zeroshot_high_conf,Technology,0.7658740212505356,Furniture,0.9343973398208618
+bildschirm portable,BC934746883,bildschirm portable,12,Technology,Services,0.6668272566053833,semantic_conf,Services,0.7409191740059815,Technology,0.6454398393630981
+storage unit,BC517254802,storage unit,2,Furniture,Services,0.9050668810119927,agreement,Services,0.7507159689008732,Services,0.6416946172714233
+برمجيات,BC757110239,برمجيات,0,Services,Services,0.8218775157054362,agreement,Services,0.7114044433862883,Services,0.5530225038528442
+Xerox WorkCentre,BC510391769,xerox workcentre,21,,Services,0.6589496081499087,semantic_conf,Services,0.7321662312776762,Technology,0.6242016792297364
+laser printer USB-C 2023,BC417476097,laser printer usb-c 2023,18,,Technology,0.9475363492965698,zeroshot_high_conf,Services,0.7613523989183375,Technology,0.9475363492965698
+server maintenance per user,BC671170800,server maintenance per user,17,Services,Furniture,0.690926690027472,semantic_conf,Furniture,0.7676963222527466,Services,0.7359176278114319
+bench,BC675696756,bench,3,Furniture,Furniture,0.9264353513717651,zeroshot_high_conf,Technology,0.763035228475503,Furniture,0.9264353513717651
+ISP service per user agreement,BC712555926,isp service per user agreement,17,,Services,0.8034073114395142,zeroshot_high_conf,Furniture,0.7591044915223084,Services,0.8034073114395142
+sectional - Refurbished,BC659340310,sectional - refurbished,8,,Furniture,0.9662996530532837,zeroshot_high_conf,Services,0.7678411694934754,Furniture,0.9662996530532837
+기술 지원 professional,BC462401682,기술 지원 professional,2,Services,Services,0.798462999891311,agreement,Services,0.731566129022791,Services,0.4968384861946106
+bench,BC494184264,bench,3,Furniture,Furniture,0.9264353513717651,zeroshot_high_conf,Technology,0.763035228475503,Furniture,0.9264353513717651
+software support,BC588920837,software support,13,Services,Furniture,0.7146711630852618,semantic_conf,Furniture,0.7940790700947353,Services,0.6707435846328735
+طابعة,BC123073060,طابعة,18,Technology,Services,0.8195324487508074,agreement,Services,0.7455639033777186,Services,0.5152552485466003
+Used professional キャビネット,BC504378331,used professional キャヒネット,0,,Services,0.8711742804368433,agreement,Services,0.7370522624284941,Services,0.6032158613204955
+프린터,BC499130788,프린터,2,Technology,Services,0.6669150154834574,semantic_conf,Services,0.7410166838705082,Furniture,0.5103253483772278
+шкаф,BC977399222,шкаф,16,Furniture,Technology,0.6944585555167141,semantic_conf,Technology,0.7716206172407934,Services,0.5354527592658996
+Used Steelcase Executive Seat EX-400,BC203354415,used steelcase executive seat ex-400,1,,Furniture,0.974676787853241,zeroshot_high_conf,Technology,0.7682419772317578,Furniture,0.974676787853241
+ISP service per user,BC638214657,isp service per user,17,,Services,0.7124560832977295,zeroshot_fallback,Furniture,0.7689178002381287,Services,0.7916178703308105
+large skrivbord Model A-867,BC871348981,large skrivbord model a-867,1,,Technology,0.7039245982799444,semantic_conf,Technology,0.7821384425332715,Furniture,0.6572711706161499
+pantalla USB-C,BC541578219,pantalla usb-c,12,,Technology,0.9186978936195374,zeroshot_high_conf,Services,0.7464530480408631,Technology,0.9186978936195374
+1080p Monitor used,BC347940275,1080p monitor used,12,,Technology,0.8690907955169678,zeroshot_high_conf,Services,0.7635929596924744,Technology,0.8690907955169678
+ergonomic chair,BC505626309,ergonomic chair,14,Furniture,Technology,0.7059221622334685,semantic_conf,Technology,0.7843579580371872,Furniture,0.7789594531059265
+IT support monthly,BC222583664,it support monthly,13,,Technology,0.6895504474639893,zeroshot_fallback,Furniture,0.7626453089748928,Technology,0.766167163848877
+shelving unit,BC949401282,shelving unit,2,Furniture,Services,0.8193544484486879,agreement,Services,0.7449616172849675,Services,0.5155836880207062
+Office Software,BC717675194,office software,4,,Furniture,0.6922403463990311,semantic_conf,Furniture,0.7691559404433679,Technology,0.6206817626953125
+SUPPORT CONTRACT PROFESSIONAL,BC155094221,support contract professional,13,,Furniture,0.6912708206208148,semantic_conf,Furniture,0.7680786895786831,Services,0.6793763041496277
+24/7 support,BC686700164,247 support,13,Services,Services,0.6957569181919098,zeroshot_fallback,Furniture,0.7639666843449184,Services,0.7730632424354553
+ソファ,BC314410364,ソファ,11,Furniture,Technology,0.6787979554388489,semantic_conf,Technology,0.7542199504876099,Furniture,0.6550114750862122
+soporte técnico,BC196078316,soporte tecnico,13,Services,Technology,0.9370502233505249,zeroshot_high_conf,Furniture,0.7768362212215969,Technology,0.9370502233505249
+4K Display,BC472352086,4k display,12,,Technology,0.9658584594726562,zeroshot_high_conf,Services,0.7688683879876099,Technology,0.9658584594726562
+HON cabinet,BC269327426,hon cabinet,10,,Furniture,0.9324675798416138,zeroshot_high_conf,Technology,0.7455363562266512,Furniture,0.9324675798416138
+VoIP service,BC883713061,voip service,7,,Furniture,0.7007066815766598,semantic_conf,Furniture,0.7785629795296221,Services,0.6039761781692504
+Dell Latitude touchscreen,BC442188032,dell latitude touchscreen,8,,Technology,0.9262504577636719,zeroshot_high_conf,Services,0.770727703230658,Technology,0.9262504577636719
+printr,BC941250135,printr,18,Technology,Services,0.6658241977628472,semantic_conf,Services,0.7398046641809413,Technology,0.5987985849380493
+27-inch All-in-One 2023,BC627685695,27-inch all-in-one 2023,8,,Services,0.6843156420502772,semantic_conf,Services,0.7603507133891968,Furniture,0.539236557483673
+Ricoh Aficio,BC131657501,ricoh aficio,21,,Services,0.6617823427347169,semantic_conf,Services,0.7353137141496855,Technology,0.7113539457321166
+professional Steelcase storage,BC820844854,professional steelcase storage,16,,Technology,0.6860870593161525,semantic_conf,Technology,0.7623189547957251,Services,0.4857866048812866
+glass locker,BC815120513,glass locker,20,Furniture,Services,0.8473333197165862,agreement,Services,0.7311800332144799,Services,0.5724096894264221
+Adobe CC,BC979843968,adobe cc,6,,Furniture,0.6758782484850785,semantic_conf,Furniture,0.7509758316500872,Technology,0.6245393753051758
+lazer printer,BC597764108,lazer printer,18,Technology,Technology,0.8765556216239929,zeroshot_high_conf,Services,0.7737070708734461,Technology,0.8765556216239929
+Reception Sofa RS-100,BC892012381,reception sofa rs-100,5,,Furniture,0.9867373704910278,zeroshot_high_conf,Technology,0.7670193532979941,Furniture,0.9867373704910278
+komputer,BC266123743,komputer,9,Technology,Technology,0.9447522759437561,zeroshot_high_conf,Services,0.7482793737064098,Technology,0.9447522759437561
+office desk,BC712750316,office desk,3,Furniture,Furniture,0.8796947598457336,zeroshot_high_conf,Technology,0.789218237623147,Furniture,0.8796947598457336
+work desk,BC920917342,work desk,3,Furniture,Furniture,0.8208921551704407,zeroshot_high_conf,Technology,0.7830462362613001,Furniture,0.8208921551704407
+armoire,BC220658235,armoire,2,Furniture,Furniture,0.9601496458053589,zeroshot_high_conf,Services,0.7721677997648259,Furniture,0.9601496458053589
+Used white reception sofa,BC349832483,used white reception sofa,5,,Furniture,0.9690430164337158,zeroshot_high_conf,Technology,0.7649249056852316,Furniture,0.9690430164337158
+24/7 support site license,BC668455421,247 support site license,15,Services,Furniture,0.6776067290779162,semantic_conf,Furniture,0.7528963656421291,Services,0.705986738204956
+workstation,BC775559969,workstation,20,Technology,Services,0.6759650240489157,semantic_conf,Services,0.7510722489432397,Furniture,0.701039958000183
+テクニカルサポート,BC402918178,テクニカルサホート,0,Services,Services,0.8014354900439676,agreement,Services,0.7216340905458647,Services,0.5113435864448547
+on-site support plan,BC723926702,on-site support plan,13,Services,Services,0.8040390610694885,zeroshot_high_conf,Furniture,0.76464695215574,Services,0.8040390610694885
+display,BC245047170,display,20,Technology,Services,0.8030584134985345,agreement,Services,0.7494083256796898,Services,0.48606615662574765
+armoire Model X-144 - Refurbished,BC197915848,armoire model x-144 - refurbished,1,,Furniture,0.9592239260673523,zeroshot_high_conf,Technology,0.7704366202523877,Furniture,0.9592239260673523
+scanner new,BC626232278,scanner new,18,Technology,Technology,0.8088534474372864,zeroshot_high_conf,Services,0.7525372891885707,Technology,0.8088534474372864
+escritorio,BC438718269,escritorio,3,Furniture,Technology,0.6898642038922654,semantic_conf,Technology,0.7665157821025171,Services,0.652492904663086
+all-in-one enterprise,BC368523822,all-in-one enterprise,4,Technology,Furniture,0.6776907035977463,semantic_conf,Furniture,0.7529896706641626,Technology,0.620481777191162
+drucker touchscreen v2,BC808101187,drucker touchscreen v2,8,Technology,Technology,0.898643434047699,zeroshot_high_conf,Services,0.7624663206508545,Technology,0.898643434047699
+copier,BC506258874,copier,20,Technology,Services,0.6707025299616964,semantic_conf,Services,0.7452250332907738,Technology,0.7323023080825806
+Ricoh Aficio dual-band,BC527392079,ricoh aficio dual-band,8,,Technology,0.8287766575813293,zeroshot_high_conf,Services,0.7737258764675049,Technology,0.8287766575813293
+black cabnet Model C-689,BC783858343,black cabnet model c-689,1,,Technology,0.7005995710525426,semantic_conf,Technology,0.7784439678361584,Furniture,0.6036530256271362
+file cabinet Model Pro-619,BC718724891,file cabinet model pro-619,1,,Technology,0.7046533008251104,semantic_conf,Technology,0.7829481120279004,Furniture,0.4814316987991333
+стул,BC797299908,стул,19,Furniture,Technology,0.6920739545616565,semantic_conf,Technology,0.7689710606240628,Services,0.4932954609394073
+Knoll office sofa,BC833606377,knoll office sofa,5,,Furniture,0.9848794937133789,zeroshot_high_conf,Technology,0.7644846061742758,Furniture,0.9848794937133789
+gabinete,BC602574675,gabinete,2,Furniture,Services,0.6771800976043528,semantic_conf,Services,0.7524223306715031,Furniture,0.7236914038658142
+bureau,BC447972640,bureau,19,Furniture,Technology,0.6866366340908466,semantic_conf,Technology,0.762929593434274,Furniture,0.6253193378448486
+Aeron chair,BC961995665,aeron chair,14,,Furniture,0.9250553250312805,zeroshot_high_conf,Technology,0.7829634477680222,Furniture,0.9250553250312805
+professional キャビネット,BC504378331,professional キャヒネット,0,Furniture,Services,0.8599458716233668,agreement,Services,0.752762735489102,Services,0.5702309131622314
+ultra wide,BC892786126,ultra wide,12,Technology,Services,0.6871923577043977,semantic_conf,Services,0.7635470641159974,Furniture,0.6393944263458252
+Teknion glass executive desk Model C-718,BC698663298,teknion glass executive desk model c-718,1,,Furniture,0.7151779353618622,zeroshot_fallback,Technology,0.7724429125955273,Furniture,0.7946421504020691
+كرسي,BC788165352,كرسي,19,Furniture,Technology,0.693502445438808,semantic_conf,Technology,0.7705582727097867,Services,0.5458600401878356
+Haworth fabric table Model Pro-544,BC686718533,haworth fabric table model pro-544,1,,Furniture,0.9536471962928772,zeroshot_high_conf,Technology,0.7730209584405591,Furniture,0.9536471962928772
+RDP software basic,BC114051099,rdp software basic,4,,Furniture,0.6721688935429673,semantic_conf,Furniture,0.7468543261588525,Technology,0.7017379999160767
+setee,BC982978122,setee,19,Furniture,Furniture,0.979966402053833,zeroshot_high_conf,Technology,0.7601946343087552,Furniture,0.979966402053833
+ERP system premium,BC145090037,erp system premium,4,,Furniture,0.6815353819996933,semantic_conf,Furniture,0.7572615355552148,Technology,0.7561315298080444
+task chair,BC659042709,task chair,19,Furniture,Furniture,0.8011619448661804,zeroshot_high_conf,Technology,0.7793163407945035,Furniture,0.8011619448661804
+compact height adjustable desk,BC108948759,compact height adjustable desk,3,Furniture,Furniture,0.6815402448177338,zeroshot_fallback,Technology,0.7539832498873987,Furniture,0.7572669386863708
+ソファ,BC410075739,ソファ,11,Furniture,Technology,0.6787979554388489,semantic_conf,Technology,0.7542199504876099,Furniture,0.6550114750862122
+LG UltraWide,BC835231799,large ultrawide,12,,Services,0.6904453944418397,semantic_conf,Services,0.7671615493798218,Technology,0.674002718925476
+Knoll sit-stand desk,BC590593090,knoll sit-stand desk,14,,Furniture,0.9485626220703125,zeroshot_high_conf,Technology,0.7649199297016159,Furniture,0.9485626220703125
+basic Steelcase desk,BC679745130,basic steelcase desk,16,,Furniture,0.9738117456436157,zeroshot_high_conf,Technology,0.7740869978369543,Furniture,0.9738117456436157
+Kimball professional canapé,BC771651925,kimball professional canape,14,,Technology,0.6807510253773894,semantic_conf,Technology,0.7563900281970993,Services,0.5467319011688232
+lap top v3,BC947336680,lap top v3,8,Technology,Technology,0.9461863040924072,zeroshot_high_conf,Services,0.771216520922461,Technology,0.9461863040924072
+sectional,BC524995927,sectional,19,Furniture,Furniture,0.9280567169189453,zeroshot_high_conf,Technology,0.7527879227303861,Furniture,0.9280567169189453
+VPN service annual,BC750262890,vpn service annual,17,,Furniture,0.6796292256567444,semantic_conf,Furniture,0.7551435840630494,Services,0.6307862401008606
+인터넷 서비스 PLAN,BC595367749,인터넷 서비스 plan,2,,Services,0.6621349435096567,semantic_conf,Services,0.7357054927885075,Technology,0.48561366796493527
+шкаф,BC145543743,шкаф,16,Furniture,Technology,0.6944585555167141,semantic_conf,Technology,0.7716206172407934,Services,0.5354527592658996
+seet,BC550522411,seet,19,Furniture,Technology,0.6933919384273944,semantic_conf,Technology,0.7704354871415494,Furniture,0.5368335902690887
+HP EliteDesk,BC620402022,hp elitedesk,8,,Services,0.7046319805894007,semantic_conf,Services,0.7829244228771118,Furniture,0.5340333938598633
+widescreen 2022,BC922790554,widescreen 2022,12,Technology,Services,0.6706602942202058,semantic_conf,Services,0.7451781046891175,Technology,0.5512153744697571
+HON filing cabnet,BC184264458,hon filing cabnet,16,,Technology,0.8925689332232699,agreement,Technology,0.7709935763777563,Technology,0.6021893978118896
+armario,BC183682466,armario,2,Furniture,Services,0.6923557679897135,semantic_conf,Services,0.7692841866552372,Furniture,0.6167914867401123
+filing cabinet,BC912497781,filing cabinet,3,Furniture,Technology,0.6839507913213121,semantic_conf,Technology,0.7599453236903467,Services,0.5998937487602234
+DSL,BC690106975,dsl,7,,Furniture,0.6773151367577817,semantic_conf,Furniture,0.752572374175313,Technology,0.6820215582847595
+armoire Model X-144,BC197915848,armoire model x-144,1,,Furniture,0.9609503746032715,zeroshot_high_conf,Technology,0.7761035914590527,Furniture,0.9609503746032715
+iCloud storage unlimited,BC327499388,icloud storage unlimited,7,,Technology,0.8102592825889587,zeroshot_high_conf,Furniture,0.7554477618439226,Technology,0.8102592825889587
+servicio de internet,BC396460161,servicio de internet,7,Services,Services,0.9338756799697876,zeroshot_high_conf,Furniture,0.7773150370819597,Services,0.9338756799697876
+Knoll file cabinet,BC441017812,knoll file cabinet,16,,Technology,0.6998256557555141,semantic_conf,Technology,0.7775840619505713,Furniture,0.5272589921951294
+Herman Miller desk - Refurbished,BC672263097,herman miller desk - refurbished,14,,Furniture,0.9457651376724243,zeroshot_high_conf,Technology,0.7516266038005844,Furniture,0.9457651376724243
+インターネットサービス,BC244667571,インターネットサーヒス,0,Services,Services,0.8229121209104953,agreement,Services,0.7301131492883879,Services,0.53590549826622
+SOC service business,BC318830034,soc service business,4,,Services,0.9686643481254578,zeroshot_high_conf,Furniture,0.7607750505507898,Services,0.9686643481254578
+security support,BC134163406,security support,13,Services,Furniture,0.709772537473003,semantic_conf,Furniture,0.788636152747781,Services,0.7181601762771607
+cloud backup per device,BC336999287,cloud backup per device,17,Services,Furniture,0.6930868875238861,semantic_conf,Furniture,0.7700965416932068,Technology,0.6654662489891052
+SLA agreement enterprise,BC245284437,sla agreement enterprise,15,,Services,0.6947112321853638,zeroshot_fallback,Furniture,0.7511268825526821,Services,0.7719013690948486
+Photoshop limited,BC739695468,photoshop limited,18,,Services,0.668300252192855,semantic_conf,Services,0.742555835769839,Technology,0.5777485013008118
+curved monitor,BC899641923,curved monitor,12,Technology,Technology,0.8797231316566467,zeroshot_high_conf,Services,0.7551781547570191,Technology,0.8797231316566467
+dedicated line per device subscription,BC699524216,dedicated line per device subscription,17,Services,Furniture,0.6769100021574463,semantic_conf,Furniture,0.7521222246193848,Technology,0.5436108112335205
+برمجيات,BC569762050,برمجيات,0,Services,Services,0.8218775157054362,agreement,Services,0.7114044433862883,Services,0.5530225038528442
+reception sofa,BC529280096,reception sofa,5,Furniture,Furniture,0.9645913243293762,zeroshot_high_conf,Technology,0.7793516139066672,Furniture,0.9645913243293762
+on-site support,BC168012695,on-site support,13,Services,Services,0.8463297486305237,zeroshot_high_conf,Furniture,0.7717362690006802,Services,0.8463297486305237
+photo printer wireless,BC396306713,photo printer wireless,18,Technology,Technology,0.8417416214942932,zeroshot_high_conf,Services,0.7692575245363185,Technology,0.8417416214942932
+Haworth computer desk Model A-419,BC435971123,haworth computer desk model a-419,1,,Technology,0.8537107476582994,agreement,Technology,0.772794878022926,Technology,0.5406062722206115
+phone support package,BC448854016,phone support package,13,Services,Services,0.8154274821281433,zeroshot_high_conf,Furniture,0.7692673850094387,Services,0.8154274821281433
+gabinete,BC629855936,gabinete,2,Furniture,Services,0.6771800976043528,semantic_conf,Services,0.7524223306715031,Furniture,0.7236914038658142
+secondary display,BC559084418,secondary display,12,Technology,Services,0.6680975507948365,semantic_conf,Services,0.7423306119942628,Technology,0.5463343977928161
+i-Mac,BC925310631,i-mac,9,,Technology,0.9491588473320007,zeroshot_high_conf,Services,0.7211662936816906,Technology,0.9491588473320007
+mesh armoire,BC420848110,mesh armoire,2,Furniture,Furniture,0.9398482441902161,zeroshot_high_conf,Services,0.764858660989954,Furniture,0.9398482441902161
+swivel chair,BC156999852,swivel chair,14,Furniture,Furniture,0.8358333110809326,zeroshot_high_conf,Technology,0.7663242151325241,Furniture,0.8358333110809326
+gabinete,BC655778818,gabinete,2,Furniture,Services,0.6771800976043528,semantic_conf,Services,0.7524223306715031,Furniture,0.7236914038658142
+диван,BC788691372,диван,11,Furniture,Technology,0.6997664999220338,semantic_conf,Technology,0.7775183332467042,Services,0.4850142002105713
+large workspace Model C-889,BC144910623,large workspace model c-889,1,,Technology,0.7008238573703679,semantic_conf,Technology,0.7786931748559643,Furniture,0.49289971590042114
+Global armoire,BC857134424,global armoire,2,,Furniture,0.931512176990509,zeroshot_high_conf,Services,0.7649612405836125,Furniture,0.931512176990509
+Steelcase premium Steelcase desk Model A-791,BC540396677,steelcase premium steelcase desk model a-791,1,,Furniture,0.9475728273391724,zeroshot_high_conf,Technology,0.7780847306420972,Furniture,0.9475728273391724
+OneDrive storage,BC695411648,onedrive storage,17,,Technology,0.9100214838981628,zeroshot_high_conf,Furniture,0.7509095085167847,Technology,0.9100214838981628
+internet service business,BC171508836,internet service business,7,Services,Furniture,0.6985118835839536,semantic_conf,Furniture,0.7761243150932817,Services,0.7673137784004211
+wardrobe,BC185260383,wardrobe,2,Furniture,Services,0.8630395696869196,agreement,Services,0.7476303556501408,Services,0.5801228284835815
+counch,BC389758574,counch,19,Furniture,Technology,0.6841117634567676,semantic_conf,Technology,0.7601241816186307,Furniture,0.6085282802581787
+deks,BC412651461,deks,3,Furniture,Technology,0.6768265223126756,semantic_conf,Technology,0.7520294692363062,Furniture,0.6118680834770203
+ITSM service,BC687703577,itsm service,7,,Furniture,0.7053692727956082,semantic_conf,Furniture,0.7837436364395647,Services,0.759305477142334
+SLA agreement,BC725996789,sla agreement,15,,Services,0.8748754262924194,zeroshot_high_conf,Furniture,0.7533540697093594,Services,0.8748754262924194
+chrome book used,BC587135978,chrome book used,8,Technology,Services,0.8624771291187417,agreement,Services,0.7680662366321472,Services,0.5588216543197632
+SLA agreement,BC290136266,sla agreement,15,,Services,0.8748754262924194,zeroshot_high_conf,Furniture,0.7533540697093594,Services,0.8748754262924194
+BI tool standard subscription,BC329703585,bi tool standard subscription,6,,Furniture,0.6756215610823533,semantic_conf,Furniture,0.750690623424837,Technology,0.601229453086853
+drukarka Gen 2 - Refurbished,BC411152157,drukarka gen 2 - refurbished,8,,Services,0.6932572149548639,semantic_conf,Services,0.7702857943942932,Furniture,0.62449049949646
+стул,BC134606221,стул,19,Furniture,Technology,0.6920739545616565,semantic_conf,Technology,0.7689710606240628,Services,0.4932954609394073
+Dropbox Business per device,BC944356532,dropbox business per device,17,,Furniture,0.677023942396399,semantic_conf,Furniture,0.7522488248848878,Technology,0.696640920639038
+work table,BC807478862,work table,10,Furniture,Furniture,0.8424681425094604,zeroshot_high_conf,Technology,0.7685725977580232,Furniture,0.8424681425094604
+support technique agreement,BC655091932,support technique agreement,13,Services,Furniture,0.688574342253963,semantic_conf,Furniture,0.7650826025044033,Services,0.7048994779586791
+16GB RAM Computer v2,BC888412068,16gb ram computer v2,9,,Technology,0.9427485466003418,zeroshot_high_conf,Services,0.7296314049373364,Technology,0.9427485466003418
+desk,BC154245232,desk,3,Furniture,Furniture,0.936634361743927,zeroshot_high_conf,Technology,0.7825004961337366,Furniture,0.936634361743927
+Haworth small デスク,BC323818407,haworth small テスク,21,,Services,0.6612739031938539,semantic_conf,Services,0.7347487813265043,Furniture,0.4882120013236999
+Executive Seat EX-400,BC771939435,executive seat ex-400,1,,Furniture,0.8598229289054871,zeroshot_high_conf,Technology,0.7676835413148572,Furniture,0.8598229289054871
+Global glass cabnit,BC933135507,global glass cabnit,16,,Technology,0.8354811953053697,agreement,Technology,0.7600192287863562,Technology,0.5253364562988281
+IT support basic license,BC690929397,it support basic license,13,,Technology,0.7058077454566956,zeroshot_fallback,Furniture,0.7617140460049221,Technology,0.7842308282852173
+LCD monitor,BC677678962,lcd monitor,12,,Technology,0.9200593829154968,zeroshot_high_conf,Services,0.7659982455277405,Technology,0.9200593829154968
+Apple iMac 2024,BC365635280,apple imac 2024,8,,Technology,0.929598331451416,zeroshot_high_conf,Services,0.7605248781612305,Technology,0.929598331451416
+height adjustable desk,BC448594692,height adjustable desk,3,Furniture,Technology,0.6847625887017594,semantic_conf,Technology,0.7608473207797327,Furniture,0.7160667777061462
+Adoby Creative enterprise,BC300164147,adoby creative enterprise,6,,Furniture,0.6726002135596176,semantic_conf,Furniture,0.7473335706217974,Technology,0.5490069329738616
+Dropbox Business,BC196829676,dropbox business,4,,Furniture,0.6836878547341446,semantic_conf,Furniture,0.7596531719268274,Services,0.6066875696182251
+Windows 10 Pro,BC785075265,windows 10 pro,8,,Technology,0.8480318784713745,zeroshot_high_conf,Services,0.775466689722815,Technology,0.8480318784713745
+Used DSL premium,BC230955221,used dsl premium,8,,Services,0.6942067705903162,semantic_conf,Services,0.7713408562114624,Technology,0.541742581129074
+Steelcase divano,BC856035092,steelcase divano,16,,Furniture,0.9266169667243958,zeroshot_high_conf,Technology,0.7676273444594214,Furniture,0.9266169667243958
+HON swivel chair,BC522409833,hon swivel chair,14,,Furniture,0.8980298638343811,zeroshot_high_conf,Technology,0.7759115030353562,Furniture,0.8980298638343811
+bench Model Pro-337,BC762427117,bench model pro-337,1,,Furniture,0.9125643968582153,zeroshot_high_conf,Technology,0.7852742428949048,Furniture,0.9125643968582153
+인터넷 서비스 standard,BC215847550,인터넷 서비스 standard,2,Services,Services,0.6529860358482188,semantic_conf,Services,0.7255400398313542,Furniture,0.5178318619728088
+filing cabinet,BC123301671,filing cabinet,3,Furniture,Technology,0.6839507913213121,semantic_conf,Technology,0.7599453236903467,Services,0.5998937487602234
+cabinet,BC371775842,cabinet,20,Furniture,Furniture,0.8806821703910828,zeroshot_high_conf,Services,0.7432238669470849,Furniture,0.8806821703910828
+キャビネット,BC757611451,キャヒネット,0,Furniture,Services,0.8023324180563387,agreement,Services,0.7394728666574675,Services,0.49488469958305353
+database support unlimited,BC279110141,database support unlimited,13,Services,Furniture,0.683613918546001,semantic_conf,Furniture,0.7595710206066677,Services,0.664414358139038
+SIP trunk,BC758245879,sip trunk,16,,Technology,0.8250910304532275,agreement,Technology,0.7459784606398413,Technology,0.5233923554420471
+monitor v3,BC440908961,monitor v3,12,Technology,Technology,0.6968646705150604,zeroshot_fallback,Services,0.7585143459343873,Technology,0.7742940783500671
+plastic sofa Model X-348,BC146688450,plastic sofa model x-348,1,,Furniture,0.9576216340065002,zeroshot_high_conf,Technology,0.7841298337152173,Furniture,0.9576216340065002
+plastic office desk Model B-385,BC315495749,plastic office desk model b-385,1,,Technology,0.698285843912116,semantic_conf,Technology,0.7758731599023511,Furniture,0.606809139251709
+canapé Model B-565,BC997969776,canape model b-565,1,,Technology,0.7055364986095342,semantic_conf,Technology,0.7839294428994824,Services,0.5180883347988129
+managed services enterprise,BC920536715,managed services enterprise,4,Services,Services,0.976955235004425,zeroshot_high_conf,Furniture,0.7598089784682702,Services,0.976955235004425
+Anti-virus basic,BC704672023,anti-virus basic,17,,Furniture,0.6842447172853913,semantic_conf,Furniture,0.7602719080948792,Technology,0.6149392127990723
+Adobe Creative Suite monthly bundle,BC582522615,adobe creative suite monthly bundle,6,,Furniture,0.6874625482878587,semantic_conf,Furniture,0.7638472758753985,Technology,0.6603657960891723
+4K MONITOR BACKLIT,BC886411102,4k monitor backlit,12,,Technology,0.8128978610038757,zeroshot_high_conf,Services,0.7646117818856202,Technology,0.8128978610038757
+cadeira,BC553615317,cadeira,19,Furniture,Technology,0.7013184561523853,semantic_conf,Technology,0.7792427290582059,Furniture,0.52183438539505
+krzesło,BC229429404,krzesło,19,Furniture,Technology,0.6878363325390278,semantic_conf,Technology,0.7642625917100309,Services,0.5288125872612
+Haworth swivel chair,BC213294985,haworth swivel chair,14,,Furniture,0.9235842823982239,zeroshot_high_conf,Technology,0.7652957369869248,Furniture,0.9235842823982239
+ASUS PB278Q certified,BC196725836,asus pb278q certified,9,,Services,0.6539625056335594,semantic_conf,Services,0.7266250062595104,Technology,0.6171641945838928
+HON イス,BC803040905,hon イス,0,,Services,0.6609329407838808,semantic_conf,Services,0.734369934204312,Technology,0.5006520628929138
+table,BC317790892,table,10,Furniture,Technology,0.6685014626884892,semantic_conf,Technology,0.7427794029872102,Furniture,0.5648841261863708
+стул,BC501535849,стул,19,Furniture,Technology,0.6920739545616565,semantic_conf,Technology,0.7689710606240628,Services,0.4932954609394073
+LG UltraWide Gen 2,BC159124453,large ultrawide gen 2,12,,Services,0.6771187853071656,semantic_conf,Services,0.7523542058968506,Technology,0.6803433895111084
+Lenovo ThinkPad,BC752817769,lenovo thinkpad,8,,Technology,0.8982166647911072,zeroshot_high_conf,Services,0.7718259188106446,Technology,0.8982166647911072
+طابعة dual-band,BC846326954,طابعة dual-band,18,Technology,Services,0.6845110406812431,semantic_conf,Services,0.760567822979159,Technology,0.5911752104759216
+workstaton,BC432342748,workstaton,10,Furniture,Technology,0.9484072211249981,agreement,Technology,0.7425557067553682,Technology,0.7165323257446289
+managed services,BC777153720,managed services,7,Services,Services,0.9861924052238464,zeroshot_high_conf,Furniture,0.7793823049767046,Services,0.9861924052238464
+Ofice 365,BC811871111,ofice 365,6,,Furniture,0.6881259122214218,semantic_conf,Furniture,0.764584346912691,Technology,0.553628784418106
+MS Office,BC796403636,ms office,4,,Furniture,0.684973491159163,semantic_conf,Furniture,0.7610816568435144,Services,0.5364996671676635
+ergonomic chair,BC554773258,ergonomic chair,14,Furniture,Technology,0.7059221622334685,semantic_conf,Technology,0.7843579580371872,Furniture,0.7789594531059265
+database support business,BC834773724,database support business,13,Services,Furniture,0.6890791339905658,semantic_conf,Furniture,0.7656434822117397,Services,0.6017633080482483
+RDP software,BC978505410,rdp software,4,,Technology,0.6937522888183594,zeroshot_fallback,Furniture,0.7500713080466699,Technology,0.7708358764648438
+Kyocera ECOSYS dual-band,BC864524716,kyocera ecosys dual-band,8,,Technology,0.9157348871231079,zeroshot_high_conf,Services,0.7784718963077454,Technology,0.9157348871231079
+HP ProBook,BC176648733,hp probook,8,,Technology,0.9005262851715088,zeroshot_high_conf,Services,0.7801379057338623,Technology,0.9005262851715088
+Office 365,BC765931799,office 365,6,,Furniture,0.6948508539519211,semantic_conf,Furniture,0.7720565043910235,Technology,0.6387297391891479
+compter,BC342217581,compter,21,Technology,Services,0.6626756792692171,semantic_conf,Services,0.7363063102991301,Technology,0.7117092847824097
+принтер portable Plus,BC459910894,принтер portable plus,18,,Services,0.6865859439309837,semantic_conf,Services,0.7628732710344264,Technology,0.6852851629257202
+SIP trunk enterprise,BC927636977,sip trunk enterprise,4,,Furniture,0.6758937308461289,semantic_conf,Furniture,0.7509930342734765,Technology,0.626841402053833
+IT support,BC638828465,it support,13,,Technology,0.873793363571167,zeroshot_high_conf,Furniture,0.7770395326649258,Technology,0.873793363571167
+Lounge Seating LS-200,BC218494225,lounge seating ls-200,5,,Furniture,0.908184289932251,zeroshot_high_conf,Technology,0.7487176279104208,Furniture,0.908184289932251
+4k monitor v3,BC761421566,4k monitor v3,12,Technology,Technology,0.9301666021347046,zeroshot_high_conf,Services,0.7617301953339539,Technology,0.9301666021347046
+steel szafa,BC164480705,steel szafa,16,Furniture,Technology,0.6982728713126125,semantic_conf,Technology,0.7758587459029028,Furniture,0.5474650382995605
+deluxe skrivbord,BC508774805,deluxe skrivbord,8,Furniture,Services,0.6963252329144587,semantic_conf,Services,0.7736947032382874,Furniture,0.5639467835426331
+Chromebook,BC683579921,chromebook,8,,Technology,0.9834972023963928,zeroshot_high_conf,Services,0.7746127339771179,Technology,0.9834972023963928
+stol,BC780830076,stol,19,Furniture,Technology,0.7001521780285297,semantic_conf,Technology,0.7779468644761441,Furniture,0.601912522315979
+computadora backlit,BC863934819,computadora backlit,9,Technology,Technology,0.8322439193725586,zeroshot_high_conf,Services,0.7419438171992992,Technology,0.8322439193725586
+Used Anti virus per user,BC878647434,used anti virus per user,17,,Furniture,0.6946177851412263,semantic_conf,Furniture,0.771797539045807,Technology,0.6505966186523438
+executive desk,BC431784498,executive desk,3,Furniture,Furniture,0.864224910736084,zeroshot_high_conf,Technology,0.7762746121730127,Furniture,0.864224910736084
+DSL premium,BC230955221,dsl premium,7,,Furniture,0.6829430550011899,semantic_conf,Furniture,0.7588256166679888,Technology,0.6700743198394775
+iCloud storage,BC803740977,icloud storage,7,,Technology,0.8555589914321899,zeroshot_high_conf,Furniture,0.7630167768700151,Technology,0.8555589914321899
+premium cabnit,BC490922764,premium cabnit,16,Furniture,Technology,0.6844755344958249,semantic_conf,Technology,0.7605283716620276,Furniture,0.5485283732414246
+ITSM service service,BC706496928,itsm service service,7,,Services,0.819917619228363,zeroshot_high_conf,Furniture,0.7801670001251726,Services,0.819917619228363
+biurko,BC921584159,biurko,3,Furniture,Technology,0.8381608786244906,agreement,Technology,0.7544976975764551,Technology,0.5349805772304534
+bureau Model A-798,BC256571398,bureau model a-798,1,,Technology,0.707379659000388,semantic_conf,Technology,0.7859773988893201,Furniture,0.6007378101348877
+notebook,BC166582406,notebook,20,Technology,Services,0.8504119949866669,agreement,Services,0.7498415918425622,Services,0.5584845542907715
+schreibtisch Model B-336,BC967949720,schreibtisch model b-336,1,,Technology,0.68731646734809,semantic_conf,Technology,0.7636849637201001,Furniture,0.5774626851081848
+Back-up software,BC220828027,back-up software,17,,Furniture,0.6700334083292451,semantic_conf,Furniture,0.7444815648102723,Technology,0.6590192317962646
+height adjustable desk,BC524784283,height adjustable desk,3,Furniture,Technology,0.6847625887017594,semantic_conf,Technology,0.7608473207797327,Furniture,0.7160667777061462
+shelf,BC274079423,shelf,20,Furniture,Services,0.6659736881800803,semantic_conf,Services,0.7399707646445336,Furniture,0.503303074836731
+SD-WAN service per device,BC848438614,sd-wan service per device,17,,Furniture,0.6877781521532502,semantic_conf,Furniture,0.7641979468369446,Technology,0.6827081680297852
+Adobe CC All Apps,BC486556226,adobe cc all apps,6,,Technology,0.7088679313659668,zeroshot_fallback,Furniture,0.7595979415400713,Technology,0.7876310348510742
+SSH client,BC603330974,ssh client,17,,Furniture,0.6768297504637207,semantic_conf,Furniture,0.7520330560708008,Technology,0.6101025342941284
+Lounge Seating LS-200 Model X-640,BC427012523,lounge seating ls-200 model x-640,1,,Furniture,0.8560630083084106,zeroshot_high_conf,Technology,0.7748526091745068,Furniture,0.8560630083084106
+Kimball loveseat,BC879872949,kimball loveseat,5,,Furniture,0.974806547164917,zeroshot_high_conf,Technology,0.7461760858571982,Furniture,0.974806547164917
+ITIL support,BC263162642,itil support,13,,Furniture,0.6947551174195209,semantic_conf,Furniture,0.7719501304661343,Technology,0.7588571906089783
+cabnet,BC955220572,cabnet,16,Furniture,Technology,0.8398645804867967,agreement,Technology,0.7637279489935705,Technology,0.5283714056015014
+notebook,BC992654825,notebook,20,Technology,Services,0.8504119949866669,agreement,Services,0.7498415918425622,Services,0.5584845542907715
+MFP,BC891474266,mfp,20,,Services,0.6474553952761801,semantic_conf,Services,0.7193948836402001,Furniture,0.5319855153560638
+white armchair,BC301792175,white armchair,19,Furniture,Furniture,0.9317294359207153,zeroshot_high_conf,Technology,0.755874728074014,Furniture,0.9317294359207153
+premium sectional Model Pro-594,BC517304549,premium sectional model pro-594,1,,Furniture,0.9667794704437256,zeroshot_high_conf,Technology,0.7806331868341138,Furniture,0.9667794704437256
+1TB SSD Laptop touchscreen 2020,BC921837488,1tb ssd laptop touchscreen 2020,8,,Technology,0.9620697498321533,zeroshot_high_conf,Services,0.7662587257793335,Technology,0.9620697498321533
+iCloud storage service,BC905687707,icloud storage service,7,,Furniture,0.6959486037167814,semantic_conf,Furniture,0.7732762263519792,Technology,0.7108523368835449
+label printer,BC561778017,label printer,18,Technology,Services,0.6968379905160668,semantic_conf,Services,0.7742644339067408,Technology,0.6178954243659973
+HP OfficeJet,BC385891368,hp officejet,18,,Services,0.6872543504174949,semantic_conf,Services,0.7636159449083277,Technology,0.7166809439659119
+Global bookcase,BC800587168,global bookcase,16,,Furniture,0.818692684173584,zeroshot_high_conf,Technology,0.7640008190573523,Furniture,0.818692684173584
+leather Aeron chair,BC744354734,leather aeron chair,14,,Furniture,0.9545280933380127,zeroshot_high_conf,Technology,0.780799679953386,Furniture,0.9545280933380127
+chrome book,BC481584364,chrome book,8,Technology,Services,0.845972649472059,agreement,Services,0.768180677550116,Services,0.5333157062530517
+cloud backup,BC367321301,cloud backup,17,Services,Furniture,0.6743934463713136,semantic_conf,Furniture,0.7493260515236817,Technology,0.7142816305160522
+support contract package,BC307511166,support contract package,13,Services,Furniture,0.6909914417298236,semantic_conf,Furniture,0.7677682685886928,Services,0.7321998476982117
+on-site support,BC723876967,on-site support,13,Services,Services,0.8463297486305237,zeroshot_high_conf,Furniture,0.7717362690006802,Services,0.8463297486305237
+server maintenance,BC769136744,server maintenance,4,Services,Furniture,0.6859947154194932,semantic_conf,Furniture,0.7622163504661035,Services,0.7238531708717346
+stuhl,BC422481128,stuhl,19,Furniture,Technology,0.6928627922329365,semantic_conf,Technology,0.769847546925485,Furniture,0.5108627557754516
+Salesforce Enterprise business,BC739018322,salesforce enterprise business,4,,Furniture,0.6911660144002061,semantic_conf,Furniture,0.7679622382224511,Technology,0.6288036108016968
+wooden sofá,BC263369074,wooden sofa,11,Furniture,Furniture,0.9846240282058716,zeroshot_high_conf,Technology,0.7629919660592042,Furniture,0.9846240282058716
+soffa,BC295858216,soffa,11,Furniture,Furniture,0.9171843528747559,zeroshot_high_conf,Technology,0.7567403924965821,Furniture,0.9171843528747559
+sit-stand desk,BC757518717,sit-stand desk,3,Furniture,Furniture,0.892298698425293,zeroshot_high_conf,Technology,0.7711028363551417,Furniture,0.892298698425293
+wooden workstaton,BC897218787,wooden workstaton,10,Furniture,Furniture,0.8487838506698608,zeroshot_high_conf,Technology,0.7492595603625459,Furniture,0.8487838506698608
+ASUS Monitor,BC621089199,asus monitor,12,,Technology,0.9041352272033691,zeroshot_high_conf,Services,0.7587889445328675,Technology,0.9041352272033691
+deluxe sofa,BC333848350,deluxe sofa,5,Furniture,Furniture,0.9811215996742249,zeroshot_high_conf,Technology,0.760165653613851,Furniture,0.9811215996742249
+plastic Aeron chair,BC968451673,plastic aeron chair,14,,Furniture,0.8659670948982239,zeroshot_high_conf,Technology,0.7793461014812485,Furniture,0.8659670948982239
+Steelcase storage,BC292056726,steelcase storage,16,,Technology,0.6982338183493557,semantic_conf,Technology,0.7758153537215063,Furniture,0.5401199221611023
+escritorio,BC587563596,escritorio,3,Furniture,Technology,0.6898642038922654,semantic_conf,Technology,0.7665157821025171,Services,0.652492904663086
+mesh filing cabinet,BC706570606,mesh filing cabinet,16,Furniture,Technology,0.6947631471724454,semantic_conf,Technology,0.7719590524138281,Services,0.5080470442771912
+Steelcase Leap,BC128130121,steelcase leap,16,,Furniture,0.696562922000885,zeroshot_fallback,Technology,0.7685706475676367,Furniture,0.7739588022232056
+NOC service,BC562340417,noc service,7,,Services,0.9611108899116516,zeroshot_high_conf,Furniture,0.7755143211586504,Services,0.9611108899116516
+software support,BC853030195,software support,13,Services,Furniture,0.7146711630852618,semantic_conf,Furniture,0.7940790700947353,Services,0.6707435846328735
+sectional,BC697347361,sectional,19,Furniture,Furniture,0.9280567169189453,zeroshot_high_conf,Technology,0.7527879227303861,Furniture,0.9280567169189453
+managed services,BC458167668,managed services,7,Services,Services,0.9861924052238464,zeroshot_high_conf,Furniture,0.7793823049767046,Services,0.9861924052238464
+computer desk,BC372826122,computer desk,3,Furniture,Technology,0.7040840422730791,semantic_conf,Technology,0.7823156025256434,Furniture,0.6081773042678833
+multifunction printer,BC993830749,multifunction printer,18,Technology,Technology,0.7184920191764832,zeroshot_fallback,Services,0.7706998973352381,Technology,0.798324465751648
+стул,BC885526510,стул,19,Furniture,Technology,0.6920739545616565,semantic_conf,Technology,0.7689710606240628,Services,0.4932954609394073
+Global work desk,BC566177523,global work desk,3,,Technology,0.6879922902207719,semantic_conf,Technology,0.7644358780230799,Furniture,0.7519802451133728
+Samsung Monitor,BC261795387,samsung monitor,12,,Technology,0.9393365979194641,zeroshot_high_conf,Services,0.7642090929055176,Technology,0.9393365979194641
+Google Workspace,BC547236783,google workspace,4,,Furniture,0.6776289591462235,semantic_conf,Furniture,0.7529210657180261,Technology,0.6051396727561951
+managed services,BC486782357,managed services,7,Services,Services,0.9861924052238464,zeroshot_high_conf,Furniture,0.7793823049767046,Services,0.9861924052238464
+キャビネット,BC785605643,キャヒネット,0,Furniture,Services,0.8023324180563387,agreement,Services,0.7394728666574675,Services,0.49488469958305353
+data plan - Refurbished,BC733846414,data plan - refurbished,8,,Services,0.7011816405568232,semantic_conf,Services,0.7790907117298035,Technology,0.49897692203521726
+professional couch,BC528628393,professional couch,5,Furniture,Furniture,0.9551191926002502,zeroshot_high_conf,Technology,0.7503171185529685,Furniture,0.9551191926002502
+Kimball ソファ Model Pro-426,BC756598356,kimball ソファ model pro-426,1,,Technology,0.6944562395248326,semantic_conf,Technology,0.7716180439164807,Furniture,0.5694493889808655
+bookcase - Refurbished,BC804623475,bookcase - refurbished,8,,Furniture,0.8144440054893494,zeroshot_high_conf,Services,0.7792985531261353,Furniture,0.8144440054893494
+モニター,BC629977010,モニター,0,Technology,Services,0.6597381776002871,semantic_conf,Services,0.7330424195558745,Furniture,0.5126240074634552
+plastic диван,BC338965760,plastic диван,11,Furniture,Technology,0.6799491595480408,semantic_conf,Technology,0.7554990661644898,Services,0.48089071512222287
+Knoll イス,BC357227536,knoll イス,0,,Services,0.6624801998762118,semantic_conf,Services,0.7360891109735686,Furniture,0.5642209410667419
+VPN service,BC740178067,vpn service,7,,Furniture,0.6990862518224027,semantic_conf,Furniture,0.7767625020248918,Services,0.6226499676704407
+Dell P2419H,BC392201792,dell p2419h,8,,Services,0.6990924679551234,semantic_conf,Services,0.7767694088390259,Technology,0.6997641921043396
+internet service,BC639449617,internet service,7,Services,Furniture,0.7114915758046414,semantic_conf,Furniture,0.7905461953384905,Services,0.7002559900283813
+computer v3,BC987077148,computer v3,9,Technology,Technology,0.9317516684532166,zeroshot_high_conf,Services,0.7444544244418835,Technology,0.9317516684532166
+white height adjustable desk,BC472929578,white height adjustable desk,3,Furniture,Furniture,0.832136332988739,zeroshot_high_conf,Technology,0.751123538240365,Furniture,0.832136332988739
+mesh shelf,BC783809682,mesh shelf,16,Furniture,Technology,0.6845793896288814,semantic_conf,Technology,0.7606437662543127,Furniture,0.6662228822708129
+HP EliteDesk quiet,BC395627385,hp elitedesk quiet,8,,Services,0.6970597290310968,semantic_conf,Services,0.774510810034552,Furniture,0.6440237045288085
+digital device,BC858305156,digital device,9,Technology,Technology,0.9571600556373596,zeroshot_high_conf,Services,0.736434261859486,Technology,0.9571600556373596
+fabric مكتب,BC243974416,fabric مكتب,16,Furniture,Technology,0.6946893864245358,semantic_conf,Technology,0.771877096027262,Furniture,0.5592398107051849
+Steelcase desk,BC209815321,steelcase desk,16,,Furniture,0.9749001264572144,zeroshot_high_conf,Technology,0.7803345778883765,Furniture,0.9749001264572144
+SD-WAN service,BC758347916,sd-wan service,7,,Furniture,0.696889415350845,semantic_conf,Furniture,0.77432157261205,Technology,0.6276449918746948
+printer,BC805315791,printer,18,Technology,Services,0.6975449135240318,semantic_conf,Services,0.7750499039155909,Technology,0.6512452960014343
+stoarge cabinet,BC872493367,stoarge cabinet,16,Furniture,Furniture,0.8879026770591736,zeroshot_high_conf,Technology,0.7745385626257727,Furniture,0.8879026770591736
+compact szafa,BC750009892,compact szafa,16,Furniture,Technology,0.6999324076743069,semantic_conf,Technology,0.7777026751936743,Services,0.5056534707546234
+antivirus software,BC322003929,antivirus software,17,Services,Furniture,0.6819896768782105,semantic_conf,Furniture,0.7577663076424561,Technology,0.7012354135513306
+sofa,BC870780411,sofa,11,Furniture,Furniture,0.9888992309570312,zeroshot_high_conf,Technology,0.7904008043312989,Furniture,0.9888992309570312
+Kimball shelf,BC521815818,kimball shelf,16,,Technology,0.6890051417918148,semantic_conf,Technology,0.765561268657572,Furniture,0.6573706269264221
+LG 27UK850 portable,BC303870775,large 27uk850 portable,8,,Technology,0.9104222059249878,zeroshot_high_conf,Services,0.7603350969722656,Technology,0.9104222059249878
+プリンター,BC248795415,フリンター,0,Technology,Services,0.6498393779424654,semantic_conf,Services,0.722043753269406,Furniture,0.5239151954650879
+sofá,BC718779908,sofa,11,Furniture,Furniture,0.9882047176361084,zeroshot_high_conf,Technology,0.7904008043312989,Furniture,0.9882047176361084
+의자,BC739124632,의자,2,Furniture,Services,0.6648085694557017,semantic_conf,Services,0.738676188284113,Furniture,0.5232390701770783
+RDP software,BC996782035,rdp software,4,,Technology,0.6937522888183594,zeroshot_fallback,Furniture,0.7500713080466699,Technology,0.7708358764648438
+desk,BC317790892,desk,3,Furniture,Furniture,0.936634361743927,zeroshot_high_conf,Technology,0.7825004961337366,Furniture,0.936634361743927
+divan,BC654186806,divan,11,Furniture,Furniture,0.9006837606430054,zeroshot_high_conf,Technology,0.7780407083535157,Furniture,0.9006837606430054
+SAP business,BC147005473,sap business,4,,Furniture,0.688957215276442,semantic_conf,Furniture,0.7655080169738244,Technology,0.6740758419036865
+Used Office 365 E3,BC840831347,used office 365 e3,6,,Furniture,0.6854054549059769,semantic_conf,Furniture,0.7615616165621966,Technology,0.6896107792854309
+AutoCAD site license,BC858733870,autocad site license,15,,Furniture,0.6798389170642901,semantic_conf,Furniture,0.7553765745158779,Technology,0.6327301263809204
+Chair Model C-300,BC367063493,chair model c-300,1,,Furniture,0.9411923885345459,zeroshot_high_conf,Technology,0.7843248601129224,Furniture,0.9411923885345459
+sofa,BC544080348,sofa,11,Furniture,Furniture,0.9888992309570312,zeroshot_high_conf,Technology,0.7904008043312989,Furniture,0.9888992309570312
+SD-WAN service,BC834491630,sd-wan service,7,,Furniture,0.696889415350845,semantic_conf,Furniture,0.77432157261205,Technology,0.6276449918746948
+note book Pro,BC117504619,note book pro,8,,Services,0.8829339158704889,agreement,Services,0.7751504274776367,Services,0.5832094430923461
+server maintenance premium,BC805375110,server maintenance premium,4,Services,Furniture,0.6808192858368973,semantic_conf,Furniture,0.7564658731521081,Services,0.6708248853683472
+DSL,BC800916306,dsl,7,,Furniture,0.6773151367577817,semantic_conf,Furniture,0.752572374175313,Technology,0.6820215582847595
+desk,BC762562441,desk,3,Furniture,Furniture,0.936634361743927,zeroshot_high_conf,Technology,0.7825004961337366,Furniture,0.936634361743927
+gray Reception Sofa RS-100,BC298370042,gray reception sofa rs-100,5,,Furniture,0.9823344945907593,zeroshot_high_conf,Technology,0.7605280498540854,Furniture,0.9823344945907593
+Lenovo ThinkCentre,BC313867761,lenovo thinkcentre,8,,Technology,0.7000805318355561,zeroshot_fallback,Services,0.7726758214404968,Technology,0.7778672575950623
+executive work table,BC926438998,executive work table,10,Furniture,Technology,0.6858352384472325,semantic_conf,Technology,0.7620391538302583,Furniture,0.6694245934486389
+Knoll compact armario Model Pro-657,BC690814307,knoll compact armario model pro-657,1,,Technology,0.6955068071517858,semantic_conf,Technology,0.772785341279762,Furniture,0.6455127000808716
+VPN service subscription,BC368323917,vpn service subscription,17,,Furniture,0.679923249408957,semantic_conf,Furniture,0.7554702771210633,Services,0.6832794427871703
+Used workstation Model Pro-997,BC836527450,used workstation model pro-997,1,,Technology,0.8793048200002184,agreement,Technology,0.7835767026117016,Technology,0.5691999435424805
+TEKNION WHITE ARMARIO,BC145296783,teknion white armario,21,,Services,0.6693987434534059,semantic_conf,Services,0.7437763816148955,Technology,0.5633280873298645
+pantalla,BC469930807,pantalla,12,Technology,Services,0.670451242849585,semantic_conf,Services,0.7449458253884278,Furniture,0.5921171307563782
+Kyocera ECOSYS,BC649397669,kyocera ecosys,8,,Services,0.7005837225232233,semantic_conf,Services,0.778426358359137,Technology,0.6262960433959961
+dsplay 2022,BC256860613,dsplay 2022,8,Technology,Services,0.6774531566414942,semantic_conf,Services,0.7527257296016602,Technology,0.6637053489685059
+27-inch All-in-One professional,BC682756272,27-inch all-in-one professional,8,,Services,0.6791027688298334,semantic_conf,Services,0.7545586320331482,Technology,0.6619734764099121
+HP EliteDesk 2020,BC410950586,hp elitedesk 2020,8,,Services,0.6972650253090967,semantic_conf,Services,0.7747389170101074,Furniture,0.6825335025787354
+IKEA イス,BC808165309,ikea イス,0,,Furniture,0.8214616179466248,zeroshot_high_conf,Services,0.735887587669583,Furniture,0.8214616179466248
+dedicated line business,BC762441268,dedicated line business,4,Services,Furniture,0.8349183865085832,agreement,Furniture,0.7489649266303491,Furniture,0.5355248987674712
+drukarka Gen 2,BC411152157,drukarka gen 2,18,,Services,0.6735589375432732,semantic_conf,Services,0.7483988194925257,Furniture,0.4877363562583923
+sofa,BC248614668,sofa,11,Furniture,Furniture,0.9888992309570312,zeroshot_high_conf,Technology,0.7904008043312989,Furniture,0.9888992309570312
+compact work desk,BC202396373,compact work desk,3,Furniture,Technology,0.6896302616219865,semantic_conf,Technology,0.7662558462466517,Furniture,0.6492891311645508
+database support - Refurbished,BC282879331,database support - refurbished,13,,Furniture,0.6782387716801562,semantic_conf,Furniture,0.7535986352001736,Services,0.638612687587738
+مكتب,BC269840673,مكتب,19,Furniture,Technology,0.6804098858627735,semantic_conf,Technology,0.7560109842919706,Services,0.5413751363754272
+Steelcase 소파,BC977516280,steelcase 소파,16,,Furniture,0.8575128316879272,zeroshot_high_conf,Technology,0.7698639491499731,Furniture,0.8575128316879272
+Anti-virus basic subscription,BC712062546,anti-virus basic subscription,17,,Furniture,0.6891885649416413,semantic_conf,Furniture,0.7657650721573792,Technology,0.6558933019638061
+IKEA イス,BC522052175,ikea イス,0,,Furniture,0.8214616179466248,zeroshot_high_conf,Services,0.735887587669583,Furniture,0.8214616179466248
+office chair,BC125991885,office chair,19,Furniture,Furniture,0.8776630163192749,zeroshot_high_conf,Technology,0.7856174458169339,Furniture,0.8776630163192749
+bureau,BC545801065,bureau,19,Furniture,Technology,0.6866366340908466,semantic_conf,Technology,0.762929593434274,Furniture,0.6253193378448486
+ソフトウェア monthly,BC386541544,ソフトウェア monthly,0,Services,Services,0.666574913802527,semantic_conf,Services,0.7406387931139189,Furniture,0.5326915562152862
+security support per device license,BC933241446,security support per device license,15,Services,Furniture,0.6810059998508502,semantic_conf,Furniture,0.7566733331676113,Technology,0.5811075925827026
+خزانة Model C-949,BC771435478,خزانة model c-949,1,,Technology,0.7001339395675572,semantic_conf,Technology,0.777926599519508,Furniture,0.498926568031311
+lap top v2,BC162599172,lap top v2,8,Technology,Technology,0.9484474062919617,zeroshot_high_conf,Services,0.7707197162082581,Technology,0.9484474062919617
+couch Model A-882,BC427618008,couch model a-882,1,,Furniture,0.9614318013191223,zeroshot_high_conf,Technology,0.7794713134935071,Furniture,0.9614318013191223
+drukarka,BC502720908,drukarka,18,Technology,Services,0.6679821958478691,semantic_conf,Services,0.7422024398309657,Furniture,0.5107535541057586
+plastic divano Model X-967,BC133579936,plastic divano model x-967,1,,Technology,0.7061790486011419,semantic_conf,Technology,0.784643387334602,Furniture,0.53584024310112
+security support,BC764264860,security support,13,Services,Furniture,0.709772537473003,semantic_conf,Furniture,0.788636152747781,Services,0.7181601762771607
+HON mesh cabnit,BC714109940,hon mesh cabnit,16,,Technology,0.696441834506506,semantic_conf,Technology,0.7738242605627844,Furniture,0.5595422387123108
+large task chair,BC845095823,large task chair,14,Furniture,Furniture,0.7064505100250245,zeroshot_fallback,Technology,0.7710419823711411,Furniture,0.784945011138916
+Herman Miller Sayl,BC808777380,herman miller sayl,14,,Technology,0.6645177599774565,semantic_conf,Technology,0.7383530666416184,Furniture,0.6313327550888062
+cell phone plan business,BC171013341,cell phone plan business,4,Services,Furniture,0.6862832674653153,semantic_conf,Furniture,0.7625369638503503,Technology,0.7605301141738892
+white filing cabnet,BC427258676,white filing cabnet,16,Furniture,Technology,0.6879791431994381,semantic_conf,Technology,0.7644212702215979,Services,0.5831343412399291
+executive standing table,BC369183038,executive standing table,10,Furniture,Technology,0.6705034098530247,semantic_conf,Technology,0.745003788725583,Furniture,0.7187957763671875
+security support,BC641949014,security support,13,Services,Furniture,0.709772537473003,semantic_conf,Furniture,0.788636152747781,Services,0.7181601762771607
+managed services,BC752759821,managed services,7,Services,Services,0.9861924052238464,zeroshot_high_conf,Furniture,0.7793823049767046,Services,0.9861924052238464
+Global filing cabnet,BC356395115,global filing cabnet,16,,Technology,0.6870781891913357,semantic_conf,Technology,0.7634202102125952,Services,0.6248944759368896
+Teknion leather イス,BC427296749,teknion leather イス,21,,Services,0.6685967093137728,semantic_conf,Services,0.7428852325708586,Technology,0.496368134021759
+Azure subscription enterprise,BC278763625,azure subscription enterprise,6,,Furniture,0.6850915828070542,semantic_conf,Furniture,0.7612128697856158,Technology,0.6150217294692993
+كرسي,BC737670731,كرسي,19,Furniture,Technology,0.693502445438808,semantic_conf,Technology,0.7705582727097867,Services,0.5458600401878356
+schrank - Refurbished,BC140519046,schrank - refurbished,8,,Services,0.6960087858948816,semantic_conf,Services,0.7733430954387573,Furniture,0.5460926413536071
+deask,BC353622930,deask,20,Furniture,Services,0.811606150202884,agreement,Services,0.7337857694701256,Services,0.5148390769958496
+leather stuhl,BC772648626,leather stuhl,14,Furniture,Technology,0.6900766906129088,semantic_conf,Technology,0.7667518784587876,Furniture,0.7168408632278442
+mesa de trabajo,BC571070826,mesa de trabajo,10,Furniture,Technology,0.6641148707771733,semantic_conf,Technology,0.737905411974637,Services,0.5275980591773987
+B&W printer quiet,BC355419939,bw printer quiet,18,,Technology,0.6945391952991485,zeroshot_fallback,Services,0.7507167249185511,Technology,0.771710216999054
+برمجيات plan,BC262895422,برمجيات plan,4,Services,Furniture,0.672667194333754,semantic_conf,Furniture,0.7474079937041711,Services,0.6098267555236816
+Adobe CC limited,BC523400459,adobe cc limited,6,,Furniture,0.6773565211615464,semantic_conf,Furniture,0.7526183568461626,Technology,0.7089307904243469
+stoarge cabinet,BC343436246,stoarge cabinet,16,Furniture,Furniture,0.8879026770591736,zeroshot_high_conf,Technology,0.7745385626257727,Furniture,0.8879026770591736
+Workstation WS-Pro,BC677532596,workstation ws-pro,8,,Services,0.7008564495358576,semantic_conf,Services,0.7787293883731751,Technology,0.6441497206687927
+Herman Miller desk,BC672263097,herman miller desk,14,,Furniture,0.963202178478241,zeroshot_high_conf,Technology,0.7672132184093491,Furniture,0.963202178478241
+iCloud storage professional,BC662715631,icloud storage professional,7,,Technology,0.6980503678321839,zeroshot_fallback,Furniture,0.7640785740120439,Technology,0.7756115198135376
+IKEA filing cabnet Model Pro-794,BC835126913,ikea filing cabnet model pro-794,1,,Technology,0.7020276327762517,semantic_conf,Technology,0.7800307030847241,Furniture,0.6308228015899658
+Logiciel bureautique enterprise agreement,BC884679098,logiciel bureautique enterprise agreement,4,,Furniture,0.6843675264985184,semantic_conf,Furniture,0.7604083627761316,Technology,0.5460715413093566
+bildschirm enterprise,BC621162378,bildschirm enterprise,12,Technology,Services,0.7985804863897538,agreement,Services,0.7437015188240967,Services,0.4848838448524475
+compter v2,BC579166131,compter v2,21,Technology,Services,0.6545128052858339,semantic_conf,Services,0.7272364503175932,Technology,0.7184308171272278
+IKEA desk Model C-340,BC685861719,ikea desk model c-340,1,,Furniture,0.9759382605552673,zeroshot_high_conf,Technology,0.7794008608033826,Furniture,0.9759382605552673
+cloud backup site license,BC342958848,cloud backup site license,15,Services,Furniture,0.6817991827007343,semantic_conf,Furniture,0.7575546474452602,Technology,0.6737803459167481
+sofá,BC904441314,sofa,11,Furniture,Furniture,0.9882047176361084,zeroshot_high_conf,Technology,0.7904008639359437,Furniture,0.9882047176361084
+PC desktop used Max,BC214644955,piece desktop used max,8,,Services,0.6935349308762659,semantic_conf,Services,0.7705943676402954,Technology,0.6534984111785889
+Windows 10 Pro,BC313377873,windows 10 pro,8,,Technology,0.8480318784713745,zeroshot_high_conf,Services,0.775466689722815,Technology,0.8480318784713745
+CRM software volume license,BC930729364,crm software volume license,15,,Furniture,0.6803418312545825,semantic_conf,Furniture,0.7559353680606472,Technology,0.6274016499519348
+Herman Miller brown Steelcase Leap,BC604816257,herman miller brown steelcase leap,14,,Furniture,0.943423867225647,zeroshot_high_conf,Technology,0.7374753882473007,Furniture,0.943423867225647
+Anti virus per user,BC878647434,anti virus per user,17,,Furniture,0.6991667043421235,semantic_conf,Furniture,0.7768518937134705,Technology,0.6606124639511108
+chiar,BC927749187,chiar,21,Furniture,Services,0.6534893279699312,semantic_conf,Services,0.7260992532999235,Furniture,0.5226932883262634
+Teknion white armario,BC145296783,teknion white armario,21,,Technology,0.6753685891628266,zeroshot_fallback,Services,0.7437763816148955,Technology,0.7504095435142517
+DSL - Refurbished,BC800916306,dsl - refurbished,8,,Services,0.7023543023381342,semantic_conf,Services,0.7803936692645935,Technology,0.6633559465408325
+support technique,BC698826833,support technique,13,Services,Furniture,0.7050428373845019,semantic_conf,Furniture,0.7833809304272243,Services,0.6424530148506165

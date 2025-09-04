@@ -51,12 +51,33 @@ class AutoClusterMapper:
         self.category_assignments = {}
         self.category_centroids = {}
         
+        # Prepare enriched labels for zero-shot and mapping back to base categories
+        self.zero_shot_labels: List[str] = list(main_categories)
+        self.label_to_category: Dict[str, str] = {cat: cat for cat in main_categories}
+        try:
+            from user_categories import CATEGORY_DESCRIPTIONS  # optional
+            enriched: List[str] = []
+            for cat in main_categories:
+                desc = CATEGORY_DESCRIPTIONS.get(cat)
+                if desc:
+                    label = f"{cat}: {desc}"
+                    enriched.append(label)
+                    self.label_to_category[label] = cat
+                else:
+                    enriched.append(cat)
+            if enriched:
+                self.zero_shot_labels = enriched
+        except Exception:
+            # Descriptions not available; stick to plain names
+            pass
+
         # Zero-shot classifier (Approach 4)
         self.zero_shot_classifier = None
         if use_zero_shot:
             try:
+                # Initialize hybrid with enriched labels so batch classification uses them
                 self.zero_shot_classifier = create_hybrid_classifier(
-                    main_categories, use_gpt_fallback, openai_api_key
+                    self.zero_shot_labels, use_gpt_fallback, openai_api_key
                 )
                 logger.info("🤖 Zero-shot classifier initialized")
             except Exception as e:
@@ -278,10 +299,12 @@ class AutoClusterMapper:
             results = self.zero_shot_classifier.classify_batch(
                 representatives, threshold=self.confidence_threshold
             )
-            
-            for cluster_id, (category, confidence) in zip(cluster_ids, results):
-                zero_shot_assignments[cluster_id] = (category, confidence)
-                
+
+            for cluster_id, (pred_label, confidence) in zip(cluster_ids, results):
+                # Map enriched label back to base category name if needed
+                base_category = self.label_to_category.get(pred_label, pred_label)
+                zero_shot_assignments[cluster_id] = (base_category, confidence)
+
             logger.info(f"✅ Zero-shot enhanced {len(zero_shot_assignments)} cluster assignments")
             
         except Exception as e:
@@ -450,9 +473,11 @@ class AutoClusterMapper:
             'computer': ['pc', 'laptop', 'desktop', 'bilgisayar', 'ordenador'],
             'office': ['supplies', 'equipment', 'furniture', 'material'],
             'supply': ['pen', 'paper', 'notebook', 'kalem', 'defter'],
+            'service': ['services', 'support', 'subscription', 'license', 'licence', 'maintenance', 'saas', 'software', 'internet', 'cloud']
         }
         
-        category_words = [category] + semantic_groups.get(category, [])
+        category_key = category.lower().rstrip('s')
+        category_words = [category_key] + semantic_groups.get(category_key, [])
         
         for cat_word in category_words:
             if cat_word in word or word in cat_word:
@@ -482,9 +507,9 @@ class AutoClusterMapper:
             group_id = category_groups[i]
             group_info = category_meanings[group_id]
             
-            # **Priority 1: High-confidence zero-shot**
+            # **Priority 1: High-confidence zero-shot (slightly lower to favor correct service mappings)**
             if (cluster_id in zero_shot_assignments and 
-                zero_shot_assignments[cluster_id][1] >= 0.7):  # High confidence threshold
+                zero_shot_assignments[cluster_id][1] >= 0.6):  # High confidence threshold
                 category, confidence = zero_shot_assignments[cluster_id]
                 assignments[cluster_id] = (category, confidence)
                 logger.debug(f"Cluster {cluster_id}: Zero-shot assignment (high conf)")
@@ -505,9 +530,9 @@ class AutoClusterMapper:
                     assignments[cluster_id] = (embedding_category, final_confidence)
                     logger.debug(f"Cluster {cluster_id}: Agreement boost")
                 # If they disagree, use higher confidence
-                elif zero_conf > embedding_confidence:
+                elif zero_conf + 0.05 >= embedding_confidence:
                     assignments[cluster_id] = (zero_category, zero_conf)
-                    logger.debug(f"Cluster {cluster_id}: Zero-shot override")
+                    logger.debug(f"Cluster {cluster_id}: Zero-shot override (medium conf)")
                 else:
                     assignments[cluster_id] = (embedding_category, embedding_confidence)
                     logger.debug(f"Cluster {cluster_id}: Embedding wins")

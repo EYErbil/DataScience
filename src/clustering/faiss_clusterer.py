@@ -180,7 +180,8 @@ class FaissClusterer(BaseClusterer):
             similarities = similarities.flatten()
             
             # Mark low-similarity assignments as noise
-            threshold = 1 - self.similarity_threshold  # Convert to cosine similarity
+            # similarities are inner-product on normalized vectors ∈ [-1,1] ≈ cosine
+            threshold = self.similarity_threshold
             labels[similarities < threshold] = -1
             
             return labels

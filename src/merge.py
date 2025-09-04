@@ -294,15 +294,15 @@ class DataEnricher:
         try:
             from .ingest import CSVIngester
             from .normalize import TextNormalizer
-            from .embedding import NameEmbedder
-            from .cluster import NameClusterer
+            from .embedding import TfidfEncoder, HuggingFaceEncoder
+            from .clustering import FaissClusterer
         except ImportError:
             import sys
             sys.path.append('.')
             from ingest import CSVIngester
             from normalize import TextNormalizer
-            from embedding import NameEmbedder
-            from cluster import NameClusterer
+            from embedding import TfidfEncoder, HuggingFaceEncoder
+            from clustering import FaissClusterer
         
         logger.info(f"Starting enrichment pipeline for {file_path}")
         
@@ -329,16 +329,20 @@ class DataEnricher:
         else:
             embedding_column = 'name'
         
-        # 3. Generate embeddings
-        self.embedder = NameEmbedder()
-        embeddings = self.embedder.generate_embeddings(clean_data[embedding_column].tolist())
+        # 3. Generate embeddings using robust encoder
+        try:
+            encoder = HuggingFaceEncoder()
+            encoder.fit(clean_data[embedding_column].tolist())
+        except Exception:
+            encoder = TfidfEncoder()
+            encoder.fit(clean_data[embedding_column].tolist())
+        embeddings = encoder.encode(clean_data[embedding_column].tolist())
         
         # 4. Cluster similar names
-        self.clusterer = NameClusterer(clustering_method)
-        cluster_labels = self.clusterer.fit(
-            embeddings, 
-            clean_data[embedding_column].tolist(),
-            similarity_threshold=similarity_threshold
+        clusterer = FaissClusterer(similarity_threshold=similarity_threshold)
+        cluster_labels = clusterer.fit_predict(
+            embeddings,
+            clean_data[embedding_column].tolist()
         )
         
         clean_data['cluster_id'] = cluster_labels

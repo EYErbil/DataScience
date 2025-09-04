@@ -99,8 +99,24 @@ class ProductCategorizationPipeline:
         # Step 6: Save Results
         if output_path:
             final_results = self._prepare_final_results()
-            save_dataframe(final_results, Path(output_path).stem)
-            logger.info(f"💾 Results saved to {output_path}")
+            # Save to the exact requested path
+            output_path = Path(output_path)
+            output_path.parent.mkdir(parents=True, exist_ok=True)
+            from .io_utils import OUTPUT_FORMAT
+            # Use user-specified extension if provided, otherwise default
+            if output_path.suffix:
+                if output_path.suffix == '.feather':
+                    final_results.to_feather(output_path, compression=COMPRESSION)
+                elif output_path.suffix == '.parquet':
+                    final_results.to_parquet(output_path, compression=COMPRESSION, index=False)
+                elif output_path.suffix == '.csv':
+                    final_results.to_csv(output_path, index=False)
+                else:
+                    # Fallback to default managed save
+                    save_dataframe(final_results, output_path.stem)
+            else:
+                save_dataframe(final_results, output_path.stem)
+            logger.info(f"💾 Results saved to {str(output_path)}")
         
         # Pipeline summary
         elapsed = time.time() - start_time
@@ -122,8 +138,15 @@ class ProductCategorizationPipeline:
             if Path(csv_path).stat().st_size > 100 * 1024 * 1024:  # > 100MB
                 logger.info("📡 Large file detected, using streaming ingestion")
                 all_chunks = []
+                # Detect columns on the first chunk, reuse for subsequent chunks
+                detected = False
                 for chunk in stream_csv(csv_path, CHUNK_SIZE, MAX_ROWS):
-                    clean_chunk = self.ingester.load_csv_data(chunk)
+                    # Set internal data for detection/cleaning
+                    self.ingester.data = chunk
+                    if not detected:
+                        self.ingester.detect_columns()
+                        detected = True
+                    clean_chunk = self.ingester.get_clean_data()
                     all_chunks.append(clean_chunk)
                 clean_data = pd.concat(all_chunks, ignore_index=True)
             else:
@@ -153,8 +176,11 @@ class ProductCategorizationPipeline:
                 batch_normalized = [self.normalizer.normalize_multilingual(name) for name in batch]
                 normalized_names.extend(batch_normalized)
                 
-                if i % (batch_size * 10) == 0:
-                    logger.info(f"Normalized {i:,}/{len(self.clean_data):,} items")
+                # Improved progress logging: log at start, ~10% steps, and end
+                processed = min(i + batch_size, len(self.clean_data))
+                step = max(batch_size, max(1, len(self.clean_data) // 10))
+                if i == 0 or processed == len(self.clean_data) or processed % step == 0:
+                    logger.info(f"Normalized {processed:,}/{len(self.clean_data):,} items")
             
             self.clean_data['normalized_name'] = normalized_names
             
@@ -214,11 +240,19 @@ class ProductCategorizationPipeline:
             
             # Choose clusterer
             if self.clusterer_type == 'faiss':
-                self.clusterer = FaissClusterer(
-                    similarity_threshold=SIMILARITY_THRESHOLD,
-                    min_cluster_size=MIN_CLUSTER_SIZE,
-                    max_clusters=MAX_CLUSTERS
-                )
+                try:
+                    from .clustering import EnhancedFaissClusterer
+                    self.clusterer = EnhancedFaissClusterer(
+                        similarity_threshold=SIMILARITY_THRESHOLD,
+                        min_cluster_size=MIN_CLUSTER_SIZE,
+                        max_clusters=MAX_CLUSTERS
+                    )
+                except Exception:
+                    self.clusterer = FaissClusterer(
+                        similarity_threshold=SIMILARITY_THRESHOLD,
+                        min_cluster_size=MIN_CLUSTER_SIZE,
+                        max_clusters=MAX_CLUSTERS
+                    )
             elif self.clusterer_type == 'hdbscan':
                 self.clusterer = HdbscanClusterer(
                     min_cluster_size=MIN_CLUSTER_SIZE
@@ -248,7 +282,22 @@ class ProductCategorizationPipeline:
         with smart_cache("category_analysis", self.force_rebuild) as cache:
             if cache.exists:
                 logger.info("📂 Loading cached category analysis")
-                return cache.load()
+
+                analysis_df = cache.load()
+
+                # Ensure mapper exists even when loading from cache so that
+                # downstream summary logging can call its helpers safely
+                if self.mapper is None:
+                    try:
+                        self.mapper = AutoClusterMapper(
+                            main_categories=self.main_categories,
+                            confidence_threshold=CATEGORY_CONFIDENCE_THRESHOLD
+                        )
+                    except Exception as e:
+                        logger.warning(f"Failed to initialize mapper after cache load: {e}")
+                        self.mapper = None
+
+                return analysis_df
             
             logger.info("🔄 Running category assignment...")
             
@@ -315,10 +364,23 @@ class ProductCategorizationPipeline:
         
         # Category breakdown
         if self.analysis_df is not None:
-            summary = self.mapper.get_category_summary(self.analysis_df)
-            logger.info("\n📈 Final Category Distribution:")
-            for _, row in summary.iterrows():
-                logger.info(f"  {row['category']}: {row['total_items']} items ({row['percentage']:.1f}%)")
+            try:
+                if self.mapper is not None and hasattr(self.mapper, "get_category_summary"):
+                    summary = self.mapper.get_category_summary(self.analysis_df)
+                else:
+                    # Fallback summary if mapper is unavailable
+                    summary = (self.analysis_df
+                               .groupby('category', as_index=False)['total_items']
+                               .sum())
+                    total_items = summary['total_items'].sum()
+                    total_items = total_items if total_items else 1
+                    summary['percentage'] = (summary['total_items'] / total_items * 100).round(1)
+
+                logger.info("\n📈 Final Category Distribution:")
+                for _, row in summary.iterrows():
+                    logger.info(f"  {row['category']}: {row['total_items']} items ({row['percentage']:.1f}%)")
+            except Exception as e:
+                logger.warning(f"Failed to log category summary: {e}")
         
         logger.info("=" * 60)
 

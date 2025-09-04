@@ -77,7 +77,8 @@ class ZeroShotClassifier:
             logger.info(f"🔍 Zero-shot classifying batch {i//batch_size + 1}: {len(batch_texts)} items")
             
             try:
-                batch_results = self.classifier(batch_texts, candidate_labels)
+                # Use transformers pipeline with explicit truncation to avoid long inputs
+                batch_results = self.classifier(batch_texts, candidate_labels, truncation=True)
                 
                 # Ensure results are in list format (single item vs batch)
                 if not isinstance(batch_results, list):
